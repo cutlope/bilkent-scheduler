@@ -1,5 +1,3 @@
-from platform import python_branch
-from tkinter import N
 import requests
 import json
 from bs4 import BeautifulSoup
