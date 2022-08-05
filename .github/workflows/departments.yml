@@ -1,0 +1,30 @@
+name: Scrape Departments Data
+
+on:
+  schedule:
+    - cron: 0 0 1 * *
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: "Reason"
+        required: true
+        default: "warning"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@master
+      - name: Add Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - name: Scrape Departments
+        run: python ./scrapers/fetch-departments.py
+      - name: Commit Back Changed Data
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Latest Department data: ${timestamp}"
+          file_pattern: data/*.json
