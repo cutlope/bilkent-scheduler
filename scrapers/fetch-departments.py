@@ -18,5 +18,5 @@ for row in rows[1:]:
 base_path = Path(__file__).parent
 file_path = (base_path / "../data/departments.json").resolve()
 
-with open(file_path,"w") as f:
+with open(file_path,"w+") as f:
   f.write(str(departments))
