@@ -26,7 +26,7 @@ jobs:
       - name: Scrape Semester
         run: |
           pip install requests beautifulsoup4
-          python ./scrapers/fetch-semesters.py
+          python ./scrapers/fetch-semester.py
       - name: Get Time
         id: time
         uses: nanzm/get-time-action@v1.1
