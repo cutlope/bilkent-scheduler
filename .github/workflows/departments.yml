@@ -25,8 +25,14 @@ jobs:
         run: |
           pip install requests beautifulsoup4
           python ./scrapers/fetch-departments.py
+      - name: Get Time
+        id: time
+        uses: nanzm/get-time-action@v1.1
+        with:
+          format: "DD-MM-YYYY"
       - name: Commit Back Changed Data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Latest Department data: ${timestamp}"
+          commit_message: "Latest Department data: ${{ steps.time.outputs.time }}"
+          commit_author: Author <actions@github.com>
           file_pattern: data/*.json
