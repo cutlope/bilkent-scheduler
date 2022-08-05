@@ -2,8 +2,9 @@ name: Scrape Latest Semester
 
 on:
   schedule:
-    - cron: "*/0 0 1 * *"
-    - cron: "*/0 0 15 * *"
+    - cron: 0 0 1 * 0
+    - cron: 0 0 16 * *
+
   workflow_dispatch:
     inputs:
       logLevel:
