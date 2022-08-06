@@ -38,7 +38,9 @@ for department in departments:
                 "name": cells[1].text,
                 "section": {
                     code[1]: {
-                        "instructor" : instructor
+                        "instructor" : instructor,
+                        "schedule" : {}
+
                 },
             }}})
         res = dict()
@@ -51,10 +53,10 @@ for department in departments:
 
         courses[departmentCode] = res
 
-result = []
-for department in courses:
-    result.append({department: courses[department]})
+# result = []
+# for department in courses:
+#     result.append({department: courses[department]})
 
 file_path = (base_path / "../data/courses.json").resolve()
 with open(file_path, "w+", encoding="utf-8") as f:
-    json.dump(result, f, ensure_ascii=False, indent=2)
+    json.dump(courses, f, ensure_ascii=False, indent=2)
