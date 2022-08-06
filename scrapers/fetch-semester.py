@@ -39,7 +39,7 @@ for link in checkLinks:
                          "year": year,
                          "name": name})
         with open(file_path, 'w+') as f:
-            json.dump(semesters, f)
+            json.dump(semesters, f, indent=2 )
         print("Added semester " + str(checkSemester))
         break  # break the loop if the semester is found
         exit(0)
