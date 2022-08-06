@@ -1,4 +1,4 @@
-name: Scrape Latest Semester
+name: Scrape Latest Courses
 
 on:
   schedule:
@@ -12,6 +12,8 @@ on:
         required: true
         default: "warning"
 
+  workflow_call: {}
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,10 +25,13 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
-      - name: Scrape Semester
+      - name: Scrape Courses
         run: |
           pip install requests beautifulsoup4
-          python ./scrapers/fetch-semester.py
+          python ./scrapers/fetch-courses.py
+      - name: "Run Schedule Scraper if coures have been Changed"
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: python ./scrapers/fetch-schedule.py
       - name: Get Time
         id: time
         uses: nanzm/get-time-action@v1.1
@@ -35,9 +40,6 @@ jobs:
       - name: Commit Back Changed Data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Latest Semester data: ${{ steps.time.outputs.time }}"
+          commit_message: "Latest courses data: ${{ steps.time.outputs.time }}"
           commit_author: Author <actions@github.com>
           file_pattern: data/*.json
-      - name: "Fetch Courses if new semester"
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        uses: ./github/workflows/offerings.yml
