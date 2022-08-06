@@ -20,8 +20,7 @@ with open(file_path, 'r') as f:
 
 for department in departments:
     departmentCode = department.get("code")
-    url = "https://stars.bilkent.edu.tr/homepage/ajax/plainOfferings.php?COURSE_CODE={departmentCode}&SEMESTER={semesterCode}".format(
-        departmentCode=departmentCode, semesterCode=semesterCode)
+    url = "https://stars.bilkent.edu.tr/homepage/ajax/plainOfferings.php?COURSE_CODE={departmentCode}&SEMESTER={semesterCode}".format(departmentCode=departmentCode, semesterCode=semesterCode)
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
     tables = soup.findChildren('table')
@@ -34,13 +33,14 @@ for department in departments:
             cells = row.findChildren('td')
             courseCode = cells[0].text
             code = cells[0].text.split("-")
+            instructor =  cells[2].text.strip().replace('\xa0\xa0',' & ')
             offerings.append({code[0]: {
                 "name": cells[1].text,
                 "section": {
                     code[1]: {
-                        "instructor": cells[2].text.strip(),
-                    },
-                }}})
+                        "instructor" : instructor
+                },
+            }}})
         res = dict()
         for item in offerings:
             for list in item:
@@ -57,4 +57,4 @@ for department in courses:
 
 file_path = (base_path / "../data/courses.json").resolve()
 with open(file_path, "w+", encoding="utf-8") as f:
-    f.write(str(result))
+    json.dump(result, f, ensure_ascii=False, indent=2)
