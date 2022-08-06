@@ -1,3 +1,4 @@
+import json
 import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
@@ -19,4 +20,4 @@ base_path = Path(__file__).parent
 file_path = (base_path / "../data/departments.json").resolve()
 
 with open(file_path,"w+") as f:
-  f.write(str(departments))
+   json.dump(departments, f, indent=2)
