@@ -1,1 +1,194 @@
-[{'code': 'ACC'}, {'code': 'ADA'}, {'code': 'AMER'}, {'code': 'ARCH'}, {'code': 'BF'}, {'code': 'BTE'}, {'code': 'CHEM'}, {'code': 'CI'}, {'code': 'CINT'}, {'code': 'COMD'}, {'code': 'CS'}, {'code': 'CTE'}, {'code': 'CTIS'}, {'code': 'ECON'}, {'code': 'EDEB'}, {'code': 'EEE'}, {'code': 'EEPS'}, {'code': 'ELIT'}, {'code': 'ELS'}, {'code': 'EMBA'}, {'code': 'ENG'}, {'code': 'ETE'}, {'code': 'FA'}, {'code': 'FRP'}, {'code': 'GE'}, {'code': 'GRA'}, {'code': 'HART'}, {'code': 'HCIV'}, {'code': 'HIST'}, {'code': 'HUM'}, {'code': 'IAED'}, {'code': 'IE'}, {'code': 'IELTS'}, {'code': 'IR'}, {'code': 'LAUD'}, {'code': 'LAW'}, {'code': 'LNG'}, {'code': 'MAN'}, {'code': 'MATH'}, {'code': 'MBA'}, {'code': 'MBG'}, {'code': 'ME'}, {'code': 'MIAPP'}, {'code': 'MSC'}, {'code': 'MSN'}, {'code': 'MTE'}, {'code': 'MUS'}, {'code': 'NSC'}, {'code': 'PE'}, {'code': 'PHIL'}, {'code': 'PHYS'}, {'code': 'POLS'}, {'code': 'PREP'}, {'code': 'PSYC'}, {'code': 'SFL'}, {'code': 'SOC'}, {'code': 'TE'}, {'code': 'TEFL'}, {'code': 'THEA'}, {'code': 'THM'}, {'code': 'THR'}, {'code': 'TOEFL'}, {'code': 'TRIN'}, {'code': 'TURK'}]
+[
+  {
+    "code": "ACC"
+  },
+  {
+    "code": "ADA"
+  },
+  {
+    "code": "AMER"
+  },
+  {
+    "code": "ARCH"
+  },
+  {
+    "code": "BF"
+  },
+  {
+    "code": "BTE"
+  },
+  {
+    "code": "CHEM"
+  },
+  {
+    "code": "CI"
+  },
+  {
+    "code": "CINT"
+  },
+  {
+    "code": "COMD"
+  },
+  {
+    "code": "CS"
+  },
+  {
+    "code": "CTE"
+  },
+  {
+    "code": "CTIS"
+  },
+  {
+    "code": "ECON"
+  },
+  {
+    "code": "EDEB"
+  },
+  {
+    "code": "EEE"
+  },
+  {
+    "code": "EEPS"
+  },
+  {
+    "code": "ELIT"
+  },
+  {
+    "code": "ELS"
+  },
+  {
+    "code": "EMBA"
+  },
+  {
+    "code": "ENG"
+  },
+  {
+    "code": "ETE"
+  },
+  {
+    "code": "FA"
+  },
+  {
+    "code": "FRP"
+  },
+  {
+    "code": "GE"
+  },
+  {
+    "code": "GRA"
+  },
+  {
+    "code": "HART"
+  },
+  {
+    "code": "HCIV"
+  },
+  {
+    "code": "HIST"
+  },
+  {
+    "code": "HUM"
+  },
+  {
+    "code": "IAED"
+  },
+  {
+    "code": "IE"
+  },
+  {
+    "code": "IELTS"
+  },
+  {
+    "code": "IR"
+  },
+  {
+    "code": "LAUD"
+  },
+  {
+    "code": "LAW"
+  },
+  {
+    "code": "LNG"
+  },
+  {
+    "code": "MAN"
+  },
+  {
+    "code": "MATH"
+  },
+  {
+    "code": "MBA"
+  },
+  {
+    "code": "MBG"
+  },
+  {
+    "code": "ME"
+  },
+  {
+    "code": "MIAPP"
+  },
+  {
+    "code": "MSC"
+  },
+  {
+    "code": "MSN"
+  },
+  {
+    "code": "MTE"
+  },
+  {
+    "code": "MUS"
+  },
+  {
+    "code": "NSC"
+  },
+  {
+    "code": "PE"
+  },
+  {
+    "code": "PHIL"
+  },
+  {
+    "code": "PHYS"
+  },
+  {
+    "code": "POLS"
+  },
+  {
+    "code": "PREP"
+  },
+  {
+    "code": "PSYC"
+  },
+  {
+    "code": "SFL"
+  },
+  {
+    "code": "SOC"
+  },
+  {
+    "code": "TE"
+  },
+  {
+    "code": "TEFL"
+  },
+  {
+    "code": "THEA"
+  },
+  {
+    "code": "THM"
+  },
+  {
+    "code": "THR"
+  },
+  {
+    "code": "TOEFL"
+  },
+  {
+    "code": "TRIN"
+  },
+  {
+    "code": "TURK"
+  }
+]
