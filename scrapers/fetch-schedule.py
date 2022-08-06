@@ -20,7 +20,6 @@ for depart in allCourses:
         for sectionNo in allCourses[depart][courseCode].get("section"):
             sectionCode = courseCode + "-" + sectionNo
             url = "https://stars.bilkent.edu.tr/homepage/ajax/schedule.php?COURSE={sectionCode}&SEMESTER={semesterCode}".format(sectionCode=sectionCode, semesterCode=semesterCode)
-            print(url)
             page = requests.get(url)
             soup = BeautifulSoup(page.content, "html.parser")
             table = soup.findChildren('table')

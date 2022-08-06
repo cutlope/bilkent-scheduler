@@ -1,4 +1,4 @@
-name: Scrape Latest Courses
+name: Scrape Latest Schedule
 
 on:
   schedule:
@@ -6,7 +6,6 @@ on:
     - cron: 0 0 16 * *
 
   workflow_dispatch: {}
-  workflow_call: {}
 
 jobs:
   build:
@@ -22,15 +21,7 @@ jobs:
       - name: Scrape Courses
         run: |
           pip install requests beautifulsoup4
-          python ./scrapers/fetch-courses.py
-      - name: Verify Changed files
-        uses: tj-actions/verify-changed-files@v10.1
-        id: verify-changed-files
-        with:
-          files: data/courses.json
-      - name: Run step only when files change.
-        if: steps.verify-changed-files.outputs.files_changed == 'true'
-        run: python ./scrapers/fetch-schedule.py
+          python ./scrapers/fetch-schedule.py
       - name: Get Time
         id: time
         uses: nanzm/get-time-action@v1.1
@@ -39,6 +30,6 @@ jobs:
       - name: Commit Back Changed Data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Latest courses data: ${{ steps.time.outputs.time }}"
+          commit_message: "Latest Schedule data: ${{ steps.time.outputs.time }}"
           commit_author: Author <actions@github.com>
           file_pattern: data/*.json
