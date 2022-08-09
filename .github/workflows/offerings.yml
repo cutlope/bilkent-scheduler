@@ -39,6 +39,6 @@ jobs:
       - name: Commit Back Changed Data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Latest courses data: ${{ steps.time.outputs.time }}"
+          commit_message: "Latest Courses data: ${{ steps.time.outputs.time }}"
           commit_author: Author <actions@github.com>
           file_pattern: data/*.json

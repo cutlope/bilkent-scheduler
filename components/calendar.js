@@ -1,7 +1,6 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { useRef } from "react";
 
-
 export default function Calendar() {
   const container = useRef(null);
   const containerNav = useRef(null);
@@ -32,7 +31,7 @@ export default function Calendar() {
               <button
                 type="button"
                 className="flex flex-col items-center pt-2 pb-3">
-                W <span className="flex items-center justify-center w-8 h-8 mt-1 font-semibold text-white bg-indigo-600 rounded-full">12</span>
+                W
               </button>
               <button
                 type="button"
