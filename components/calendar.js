@@ -1,11 +1,32 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { useRef } from "react";
 
-export default function Calendar() {
+const prepList = (list) => {
+  const newList = [];
+  const result = [];
+  if (list) {
+    Object.entries(list.timeslots).forEach((slot, value) => {
+      newList.push(slot);
+    });
+  }
+  result.push(newList);
+  result.push(list?.courses);
+  return result;
+};
+
+const calculateGrid = (timeslot) => {
+  let baseGridRow = 2;
+  let time = parseInt(timeslot) + 1;
+  let row = baseGridRow + Math.floor(time / 7) * 2;
+  let column = time % 7;
+
+  return [row, column];
+};
+
+export default function Calendar({ schedule }) {
   const container = useRef(null);
   const containerNav = useRef(null);
   const containerOffset = useRef(null);
-
   return (
     <div className="flex flex-col max-h-min">
       <div
@@ -142,23 +163,30 @@ export default function Calendar() {
               </div>
 
               {/* Events */}
+
               <ol
                 className="grid grid-cols-1 col-start-1 col-end-2 row-start-1 sm:grid-cols-7 sm:pr-8"
                 style={{
                   gridTemplateRows: "1.75rem repeat(18, minmax(0, 1fr)) auto",
                 }}>
-                <li
-                  className="relative flex mt-px sm:col-start-3"
-                  style={{ gridRow: "4 / span 2" }}>
-                  <a
-                    href="#"
-                    className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-blue-50 hover:bg-blue-100">
-                    <p className="order-1 font-semibold text-blue-700">Breakfast</p>
-                    <p className="text-blue-500 group-hover:text-blue-700">
-                      <time dateTime="2022-01-12T06:00">6:00 AM</time>
-                    </p>
-                  </a>
-                </li>
+                {prepList(schedule)[0].map((event, index) => {
+                  return (
+                    <li
+                      key={index}
+                      className="relative flex mt-px z-50 mb-2 "
+                      style={{ gridRow: `${calculateGrid(event[0])[0]} / span 2`, gridColumnStart: `${calculateGrid(event[0])[1]}` }}>
+                      <a
+                        href="#"
+                        className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-blue-50 hover:bg-blue-100 ">
+                        <p className="order-1 font-semibold text-blue-700">{prepList(schedule)[1][event[1].course].courseCode} </p>
+                        <p className="text-blue-500 group-hover:text-blue-700">
+                          <time dateTime="2022-01-12T06:00">{event[1].classroom || "N/A"}</time>
+                        </p>
+                      </a>
+                    </li>
+                  );
+                })}
+
                 <li
                   className="relative flex mt-px sm:col-start-3"
                   style={{ gridRow: "8 / span 5" }}>
