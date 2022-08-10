@@ -106,6 +106,8 @@ const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections
         schedules = newSchedules;
       }
     }
+    return schedules;
   };
 
-export { reduceOfferings, getUniqueInstructorList, getSections, getInstructors, getNotOverlappingSections, getFilteredCourses, prepareSchedules };
+  
+export { reduceOfferings, getUniqueInstructorList, getSections,  getFilteredCourses, prepareSchedules };

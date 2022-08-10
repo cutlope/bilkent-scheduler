@@ -1,6 +1,18 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { useRef } from "react";
 
+const colors = [
+    "indigo",
+    "pink",
+    "blue",
+    "teal",
+    "red",
+    "emerald",
+    "yellow",
+    "orange",
+    "slate"
+]
+
 const prepList = (list) => {
   const newList = [];
   const result = [];
@@ -176,10 +188,9 @@ export default function Calendar({ schedule }) {
                       className="relative flex mt-px z-50 mb-2 "
                       style={{ gridRow: `${calculateGrid(event[0])[0]} / span 2`, gridColumnStart: `${calculateGrid(event[0])[1]}` }}>
                       <a
-                        href="#"
-                        className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-blue-50 hover:bg-blue-100 ">
-                        <p className="order-1 font-semibold text-blue-700">{prepList(schedule)[1][event[1].course].courseCode} </p>
-                        <p className="text-blue-500 group-hover:text-blue-700">
+                        className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-red-50 hover:bg-red-100 ">
+                        <p className="order-1 font-semibold text-red-700">{prepList(schedule)[1][event[1].course].courseCode} </p>
+                        <p className="text-red-500 group-hover:text-red-700">
                           <time dateTime="2022-01-12T06:00">{event[1].classroom || "N/A"}</time>
                         </p>
                       </a>
@@ -187,30 +198,6 @@ export default function Calendar({ schedule }) {
                   );
                 })}
 
-                <li
-                  className="relative flex mt-px sm:col-start-3"
-                  style={{ gridRow: "8 / span 5" }}>
-                  <a
-                    href="#"
-                    className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-pink-50 hover:bg-pink-100">
-                    <p className="order-1 font-semibold text-pink-700">Flight to Paris</p>
-                    <p className="text-pink-500 group-hover:text-pink-700">
-                      <time dateTime="2022-01-12T09:30">7:30 AM</time>
-                    </p>
-                  </a>
-                </li>
-                <li
-                  className="relative hidden mt-px sm:col-start-6 sm:flex"
-                  style={{ gridRow: "4 / span 5" }}>
-                  <a
-                    href="#"
-                    className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 bg-gray-100 rounded-lg group inset-1 hover:bg-gray-200">
-                    <p className="order-1 font-semibold text-gray-700">Meeting with design team at Disney</p>
-                    <p className="text-gray-500 group-hover:text-gray-700">
-                      <time dateTime="2022-01-15T10:00">10:00 AM</time>
-                    </p>
-                  </a>
-                </li>
               </ol>
             </div>
           </div>

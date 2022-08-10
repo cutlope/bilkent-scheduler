@@ -3,14 +3,14 @@ import Link from "next/link";
 import semesters from "../data/semesters.json";
 import departments from "../data/departments.json";
 import courses from "../data/courses.json";
-import { SearchCircleIcon, UserIcon } from "@heroicons/react/outline";
 import { Listbox, Transition } from "@headlessui/react";
 import { CheckIcon, SelectorIcon } from "@heroicons/react/solid";
 import { useState, Fragment } from "react";
 import Calendar from "../components/calendar";
 import Select from "react-select";
 import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon } from "@heroicons/react/solid";
-import { reduceOfferings, getUniqueInstructorList, getSections, getInstructors, getNotOverlappingSections, getFilteredCourses, prepareSchedules } from "../utils/functions";
+import { reduceOfferings, getUniqueInstructorList, getSections, getFilteredCourses, prepareSchedules } from "../utils/functions";
+import { useUpdateEffect } from "react-use";
 
 const customStyles = {
   input: (provided, state) => ({
@@ -22,13 +22,14 @@ const customStyles = {
 };
 
 export default function Home() {
-  const listings = [];
   const [selectedDepartment, setSelectedDepartment] = useState([]);
   const [selectedSemester, setSelectedSemester] = useState(semesters[0]);
   const [selectedCourses, setSelectedCourses] = useState([]);
   const [filteredSections, setFilteredSections] = useState([]);
   const [filteredInstructors, setFilteredInstructors] = useState([]);
   const reducedOfferings = Object.entries(courses).reduce(reduceOfferings, []);
+  const [schedules, setSchedules] = useState([]);
+  const [selectedSchedule, setSelectedSchedule] = useState(0);
 
   function handleDepartmentSelection(department) {
     setSelectedDepartment(department);
@@ -46,6 +47,37 @@ export default function Home() {
     setFilteredSections(section);
   }
 
+  function handleNextSchedule() {
+    if (selectedSchedule < schedules.length - 1) {
+      setSelectedSchedule(selectedSchedule + 1);
+    } else {
+      setSelectedSchedule(0);
+    }
+  }
+
+  function handlePreviousSchedule() {
+    if (selectedSchedule > 0) {
+      setSelectedSchedule(selectedSchedule - 1);
+    } else {
+      setSelectedSchedule(schedules.length - 1);
+    }
+  }
+
+  function scheduleArray(schedules) {
+    let arr = [];
+    schedules.length > 0 ? schedules.map((schedule) => arr.push(<Calendar schedule={schedule} />)) : arr.push(<Calendar />);
+    return arr;
+  }
+
+  useUpdateEffect(() => {
+    let schedule = prepareSchedules(selectedCourses, filteredInstructors, filteredSections);
+    setSchedules(schedule);
+  }, [selectedCourses, filteredSections, filteredInstructors]);
+
+  useUpdateEffect(() => {
+    setSelectedSchedule(0);
+  }, [selectedCourses, filteredSections, filteredInstructors]);
+
   return (
     <>
       <div className="bg-gray-100 pb-5">
@@ -53,7 +85,7 @@ export default function Home() {
           <section className="relative py-4 leading-6 text-gray-900 bg-gray-100 md:md:py-16">
             <div className="mx-auto w-full text-gray-900 max-w-screen-2xl">
               <div className="flex flex-wrap">
-                <div className="flex-none w-full max-w-full md:flex-none md:w-1/3 lg:flex-none lg:w-1/5 pr-2">
+                <div className="flex-none w-full max-w-full lg:flex-none lg:w-1/5 pr-2">
                   <div className="box-border">
                     <div className="p-4 mb-8 bg-white rounded-md border border-gray-200 border-solid">
                       <h3 className="block mb-6 text-lg font-semibold xl:text-3xl leading-5">Courses</h3>
@@ -126,6 +158,10 @@ export default function Home() {
                               backgroundColor: "#f5f5f5",
                               borderRadius: "8px",
                             }),
+                            menu: (base) => ({
+                              ...base,
+                              zIndex: "50",
+                            }),
                           }}
                           isMulti
                           isClearable
@@ -143,7 +179,13 @@ export default function Home() {
                             value: course,
                             label: course.courseCode,
                           }))}
-                          styles={customStyles}
+                          styles={{
+                            ...customStyles,
+                            menu: (base) => ({
+                              ...base,
+                              zIndex: "50",
+                            }),
+                          }}
                           isMulti
                           isClearable
                           isSearchable
@@ -161,7 +203,13 @@ export default function Home() {
                             label: course.value.courseCode,
                             options: getUniqueInstructorList(course.value.section),
                           }))}
-                          styles={customStyles}
+                          styles={{
+                            ...customStyles,
+                            menu: (base) => ({
+                              ...base,
+                              zIndex: "50",
+                            }),
+                          }}
                           isMulti
                           isClearable
                           isSearchable
@@ -181,7 +229,13 @@ export default function Home() {
                             label: section[0],
                           })),
                         }))}
-                        styles={customStyles}
+                        styles={{
+                          ...customStyles,
+                          menu: (base) => ({
+                            ...base,
+                            zIndex: "50",
+                          }),
+                        }}
                         isMulti
                         isClearable
                         isSearchable
@@ -190,67 +244,37 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="flex-none w-full max-w-full md:ml-4  md:flex-none md:w-2/3 lg:flex-none lg:w-3/4 ">
+                <div className="flex-none w-full max-w-full md:mx-2 md:flex-none  lg:flex-none lg:w-3/4 ">
                   <div className="pb-4 pr-4 pl-5 bg-white">
                     <div className="flex flex-wrap items-center">
                       <div className="flex-none w-full max-w-full md:flex-none lg:flex-none ">
                         <nav className="border-t border-gray-200 px-4 flex items-center justify-between sm:px-0">
                           <div className="-mt-px w-0 flex-1 flex">
-                            <a
-                              href="#"
+                            <button
+                              onClick={handlePreviousSchedule}
                               className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
                               <ArrowNarrowLeftIcon
                                 className="mr-3 h-5 w-5 text-gray-400"
                                 aria-hidden="true"
                               />
                               Previous
-                            </a>
+                            </button>
                           </div>
                           <div className="hidden md:-mt-px md:flex">
-                            <a
-                              href="#"
-                              className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
-                              1
-                            </a>
-                            {/* Current: "border-indigo-500 text-indigo-600", Default: "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300" */}
-                            <a
-                              href="#"
-                              className="border-indigo-500 text-indigo-600 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium"
-                              aria-current="page">
-                              2
-                            </a>
-                            <a
-                              href="#"
-                              className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
-                              3
-                            </a>
-                            <span className="border-transparent text-gray-500 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">...</span>
-                            <a
-                              href="#"
-                              className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
-                              8
-                            </a>
-                            <a
-                              href="#"
-                              className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
-                              9
-                            </a>
-                            <a
-                              href="#"
-                              className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
-                              10
+                            <a className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
+                              {schedules.length > 0 ? selectedSchedule + 1 : 0} / {schedules.length}
                             </a>
                           </div>
                           <div className="-mt-px w-0 flex-1 flex justify-end">
-                            <a
-                              href="#"
+                            <button
+                              onClick={handleNextSchedule}
                               className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
                               Next
                               <ArrowNarrowRightIcon
                                 className="ml-3 h-5 w-5 text-gray-400"
                                 aria-hidden="true"
                               />
-                            </a>
+                            </button>
                           </div>
                         </nav>
                       </div>
@@ -271,8 +295,7 @@ export default function Home() {
                             <div
                               className="relative h-full"
                               style={{ minHeight: "36rem" }}>
-                              {prepareSchedules(selectedCourses, filteredInstructors, filteredSections)}
-                              <Calendar />
+                              {scheduleArray(schedules)[selectedSchedule]}
                             </div>
                           </div>
                         </div>
