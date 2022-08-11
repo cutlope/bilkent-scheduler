@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-courses = {}
+courses = []
 
 base_path = Path(__file__).parent
 file_path = (base_path / "../data/semesters.json").resolve()
@@ -20,7 +20,8 @@ with open(file_path, 'r') as f:
 
 for department in departments:
     departmentCode = department.get("code")
-    url = "https://stars.bilkent.edu.tr/homepage/ajax/plainOfferings.php?COURSE_CODE={departmentCode}&SEMESTER={semesterCode}".format(departmentCode=departmentCode, semesterCode=semesterCode)
+    url = "https://stars.bilkent.edu.tr/homepage/ajax/plainOfferings.php?COURSE_CODE={departmentCode}&SEMESTER={semesterCode}".format(
+        departmentCode=departmentCode, semesterCode=semesterCode)
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
     tables = soup.findChildren('table')
@@ -33,30 +34,31 @@ for department in departments:
             cells = row.findChildren('td')
             courseCode = cells[0].text
             code = cells[0].text.split("-")
-            instructor =  cells[2].text.strip().replace('\xa0\xa0',' & ')
-            offerings.append({code[0]: {
-                "name": cells[1].text,
-                "section": {
-                    code[1]: {
-                        "instructor" : instructor,
-                        "schedule" : {}
-
-                },
-            }}})
+            instructor = cells[2].text.strip().replace('\xa0\xa0', ' & ')
+            offerings.append(
+                {
+                    "code": code[0],
+                    "name": cells[1].text,
+                    "sections": [
+                        {"number": code[1],
+                         "instructor": instructor,
+                         "schedule": []}]
+                }
+            )
         res = dict()
         for item in offerings:
-            for list in item:
-                if list in res:
-                    res[list]["section"].update(item[list]["section"])
-                else:
-                    res[list] = item[list]
+            if item["code"] in res:
+                res[item["code"]]["sections"].append(item["sections"][0])
+            else:
+                res[item["code"]] = item
 
-        courses[departmentCode] = res
+        list = []
+        for item in res:
+            list.append(res[item])
+        res = {"courses": list}
+        courses.append({departmentCode: res})
 
-# result = []
-# for department in courses:
-#     result.append({department: courses[department]})
 
-file_path = (base_path / "../data/courses.json").resolve()
+file_path = (base_path / "../data/courses-extra.json").resolve()
 with open(file_path, "w+", encoding="utf-8") as f:
     json.dump(courses, f, ensure_ascii=False, indent=2)
