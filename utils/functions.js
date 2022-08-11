@@ -81,33 +81,35 @@ function getNotOverlappingSections(courseSection, schedule = { timeslots: [], co
 }
 
 const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections) => {
-    let schedules = [];
+  let schedules = [];
 
-    if (selectedCourses && selectedCourses.length > 0) {
+  if (selectedCourses && selectedCourses.length > 0) {
       for (const selectedCourse of selectedCourses) {
-        const newSchedules = [];
-        let plainSections = getSections(selectedCourse.value.section, filteredSections);
-        let plainInstructors = getInstructors(filteredInstructors);
-        plainSections.map(([sectionCode, section]) => {
-          plainSections = plainSections.filter(([sectionCode, section]) => !plainInstructors.includes(section.instructor));
-        });
-        plainSections.map(([sectionCode, section]) => {
-          let i = 0;
-          section.courseCode = `${selectedCourse.label}-${sectionCode}`;
-          do {
-            const newSchedule = getNotOverlappingSections(section, schedules[i]);
-            if (newSchedule) {
+      const newSchedules = [];
+      let plainSections = getSections(selectedCourse.value.section, filteredSections);
+      let plainInstructors = getInstructors(filteredInstructors);
+      plainSections.map(([sectionCode, section]) => {
+        plainSections = plainSections.filter(([sectionCode, section]) => !plainInstructors.includes(section.instructor));
+      });
+      plainSections.map(([sectionCode, section]) => {
+        let i = 0;
+        section.courseCode = `${selectedCourse.label}-${sectionCode}`;
+        do {
+          const newSchedule = getNotOverlappingSections(section, schedules[i]);
+          if (newSchedule) {
+            if (Object.keys(newSchedule.timeslots).length !== 0) {
+                if (Object.keys(newSchedule.timeslots).length > 3 * newSchedule.courses.length) {
               newSchedules.push(newSchedule);
-            }
+            }}
+          }
 
-            i += 1;
-          } while (i < schedules.length);
-        });
-        schedules = newSchedules;
-      }
+          i += 1;
+        } while (i < schedules.length);
+      });
+      schedules = newSchedules;
     }
-    return schedules;
-  };
+  }
+  return schedules;
+};
 
-  
-export { reduceOfferings, getUniqueInstructorList, getSections,  getFilteredCourses, prepareSchedules };
+export { reduceOfferings, getUniqueInstructorList, getSections, getFilteredCourses, prepareSchedules };

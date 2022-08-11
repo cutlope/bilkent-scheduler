@@ -4,16 +4,15 @@ import semesters from "../data/semesters.json";
 import departments from "../data/departments.json";
 import courses from "../data/courses.json";
 import { Listbox, Transition } from "@headlessui/react";
-import { CheckIcon, SelectorIcon } from "@heroicons/react/solid";
 import { useState, Fragment } from "react";
 import Calendar from "../components/calendar";
 import Select from "react-select";
-import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon } from "@heroicons/react/solid";
+import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon, CheckIcon, SelectorIcon } from "@heroicons/react/solid";
 import { reduceOfferings, getUniqueInstructorList, getSections, getFilteredCourses, prepareSchedules } from "../utils/functions";
 import { useUpdateEffect } from "react-use";
 
 const customStyles = {
-  input: (provided, state) => ({
+  input: (provided) => ({
     ...provided,
     "input:focus": {
       boxShadow: "none",
