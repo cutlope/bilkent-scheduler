@@ -1,17 +1,7 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { useRef } from "react";
 
-const colors = [
-    "indigo",
-    "pink",
-    "blue",
-    "teal",
-    "red",
-    "emerald",
-    "yellow",
-    "orange",
-    "slate"
-]
+const colors = ["indigo", "pink", "blue", "teal", "red", "emerald", "yellow", "orange", "slate"];
 
 const prepList = (list) => {
   const newList = [];
@@ -187,8 +177,7 @@ export default function Calendar({ schedule }) {
                       key={index}
                       className="relative flex mt-px z-50 mb-2 "
                       style={{ gridRow: `${calculateGrid(event[0])[0]} / span 2`, gridColumnStart: `${calculateGrid(event[0])[1]}` }}>
-                      <a
-                        className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-red-50 hover:bg-red-100 ">
+                      <a className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-red-50 hover:bg-red-100 ">
                         <p className="order-1 font-semibold text-red-700">{prepList(schedule)[1][event[1].course].courseCode} </p>
                         <p className="text-red-500 group-hover:text-red-700">
                           <time dateTime="2022-01-12T06:00">{event[1].classroom || "N/A"}</time>
@@ -197,7 +186,6 @@ export default function Calendar({ schedule }) {
                     </li>
                   );
                 })}
-
               </ol>
             </div>
           </div>
