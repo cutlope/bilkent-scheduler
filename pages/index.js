@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Link from "next/link";
 import semesters from "../data/semesters.json";
 import departments from "../data/departments.json";
 import courses from "../data/courses.json";
@@ -82,7 +80,7 @@ export default function Home() {
               <div className="flex-none w-full max-w-full lg:flex-none lg:w-1/5 lg:px-2 md:px-50 sm:px-44 px-3 ">
                 <div className="box-border">
                   <div className="p-5 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
-                  <h2 className="block mb-6 text-lg font-semibold xl:text-2xl leading-5">Courses</h2>
+                    <h2 className="block mb-6 text-lg font-semibold xl:text-2xl leading-5">Courses</h2>
                     {/* Semesters Dropdown */}
                     <div className="relative pb-3">
                       <Listbox
@@ -192,8 +190,6 @@ export default function Home() {
                       />
                     </div>
                   </div>
-
-
 
                   {/* Instructor Filters Item */}
                   <div className="p-8 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
