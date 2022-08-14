@@ -59,6 +59,23 @@ export default function Home() {
     }
   }
 
+  function handleInstructorDisplay(course) {
+    let arr = [];
+    let result = [];
+    course.value.sections.map((section) => arr.push(section.instructor));
+    course.value.sections.map((section) => {
+      arr.map((instructor) => {
+        if (instructor === section.instructor) {
+          result.push(section);
+          arr[arr.indexOf(instructor)] = "";
+        }
+      });
+    });
+
+    console.log("result", new Set(result));
+    return Array.from(new Set(result));
+  }
+
   function scheduleArray(schedules) {
     let arr = [];
     schedules.length > 0 ? schedules.map((schedule) => arr.push(<Calendar schedule={schedule} />)) : arr.push(<Calendar />);
@@ -198,7 +215,7 @@ export default function Home() {
                       <Select
                         options={selectedCourses.map((course) => ({
                           label: course.value.code,
-                          options: course.value.sections.map((section) => ({
+                          options: handleInstructorDisplay(course).map((section) => ({
                             value: section,
                             label: section.instructor,
                           })),
