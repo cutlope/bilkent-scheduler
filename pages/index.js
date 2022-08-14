@@ -3,13 +3,12 @@ import Link from "next/link";
 import semesters from "../data/semesters.json";
 import departments from "../data/departments.json";
 import courses from "../data/courses.json";
-import extraCourses from "../data/courses-extra.json";
 import { Listbox, Transition } from "@headlessui/react";
 import { useState, Fragment } from "react";
 import Calendar from "../components/calendar";
 import Select from "react-select";
 import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon, CheckIcon, SelectorIcon } from "@heroicons/react/solid";
-import { reduceOfferings, prepareSchedules, displayCourses } from "../utils/functions";
+import { prepareSchedules, displayCourses } from "../utils/functions";
 import { useUpdateEffect } from "react-use";
 
 const customStyles = {
@@ -27,7 +26,6 @@ export default function Home() {
   const [selectedCourses, setSelectedCourses] = useState([]);
   const [filteredSections, setFilteredSections] = useState([]);
   const [filteredInstructors, setFilteredInstructors] = useState([]);
-  const reducedOfferings = Object.entries(courses).reduce(reduceOfferings, []);
   const [schedules, setSchedules] = useState([]);
   const [selectedSchedule, setSelectedSchedule] = useState(0);
 
@@ -171,7 +169,7 @@ export default function Home() {
                       <div className="relative">
                         <label className="block text-sm leading-5 font-medium text-black">Courses</label>
                         <Select
-                          options={displayCourses(extraCourses, selectedDepartment).map((course) => ({
+                          options={displayCourses(courses, selectedDepartment).map((course) => ({
                             value: course,
                             label: course.code,
                           }))}

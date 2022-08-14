@@ -59,6 +59,6 @@ for department in departments:
         courses.append({departmentCode: res})
 
 
-file_path = (base_path / "../data/courses-extra.json").resolve()
+file_path = (base_path / "../data/courses.json").resolve()
 with open(file_path, "w+", encoding="utf-8") as f:
     json.dump(courses, f, ensure_ascii=False, indent=2)

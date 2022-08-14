@@ -10,7 +10,7 @@ with open(file_path, 'r') as f:
 
 semesterCode = semesters[0].get("code")
 
-file_path = (base_path / "../data/courses-extra.json").resolve()
+file_path = (base_path / "../data/courses.json").resolve()
 with open(file_path, 'r') as f:
     allCourses = json.load(f)
 
@@ -41,6 +41,6 @@ for depart in allCourses:
                             {"slot": idx, "classroom": cell.text})
 
 
-file_path = (base_path / "../data/courses-extra.json").resolve()
+file_path = (base_path / "../data/courses.json").resolve()
 with open(file_path, "w+", encoding="utf-8") as f:
     json.dump(allCourses, f, ensure_ascii=False, indent=2)

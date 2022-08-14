@@ -1,13 +1,3 @@
-function reduceOfferings(offerings, [departmentCode, departmentOfferings]) {
-  const courses = Object.entries(departmentOfferings).map(([courseCode, course]) => ({
-    departmentCode,
-    courseCode,
-    ...course,
-  }));
-
-  return [...offerings, ...courses];
-}
-
 const areTimeslotsOverlapping = (...timeslots) => {
   const mergedTimeslots = new Set(timeslots.flat());
 
@@ -130,4 +120,4 @@ function displayCourses(dept, selectedDepartment) {
   return list;
 }
 
-export { reduceOfferings, prepareSchedules, displayCourses };
+export { prepareSchedules, displayCourses };
