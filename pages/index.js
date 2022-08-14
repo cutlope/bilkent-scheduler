@@ -3,12 +3,13 @@ import Link from "next/link";
 import semesters from "../data/semesters.json";
 import departments from "../data/departments.json";
 import courses from "../data/courses.json";
+import extraCourses from "../data/courses-extra.json";
 import { Listbox, Transition } from "@headlessui/react";
 import { useState, Fragment } from "react";
 import Calendar from "../components/calendar";
 import Select from "react-select";
 import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon, CheckIcon, SelectorIcon } from "@heroicons/react/solid";
-import { reduceOfferings, getUniqueInstructorList, getSections, getFilteredCourses, prepareSchedules } from "../utils/functions";
+import { reduceOfferings, prepareSchedules, displayCourses } from "../utils/functions";
 import { useUpdateEffect } from "react-use";
 
 const customStyles = {
@@ -71,9 +72,6 @@ export default function Home() {
   useUpdateEffect(() => {
     let schedule = prepareSchedules(selectedCourses, filteredInstructors, filteredSections);
     setSchedules(schedule);
-  }, [selectedCourses, filteredSections, filteredInstructors]);
-
-  useUpdateEffect(() => {
     setSelectedSchedule(0);
   }, [selectedCourses, filteredSections, filteredInstructors]);
 
@@ -154,7 +152,6 @@ export default function Home() {
                             ...customStyles,
                             multiValue: (base) => ({
                               ...base,
-                              backgroundColor: "#f5f5f5",
                               borderRadius: "8px",
                             }),
                             menu: (base) => ({
@@ -174,12 +171,17 @@ export default function Home() {
                       <div className="relative">
                         <label className="block text-sm leading-5 font-medium text-black">Courses</label>
                         <Select
-                          options={getFilteredCourses(reducedOfferings, selectedDepartment, selectedCourses).map((course) => ({
+                          options={displayCourses(extraCourses, selectedDepartment).map((course) => ({
                             value: course,
-                            label: course.courseCode,
+                            label: course.code,
                           }))}
                           styles={{
                             ...customStyles,
+                            multiValue: (base) => ({
+                              ...base,
+                              backgroundColor: "#f5f5f5",
+                              borderRadius: "8px",
+                            }),
                             menu: (base) => ({
                               ...base,
                               zIndex: "50",
@@ -199,8 +201,11 @@ export default function Home() {
                       <div className="relative">
                         <Select
                           options={selectedCourses.map((course) => ({
-                            label: course.value.courseCode,
-                            options: getUniqueInstructorList(course.value.section),
+                            label: course.value.code,
+                            options: course.value.sections.map((section) => ({
+                              value: section,
+                              label: section.instructor,
+                            })),
                           }))}
                           styles={{
                             ...customStyles,
@@ -222,10 +227,10 @@ export default function Home() {
                       <h2 className="block mb-6 text-lg font-semibold xl:text-2xl leading-5">Filter Sections</h2>
                       <Select
                         options={selectedCourses.map((course) => ({
-                          label: course.value.courseCode,
-                          options: getSections(course.value.section, filteredSections).map((section) => ({
+                          label: course.value.code,
+                          options: course.value.sections.map((section) => ({
+                            label: `Section ${section.number}`,
                             value: section,
-                            label: section[0],
                           })),
                         }))}
                         styles={{
@@ -243,7 +248,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="flex-none w-full max-w-full md:mx-2 md:flex-none  lg:flex-none lg:w-3/4 ">
+                <div className="flex-none w-full max-w-full md:mx-2 md:flex-none lg:w-3/4">
                   <div className="pb-4 pr-4 pl-5 bg-white">
                     <div className="flex flex-wrap items-center">
                       <div className="flex-none w-full max-w-full md:flex-none lg:flex-none ">
@@ -251,15 +256,15 @@ export default function Home() {
                           <div className="-mt-px w-0 flex-1 flex">
                             <button
                               onClick={handlePreviousSchedule}
-                              className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
+                              className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-indigo-700 hover:border-indigo-400 ">
                               <ArrowNarrowLeftIcon
-                                className="mr-3 h-5 w-5 text-gray-400"
+                                className="mr-3 h-5 w-5 text-gray-400 hover:text-indigo-400"
                                 aria-hidden="true"
                               />
                               Previous
                             </button>
                           </div>
-                          <div className="hidden md:-mt-px md:flex">
+                          <div className=" md:-mt-px md:flex">
                             <a className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
                               {schedules.length > 0 ? selectedSchedule + 1 : 0} / {schedules.length}
                             </a>
@@ -267,10 +272,10 @@ export default function Home() {
                           <div className="-mt-px w-0 flex-1 flex justify-end">
                             <button
                               onClick={handleNextSchedule}
-                              className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300">
+                              className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-indigo-700 hover:border-indigo-400">
                               Next
                               <ArrowNarrowRightIcon
-                                className="ml-3 h-5 w-5 text-gray-400"
+                                className="ml-3 h-5 w-5 text-gray-400 hover:text-indigo-400"
                                 aria-hidden="true"
                               />
                             </button>
@@ -280,7 +285,7 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="box-border">
-                    <div className="flex flex-wrap pl-5 sm:pl-0">
+                    <div className="flex flex-wrap pl-0">
                       <div className="flex-none w-full max-w-full">
                         <div
                           className="box-border"
