@@ -76,13 +76,13 @@ export default function Calendar({ schedule }) {
   const containerNav = useRef(null);
   const containerOffset = useRef(null);
   return (
-    <div className="flex flex-col max-h-min border-b-2">
+    <div className="flex flex-col max-h-min ">
       <div
         ref={container}
-        className="flex flex-col flex-auto overflow-auto bg-white">
+        className="flex flex-col flex-auto overflow-auto bg-white rounded-b-lg pb-1">
         <div
           style={{ width: "165%" }}
-          className="flex flex-col flex-none max-w-full sm:max-w-none md:max-w-full">
+          className="flex flex-col flex-none max-w-full sm:max-w-none md:max-w-full ">
           <div
             ref={containerNav}
             className="sticky top-0 z-60 flex-none bg-white shadow ring-1 ring-black ring-opacity-5 ">
@@ -156,6 +156,7 @@ export default function Calendar({ schedule }) {
                 <div>
                   <div className="sticky left-0 z-20 -mt-2.5 -ml-14 w-14 pr-2 text-right text-xs leading-5 text-gray-400">16:30</div>
                 </div>
+                <div></div>
                 <div />
                 <div />
               </div>
@@ -183,11 +184,31 @@ export default function Calendar({ schedule }) {
                   return (
                     <li
                       key={index}
-                      className="relative flex mt-px mb-2 "
+                      className="relative flex mt-px mb-2"
                       style={{ gridRow: `${calculateGrid(event.classroom.slot)[0]} / span 2`, gridColumnStart: `${calculateGrid(event.classroom.slot)[1]}` }}>
                       <a className={`absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 ${color[colour].bg} `}>
                         <p className={`order-1 font-semibold ${color[colour].text}`}>{prepList(schedule)[1][event.course].courseCode} </p>
-                        <p className={`${color[colour].subText} break-all `}>{event.classroom.classroom || "N/A"}</p>
+                        <p className={`${color[colour].subText} break-all flex items-center `}>
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            className="h-3 w-3 mr-1"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                            strokeWidth={2}>
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                            />
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+                            />
+                          </svg>
+                          {event.classroom.classroom || "N/A"}
+                        </p>
                       </a>
                     </li>
                   );
