@@ -1,6 +1,7 @@
 import "../styles/globals.css";
 import Layout from "../components/layout.js";
 import { DefaultSeo } from "next-seo";
+import Script from "next/script";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -21,6 +22,21 @@ function MyApp({ Component, pageProps }) {
               alt: "Og Image Alt",
             },
           ],
+        }}
+      />
+      <Script
+        strategy="worker"
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.GA_TRACKING_ID}"></>`}
+      />
+      <Script
+        id="gtm"
+        strategy="worker"
+        dangerouslySetInnerHTML={{
+          __html: ` window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+
+                    gtag('config', '${process.env.GA_TRACKING_ID}');`,
         }}
       />
       <Component {...pageProps} />
