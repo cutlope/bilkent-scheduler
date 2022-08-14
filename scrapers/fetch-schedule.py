@@ -10,7 +10,7 @@ with open(file_path, 'r') as f:
 
 semesterCode = semesters[0].get("code")
 
-file_path = (base_path / "../data/courses.json").resolve()
+file_path = (base_path / "../data/base-courses.json").resolve()
 with open(file_path, 'r') as f:
     allCourses = json.load(f)
 
