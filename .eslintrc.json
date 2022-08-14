@@ -1,20 +1,16 @@
 {
-    "extends": [
-      "eslint:recommended",
-      "prettier",
-      "plugin:import/recommended",
-      "next"
-    ],
-    "plugins": ["prettier", "react-hooks"],
-    "rules": {
-      "prettier/prettier": "warn",
-      "no-unused-vars": "warn",
-      "react/prop-types": "off",
-      "react/no-unescaped-entities": "off",
-      "react-hooks/rules-of-hooks": "error", // Checks rules of Hooks
-      "react-hooks/exhaustive-deps": "warn" // Checks effect dependencies
-    },
-    "env": {
-      "node": true
-    }
+  "extends": ["eslint:recommended", "prettier", "plugin:import/recommended", "next"],
+  "plugins": ["prettier", "react-hooks"],
+  "rules": {
+    "prettier/prettier": "warn",
+    "no-unused-vars": "warn",
+    "react/prop-types": "off",
+    "react/no-unescaped-entities": "off",
+    "react-hooks/rules-of-hooks": "error", // Checks rules of Hooks
+    "react-hooks/exhaustive-deps": "warn" // Checks effect dependencies
+  },
+  "env": {
+    "node": true,
+    "es6": true
   }
+}

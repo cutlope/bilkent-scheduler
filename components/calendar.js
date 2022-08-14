@@ -1,29 +1,65 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { useRef } from "react";
 
-const colors = [
-    "indigo",
-    "pink",
-    "blue",
-    "teal",
-    "red",
-    "emerald",
-    "yellow",
-    "orange",
-    "slate"
-]
-
 const prepList = (list) => {
   const newList = [];
   const result = [];
   if (list) {
-    Object.entries(list.timeslots).forEach((slot, value) => {
-      newList.push(slot);
+    Object.values(list.timeslots).map((item) => {
+      newList.push(item);
     });
   }
   result.push(newList);
   result.push(list?.courses);
   return result;
+};
+
+const color = {
+  indigo: {
+    bg: "bg-indigo-50 hover:bg-indigo-100",
+    text: "text-indigo-700",
+    subText: "text-indigo-500 hover:text-indigo-700",
+  },
+  pink: {
+    bg: "bg-pink-50 hover:bg-pink-100",
+    text: "text-pink-700",
+    subText: "text-pink-500 hover:text-pink-700",
+  },
+  blue: {
+    bg: "bg-blue-50 hover:bg-blue-100",
+    text: "text-blue-700",
+    subText: "text-blue-500 hover:text-blue-700",
+  },
+  teal: {
+    bg: "bg-teal-50 hover:bg-teal-100",
+    text: "text-teal-700",
+    subText: "text-teal-500 hover:text-teal-700",
+  },
+  red: {
+    bg: "bg-red-50 hover:bg-red-100",
+    text: "text-red-700",
+    subText: "text-red-500 hover:text-red-700",
+  },
+  emerald: {
+    bg: "bg-emerald-50 hover:bg-emerald-100",
+    text: "text-emerald-700",
+    subText: "text-emerald-500 hover:text-emerald-700",
+  },
+  yellow: {
+    bg: "bg-yellow-50 hover:bg-yellow-100",
+    text: "text-yellow-700",
+    subText: "text-yellow-500 hover:text-yellow-700",
+  },
+  orange: {
+    bg: "bg-orange-50 hover:bg-orange-100",
+    text: "text-orange-700",
+    subText: "text-orange-500 hover:text-orange-700",
+  },
+  slate: {
+    bg: "bg-slate-50 hover:bg-slate-100",
+    text: "text-slate-700",
+    subText: "text-slate-500 hover:text-slate-700",
+  },
 };
 
 const calculateGrid = (timeslot) => {
@@ -40,7 +76,7 @@ export default function Calendar({ schedule }) {
   const containerNav = useRef(null);
   const containerOffset = useRef(null);
   return (
-    <div className="flex flex-col max-h-min">
+    <div className="flex flex-col max-h-min border-b-2">
       <div
         ref={container}
         className="flex flex-col flex-auto overflow-auto bg-white">
@@ -49,46 +85,8 @@ export default function Calendar({ schedule }) {
           className="flex flex-col flex-none max-w-full sm:max-w-none md:max-w-full">
           <div
             ref={containerNav}
-            className="sticky top-0 z-30 flex-none bg-white shadow ring-1 ring-black ring-opacity-5 sm:pr-8">
-            <div className="grid grid-cols-7 text-sm leading-6 text-gray-500 sm:hidden">
-              <button
-                type="button"
-                className="flex flex-col items-center pt-2 pb-3">
-                M
-              </button>
-              <button
-                type="button"
-                className="flex flex-col items-center pt-2 pb-3">
-                T
-              </button>
-              <button
-                type="button"
-                className="flex flex-col items-center pt-2 pb-3">
-                W
-              </button>
-              <button
-                type="button"
-                className="flex flex-col items-center pt-2 pb-3">
-                T
-              </button>
-              <button
-                type="button"
-                className="flex flex-col items-center pt-2 pb-3">
-                F
-              </button>
-              <button
-                type="button"
-                className="flex flex-col items-center pt-2 pb-3">
-                S
-              </button>
-              <button
-                type="button"
-                className="flex flex-col items-center pt-2 pb-3">
-                S
-              </button>
-            </div>
-
-            <div className="hidden grid-cols-7 -mr-px text-sm leading-6 text-gray-500 border-r border-gray-100 divide-x divide-gray-100 sm:grid">
+            className="sticky top-0 z-60 flex-none bg-white shadow ring-1 ring-black ring-opacity-5 ">
+            <div className=" grid grid-cols-7 text-sm leading-6 text-gray-500 border-r border-gray-100 divide-x divide-gray-100  sm:pr-0 ">
               <div className="col-end-1 w-14" />
               <div className="flex items-center justify-center py-3">
                 <span>Mon</span>
@@ -163,7 +161,7 @@ export default function Calendar({ schedule }) {
               </div>
 
               {/* Vertical lines */}
-              <div className="hidden grid-cols-7 col-start-1 col-end-2 grid-rows-1 row-start-1 divide-x divide-gray-100 sm:grid sm:grid-cols-7">
+              <div className="grid-cols-7 col-start-1 col-end-2 grid-rows-1 row-start-1 divide-x divide-gray-100 grid">
                 <div className="col-start-1 row-span-full" />
                 <div className="col-start-2 row-span-full" />
                 <div className="col-start-3 row-span-full" />
@@ -171,33 +169,29 @@ export default function Calendar({ schedule }) {
                 <div className="col-start-5 row-span-full" />
                 <div className="col-start-6 row-span-full" />
                 <div className="col-start-7 row-span-full" />
-                <div className="w-8 col-start-8 row-span-full" />
               </div>
 
               {/* Events */}
 
               <ol
-                className="grid grid-cols-1 col-start-1 col-end-2 row-start-1 sm:grid-cols-7 sm:pr-8"
+                className="grid col-start-1 col-end-2 row-start-1 grid-cols-7 "
                 style={{
                   gridTemplateRows: "1.75rem repeat(18, minmax(0, 1fr)) auto",
                 }}>
                 {prepList(schedule)[0].map((event, index) => {
+                  let colour = prepList(schedule)[1][event.course].color;
                   return (
                     <li
                       key={index}
-                      className="relative flex mt-px z-50 mb-2 "
-                      style={{ gridRow: `${calculateGrid(event[0])[0]} / span 2`, gridColumnStart: `${calculateGrid(event[0])[1]}` }}>
-                      <a
-                        className="absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 bg-red-50 hover:bg-red-100 ">
-                        <p className="order-1 font-semibold text-red-700">{prepList(schedule)[1][event[1].course].courseCode} </p>
-                        <p className="text-red-500 group-hover:text-red-700">
-                          <time dateTime="2022-01-12T06:00">{event[1].classroom || "N/A"}</time>
-                        </p>
+                      className="relative flex mt-px mb-2 "
+                      style={{ gridRow: `${calculateGrid(event.classroom.slot)[0]} / span 2`, gridColumnStart: `${calculateGrid(event.classroom.slot)[1]}` }}>
+                      <a className={`absolute flex flex-col p-2 overflow-y-auto text-xs leading-5 rounded-lg group inset-1 ${color[colour].bg} `}>
+                        <p className={`order-1 font-semibold ${color[colour].text}`}>{prepList(schedule)[1][event.course].courseCode} </p>
+                        <p className={`${color[colour].subText} break-all `}>{event.classroom.classroom || "N/A"}</p>
                       </a>
                     </li>
                   );
                 })}
-
               </ol>
             </div>
           </div>
