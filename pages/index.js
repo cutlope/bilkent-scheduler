@@ -8,6 +8,7 @@ import Select from "react-select";
 import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon, CheckIcon, SelectorIcon } from "@heroicons/react/solid";
 import { prepareSchedules, displayCourses } from "../utils/functions";
 import { useUpdateEffect } from "react-use";
+import { NextSeo } from "next-seo";
 
 const customStyles = {
   input: (provided) => ({
@@ -90,6 +91,11 @@ export default function Home() {
 
   return (
     <>
+      <NextSeo
+        title="The Bilkent Scheduler"
+        description="The Bilkent Scheduler makes it easy for Bilkent students to find the perfect schedule for courses during registration with upto date semester offerings."
+        canonical="https://www.thebilkentscheduler.com/"
+      />
       <div className="max-w-screen-2xl mx-auto">
         <section className="relative py-4 leading-6 text-gray-900 lg:py-16">
           <div className="mx-auto w-full text-gray-900 max-w-screen-2xl">

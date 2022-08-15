@@ -5,6 +5,13 @@ const nextConfig = {
   experimental: {
     nextScriptWorkers: true,
   },
+  webpack: (config, { isServer }) => {
+    if (isServer) {
+      require("./scrapers/generate-sitemap");
+    }
+
+    return config;
+  },
 };
 
 module.exports = nextConfig;
