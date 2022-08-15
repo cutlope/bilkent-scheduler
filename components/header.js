@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Header() {
   return (
     <div className="px-4 pt-4 max-w-screen-2xl mx-auto">
@@ -17,11 +19,9 @@ export default function Header() {
             />
           </svg>
           <div className="w-auto mr-14">
-            <a
-              className="font-heading font-semibold text-lg text-black"
-              href="#">
-              The Bilkent Scheduler
-            </a>
+            <Link href="/">
+              <a className="font-heading font-semibold text-lg text-black">The Bilkent Scheduler</a>
+            </Link>
           </div>
         </div>
       </div>
