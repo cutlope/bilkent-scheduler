@@ -82,7 +82,7 @@ export default function Calendar({ schedule }) {
         className="flex flex-col flex-auto overflow-auto bg-white rounded-b-lg pb-1">
         <div
           style={{ width: "165%" }}
-          className="flex flex-col flex-none max-w-full sm:max-w-none md:max-w-full ">
+          className="flex flex-col flex-none max-w-full max-w-none md:max-w-full ">
           <div
             ref={containerNav}
             className="sticky top-0 z-60 flex-none bg-white shadow ring-1 ring-black ring-opacity-5 ">

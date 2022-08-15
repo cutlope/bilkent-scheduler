@@ -261,7 +261,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="flex-none w-full max-w-full md:mx-2 lg:px-0 px-2 md:flex-none lg:w-[77%]">
+              <div className="flex-none w-full max-w-full md:mx-2 lg:px-0 sm:px-2 md:flex-none lg:w-[77%]">
                 <div className="pb-4 pr-4 pl-5 bg-white rounded-t-lg">
                   <div className="flex flex-wrap items-center">
                     <div className="flex-none w-full max-w-full md:flex-none lg:flex-none ">
