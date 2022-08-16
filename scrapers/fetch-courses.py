@@ -2,8 +2,15 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from pathlib import Path
+from requests.adapters import HTTPAdapter, Retry
 
 courses = []
+
+s = requests.Session()
+retries = Retry(total=5,
+                backoff_factor=0.1,
+                status_forcelist=[ 500, 502, 503, 504 ])
+s.mount('https://', HTTPAdapter(max_retries=retries))
 
 base_path = Path(__file__).parent
 file_path = (base_path / "../data/semesters.json").resolve()
@@ -18,11 +25,13 @@ with open(file_path, 'r') as f:
     departments = json.load(f)
 
 
+
+
 for department in departments:
     departmentCode = department.get("code")
     url = "https://stars.bilkent.edu.tr/homepage/ajax/plainOfferings.php?COURSE_CODE={departmentCode}&SEMESTER={semesterCode}".format(
         departmentCode=departmentCode, semesterCode=semesterCode)
-    page = requests.get(url)
+    page = s.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
     tables = soup.findChildren('table')
     if len(tables) != 1:
