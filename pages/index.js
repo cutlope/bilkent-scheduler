@@ -292,9 +292,9 @@ export default function Home() {
                     <div className="-mt-px w-0 flex-1 flex">
                       <button
                         onClick={handlePreviousSchedule}
-                        className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-indigo-700 hover:border-indigo-400 ">
+                        className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400 ">
                         <ArrowNarrowLeftIcon
-                          className="mr-3 h-5 w-5 text-gray-400 hover:text-indigo-400"
+                          className="mr-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
                           aria-hidden="true"
                         />
                         Previous
@@ -308,10 +308,10 @@ export default function Home() {
                     <div className="-mt-px w-0 flex-1 flex justify-end">
                       <button
                         onClick={handleNextSchedule}
-                        className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-indigo-700 hover:border-indigo-400">
+                        className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400">
                         Next
                         <ArrowNarrowRightIcon
-                          className="ml-3 h-5 w-5 text-gray-400 hover:text-indigo-400"
+                          className="ml-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
                           aria-hidden="true"
                         />
                       </button>
