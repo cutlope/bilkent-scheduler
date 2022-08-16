@@ -98,9 +98,9 @@ export default function Home() {
       />
       <section className="relative py-4 leading-6 text-gray-900 lg:pb-12 lg:pt-6">
         <div className="flex flex-wrap">
-          <div className="flex-none w-full max-w-full lg:flex-none lg:w-1/5 lg:px-2 md:px-50 sm:px-44 px-3 ">
+          <div className="flex-none w-full max-w-full lg:flex-none lg:w-[23%] lg:px-2 md:px-50 sm:px-44 px-3 ">
             <div className="box-border">
-              <div className="p-5 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
+              <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
                 <h2 className="block mb-6 text-lg font-semibold xl:text-2xl leading-5">Courses</h2>
                 {/* Semesters Dropdown */}
                 <div className="relative pb-3">
@@ -158,7 +158,7 @@ export default function Home() {
 
                 {/* Departments Drop Down */}
                 <div className="relative">
-                  <label className="block text-sm leading-5 font-medium text-black">Departments</label>
+                  <label className="block text-sm leading-8 font-medium text-black">Departments</label>
                   <Select
                     options={departments.map((department) => ({
                       value: department.code,
@@ -186,7 +186,7 @@ export default function Home() {
                 {/* Courses Drop Down */}
 
                 <div className="relative">
-                  <label className="block text-sm leading-5 font-medium text-black">Courses</label>
+                  <label className="block text-sm leading-8 font-medium text-black">Courses</label>
                   <Select
                     options={displayCourses(courses, selectedDepartment).map((course) => ({
                       value: course,
@@ -213,8 +213,8 @@ export default function Home() {
               </div>
 
               {/* Instructor Filters Item */}
-              <div className="p-8 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
-                <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5 flex ">
+              <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
+                <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5 ">
                   Filter Instructors
                   <Tooltip label="Exclude Instructors from your choices">
                     <button>
@@ -259,7 +259,7 @@ export default function Home() {
               </div>
 
               {/* Section Filters */}
-              <div className="p-8 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
+              <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
                 <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5">Filter Sections</h2>
                 <Select
                   options={selectedCourses.map((course) => ({
@@ -284,7 +284,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="flex-none w-full max-w-full md:mx-2 lg:px-0 sm:px-2 md:flex-none lg:w-[77%]">
+          <div className="flex-none w-full max-w-full md:mx-2 lg:px-0 sm:px-2 md:flex-none lg:w-[75%]">
             <div className="pb-4 pr-4 pl-5 bg-white rounded-t-lg">
               <div className="flex flex-wrap items-center">
                 <div className="flex-none w-full max-w-full md:flex-none lg:flex-none ">
