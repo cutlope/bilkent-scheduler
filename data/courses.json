@@ -4024,7 +4024,24 @@
             {
               "number": "1",
               "instructor": "Bülent Mehmet Çaplı",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -8155,6 +8172,17 @@
             {
               "number": "1",
               "instructor": "Ali Hakan Kara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 428",
+          "name": "Public Sector Governance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -13306,6 +13334,562 @@
     }
   },
   {
+    "GE": {
+      "courses": [
+        {
+          "code": "GE 301",
+          "name": "Science Technology and Society",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EB-202"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EB-202"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 52,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 53,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 39,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 36,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 37,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 38,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EB-204"
+                }
+              ]
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 50,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EB-204"
+                }
+              ]
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 49,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 51,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "19",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EB-201"
+                }
+              ]
+            },
+            {
+              "number": "20",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 35,
+                  "classroom": "EB-201"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "EB-201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GE 400",
+          "name": "Transdisciplinary Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fatma Tahire Erman & Ersin Soylu",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Andrew William Hassell",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Ersin Soylu & Mustafa Eray Yücel",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Pınar Esma Önkol",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Dimitrios Akrivoulis & Jacob Neal Minniear",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Türkan Mine Kara & Pınar Esma Önkol",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GE 401",
+          "name": "Innovative Design and Entrepreneurship I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "H. Altay Güvenir & Yiğit Karpat & Mehmet Alper Kutay",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EA-302"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EA-302"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EA-302"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EA-302"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GE 510",
+          "name": "Fundamentals of Social Research Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İhsan Efe Tokdemir",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GE 511",
+          "name": "Philosophy of Social Inquiry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Simon Drummond Wigley",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GE 512",
+          "name": "Quantitative Data Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Athanasios Mouratidis",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "GRA": {
       "courses": [
         {
@@ -14250,765 +14834,6 @@
             {
               "number": "1",
               "instructor": "Andreas Treske",
-              "schedule": []
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "HART": {
-      "courses": [
-        {
-          "code": "HART 111",
-          "name": "Introduction to Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": [
-                {
-                  "slot": 3,
-                  "classroom": "H-133A(S)"
-                },
-                {
-                  "slot": 10,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 35,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 42,
-                  "classroom": "H-133A"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 117",
-          "name": "Ways of Seeing: Approaches to Art and Architectural History",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "H-133A(S)"
-                },
-                {
-                  "slot": 9,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 39,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 46,
-                  "classroom": "H-133A"
-                }
-              ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 16,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 23,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 53,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 60,
-                  "classroom": "H-132"
-                }
-              ]
-            },
-            {
-              "number": "3",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 4,
-                  "classroom": "H-133B(S)"
-                },
-                {
-                  "slot": 11,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 36,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 43,
-                  "classroom": "H-133B"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 120",
-          "name": "Human Evolution and World Prehistory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": [
-                {
-                  "slot": 0,
-                  "classroom": "H-133A(S)"
-                },
-                {
-                  "slot": 7,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 37,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 44,
-                  "classroom": "H-133A"
-                }
-              ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 3,
-                  "classroom": "H-133B(S)"
-                },
-                {
-                  "slot": 10,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 35,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 42,
-                  "classroom": "H-133B"
-                }
-              ]
-            },
-            {
-              "number": "3",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 18,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 25,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 50,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 57,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 125",
-          "name": "Archaeological Illustration",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Özgecan Aydın",
-              "schedule": [
-                {
-                  "slot": 17,
-                  "classroom": "MA-Z01(S)"
-                },
-                {
-                  "slot": 24,
-                  "classroom": "MA-Z01"
-                },
-                {
-                  "slot": 49,
-                  "classroom": "MA-Z01"
-                },
-                {
-                  "slot": 56,
-                  "classroom": "MA-Z01"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 221",
-          "name": "Great Discoveries from the Ancient World ",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Julian Bennett",
-              "schedule": [
-                {
-                  "slot": 1,
-                  "classroom": "H-133B(S)"
-                },
-                {
-                  "slot": 8,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 38,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 45,
-                  "classroom": "H-133B"
-                }
-              ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 9,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 39,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 46,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 222",
-          "name": "Mesopotamian Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 4,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 11,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 36,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 43,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 227",
-          "name": "Greek Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Dominique Tezgör Kassab",
-              "schedule": [
-                {
-                  "slot": 14,
-                  "classroom": "H-133A(S)"
-                },
-                {
-                  "slot": 21,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 51,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 58,
-                  "classroom": "H-133A"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 231",
-          "name": "Ancient Greek I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Luuk Otmar De Boer",
-              "schedule": [
-                {
-                  "slot": 17,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 24,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 49,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 56,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 239",
-          "name": "Latin I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nebahat İlgi Gerçek",
-              "schedule": [
-                {
-                  "slot": 3,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 10,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 35,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 42,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 305",
-          "name": "Byzantine and Islamic Art and Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Luca Zavagno",
-              "schedule": [
-                {
-                  "slot": 15,
-                  "classroom": "H-133B(S)"
-                },
-                {
-                  "slot": 22,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 52,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 59,
-                  "classroom": "H-133B"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 352",
-          "name": "Monuments of Rome",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Julian Bennett",
-              "schedule": [
-                {
-                  "slot": 4,
-                  "classroom": "H-133A(S)"
-                },
-                {
-                  "slot": 11,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 36,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 43,
-                  "classroom": "H-133A"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 372",
-          "name": "Hittite I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nebahat İlgi Gerçek",
-              "schedule": [
-                {
-                  "slot": 1,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 8,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 38,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 45,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 399",
-          "name": "Summer Practice I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Dominique Tezgör Kassab",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 400",
-          "name": "Senior Project",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 401",
-          "name": "Summer Practice II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Dominique Tezgör Kassab",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 409",
-          "name": "Museum Practices and the Preservation of Cultural Heritage",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Dominique Tezgör Kassab",
-              "schedule": [
-                {
-                  "slot": 15,
-                  "classroom": "H-133A(S)"
-                },
-                {
-                  "slot": 22,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 52,
-                  "classroom": "H-133A"
-                },
-                {
-                  "slot": 59,
-                  "classroom": "H-133A"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 423",
-          "name": "Cities, Monuments and Landscapes of Classical Anatolia ",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "H-133B(S)"
-                },
-                {
-                  "slot": 9,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 39,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 46,
-                  "classroom": "H-133B"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 434",
-          "name": "Landscape Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 14,
-                  "classroom": "H-133B(S)"
-                },
-                {
-                  "slot": 21,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 51,
-                  "classroom": "FA-213"
-                },
-                {
-                  "slot": 58,
-                  "classroom": "FA-213"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 436",
-          "name": "Archaeological Method and Theory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 0,
-                  "classroom": "H-133B(S)"
-                },
-                {
-                  "slot": 7,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 37,
-                  "classroom": "H-133B"
-                },
-                {
-                  "slot": 44,
-                  "classroom": "H-133B"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 507",
-          "name": "Pre-Classical Art and Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": [
-                {
-                  "slot": 18,
-                  "classroom": "H-135(S)"
-                },
-                {
-                  "slot": 25,
-                  "classroom": "H-135"
-                },
-                {
-                  "slot": 50,
-                  "classroom": "H-135"
-                },
-                {
-                  "slot": 57,
-                  "classroom": "H-135"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 519",
-          "name": "Research Directions for Anatolian Archaeology and Art",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Dominique Tezgör Kassab",
-              "schedule": [
-                {
-                  "slot": 4,
-                  "classroom": "H-135(S)"
-                },
-                {
-                  "slot": 11,
-                  "classroom": "H-135"
-                },
-                {
-                  "slot": 36,
-                  "classroom": "H-135"
-                },
-                {
-                  "slot": 43,
-                  "classroom": "H-135"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 542",
-          "name": "Hittite I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nebahat İlgi Gerçek",
-              "schedule": [
-                {
-                  "slot": 1,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 8,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 38,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 45,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 551",
-          "name": "Ancient Greek I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Luuk Otmar De Boer",
-              "schedule": [
-                {
-                  "slot": 17,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 24,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 49,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 56,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 563",
-          "name": "Latin I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nebahat İlgi Gerçek",
-              "schedule": [
-                {
-                  "slot": 3,
-                  "classroom": "H-132(S)"
-                },
-                {
-                  "slot": 10,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 35,
-                  "classroom": "H-132"
-                },
-                {
-                  "slot": 42,
-                  "classroom": "H-132"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "HART 590",
-          "name": "Seminar",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 599",
-          "name": "Master's Thesis",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -20095,22 +19920,90 @@
             {
               "number": "4",
               "instructor": "Seçkin Köstem",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "5",
               "instructor": "Seçkin Köstem",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "6",
               "instructor": "Seçkin Köstem",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "7",
               "instructor": "Seçkin Köstem",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "8",
@@ -20817,7 +20710,24 @@
             {
               "number": "1",
               "instructor": "İbrahim Özgür Özdamar",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         }
@@ -24659,17 +24569,6 @@
           ]
         },
         {
-          "code": "MAN 435",
-          "name": "Financial Services Marketing",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "MAN 443",
           "name": "Operations Strategy",
           "sections": [
@@ -27423,19 +27322,19 @@
               "instructor": "Serkan İsmail Göktuna",
               "schedule": [
                 {
-                  "slot": 3,
+                  "slot": 1,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 10,
+                  "slot": 8,
                   "classroom": ""
                 },
                 {
-                  "slot": 35,
+                  "slot": 38,
                   "classroom": ""
                 },
                 {
-                  "slot": 42,
+                  "slot": 45,
                   "classroom": ""
                 }
               ]
@@ -27507,19 +27406,19 @@
               "instructor": "Serkan İsmail Göktuna",
               "schedule": [
                 {
-                  "slot": 1,
+                  "slot": 3,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 8,
+                  "slot": 10,
                   "classroom": ""
                 },
                 {
-                  "slot": 38,
+                  "slot": 35,
                   "classroom": ""
                 },
                 {
-                  "slot": 45,
+                  "slot": 42,
                   "classroom": ""
                 }
               ]
@@ -28696,12 +28595,152 @@
     "MSC": {
       "courses": [
         {
+          "code": "MSC 100",
+          "name": "Freshman Concert",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 103",
+          "name": "Orchestra/Choir",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 104",
+          "name": "Orchestra/Choir II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 105",
+          "name": "Ear Training for Non-Majors I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nino Skhvitaridze",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 110",
           "name": "The Culture and Basics of Music Making",
           "sections": [
             {
               "number": "1",
               "instructor": "Aylin Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Aylin Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Aylin Yılmaz",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 111",
+          "name": "Composition I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 121",
+          "name": "Fundamentals of Musicianship I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ülkemin Akbaş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 131",
+          "name": "Instrument I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Julian Lupu",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Elena Postnova",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 171",
+          "name": "Theory I: Fundamentals",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Aydın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 173",
+          "name": "Origins of Western Music: From Antiquities to Baroque",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 200",
+          "name": "Sophomore Concert",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
               "schedule": []
             }
           ]
