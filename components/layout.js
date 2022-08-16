@@ -4,7 +4,7 @@ import Header from "./header";
 export default function Layout({ children }) {
   return (
     <>
-      <section className="overflow-hidden bg-gradient-to-br from-rose-100 to-teal-100 ">
+      <section className="max-w-screen-2xl mx-auto bg-gradient-to-br from-rose-100 to-teal-100 overflow-hidden ">
         <Header />
         <main>{children}</main>
         <Footer />

@@ -1,8 +1,19 @@
 import Link from "next/link";
+import { useRouter } from "next/router";
+
+function classNames(...classes) {
+  return classes.filter(Boolean).join(" ");
+}
 
 export default function Header() {
+  const router = useRouter();
+  const tabs = [
+    { name: "Scheduler", href: "/", current: router.pathname === "/" },
+    { name: "Courses GPA", href: "gpa", current: router.pathname === "/gpa" },
+  ];
+
   return (
-    <div className="px-4 pt-4 max-w-screen-2xl mx-auto">
+    <div className="px-4 pt-4">
       <div className="flex items-center justify-between">
         <div className="flex flex-wrap items-center">
           <svg
@@ -23,6 +34,26 @@ export default function Header() {
               <a className="font-heading font-semibold text-lg text-black">The Bilkent Scheduler</a>
             </Link>
           </div>
+        </div>
+      </div>
+      <div className="block pt-6">
+        <div className="border-b border-gray-200 mb-4">
+          <nav
+            className="-mb-px flex justify-center"
+            aria-label="Tabs">
+            {tabs.map((tab, idx) => (
+              <Link
+                key={idx}
+                href={tab.href}>
+                <a
+                  key={tab.name}
+                  className={classNames(tab.current ? "border-indigo-500 text-indigo-600" : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300", "w-1/4 py-4 px-1 text-center border-b-2 font-medium text-sm")}
+                  aria-current={tab.current ? "page" : undefined}>
+                  {tab.name}
+                </a>
+              </Link>
+            ))}
+          </nav>
         </div>
       </div>
     </div>

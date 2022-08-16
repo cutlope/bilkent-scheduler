@@ -28,9 +28,11 @@ jobs:
         id: verify-changed-files
         with:
           files: data/base-courses.json
-      - name: Run step only when files change.
+      - name: Fetch Schedule/GPA if Courses Changed.
         if: steps.verify-changed-files.outputs.files_changed == 'true'
-        run: python ./scrapers/fetch-schedule.py
+        run: |
+          python ./scrapers/fetch-schedule.py
+          python ./scrapers/fetch-gpa.py
       - name: Get Time
         id: time
         uses: nanzm/get-time-action@v1.1
