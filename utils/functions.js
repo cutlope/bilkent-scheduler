@@ -14,6 +14,10 @@ function getNotOverlappingSections(courseSection, schedule = { timeslots: [], co
   let sectionslots = courseSection.schedule.map((times) => times.slot);
   let scheduleSlots = Object.values(schedule.timeslots).map((times) => times.classroom.slot);
 
+  if (sectionslots.length === 0) {
+    return null;
+  }
+
   if (areTimeslotsOverlapping(sectionslots, scheduleSlots)) {
     return null;
   }
@@ -84,17 +88,15 @@ const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections
           i += 1;
         } while (i < schedules.length);
       });
-      schedules = newSchedules;
+      if (newSchedules.length > 0) {
+        schedules = newSchedules;
+      }
     });
   }
   let maxLength = 0;
   schedules.map((schedule) => {
     Object.keys(schedule.timeslots).length > maxLength ? (maxLength = Object.keys(schedule.timeslots).length) : null;
   });
-
-  // schedules.map((schedule) => {
-  //     Object.keys(schedule.timeslots).length < maxLength ? (delete schedule.timeslots, delete schedule.courses) : null;
-  //     }),
 
   const result = schedules.filter((schedule) => {
     if (Object.keys(schedule.timeslots).length < maxLength) {
