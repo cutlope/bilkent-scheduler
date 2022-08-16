@@ -8,6 +8,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <Layout>
       <DefaultSeo
+        title="The Bilkent Scheduler"
+        description="The Bilkent Scheduler is a web application that helps you to plan your classes."
         openGraph={{
           type: "website",
           locale: "en_US",
