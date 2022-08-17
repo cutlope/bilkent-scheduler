@@ -45,13 +45,12 @@ function processGpa(gpa) {
 
 export default function GPA() {
   let semester = semesters[0].year + " " + semesters[0].name;
-  let title = `The Bilkent Scheduler | Average GPA ${semester} Offerings`;
-  let description = `The Bilkent Scheduler Compiles The Average Gpa Of Courses Offered By Bilkent University This ${semester} To Make The Course Selections For Students More Easier`;
+  let title = `Average GPA ${semester} Offerings | The Bilkent Scheduler`;
   return (
     <>
       <NextSeo
         title={title}
-        description={description}
+        description="The Bilkent Scheduler compiles the average GPA of courses offered by Bilkent University to make the course selections for students more easier."
         canonical="https://www.thebilkentscheduler.com/gpa"
       />
       <div className="px-4 sm:px-6 lg:px-8 relative">
