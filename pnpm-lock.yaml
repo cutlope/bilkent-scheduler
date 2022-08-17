@@ -23,6 +23,7 @@ specifiers:
   react-select: ^5.4.0
   react-use: ^17.4.0
   tailwindcss: ^3.1.7
+  tailwindcss-animation-delay: ^1.0.7
 
 dependencies:
   '@builder.io/partytown': 0.6.4
@@ -37,6 +38,7 @@ dependencies:
   react-merge-refs: 2.0.1
   react-select: 5.4.0_biqbaboplfbrettd7655fr4n2y
   react-use: 17.4.0_biqbaboplfbrettd7655fr4n2y
+  tailwindcss-animation-delay: 1.0.7_tailwindcss@3.1.7
 
 devDependencies:
   autoprefixer: 10.4.8_postcss@8.4.14
@@ -2683,6 +2685,14 @@ packages:
   /supports-preserve-symlinks-flag/1.0.0:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
+
+  /tailwindcss-animation-delay/1.0.7_tailwindcss@3.1.7:
+    resolution: {integrity: sha512-nJIQGJ7zePh7FiLFiZJOi7Vo+dRo+2Tqt8BRFa9yk8um0OFpuD7K3i8bZaNO3C8qMxdv0Y7YlHtCZq4/ydok9A==}
+    peerDependencies:
+      tailwindcss: '>=2.0.0'
+    dependencies:
+      tailwindcss: 3.1.7
+    dev: false
 
   /tailwindcss/3.1.7:
     resolution: {integrity: sha512-r7mgumZ3k0InfVPpGWcX8X/Ut4xBfv+1O/+C73ar/m01LxGVzWvPxF/w6xIUPEztrCoz7axfx0SMdh8FH8ZvRQ==}

@@ -96,151 +96,186 @@ export default function Home() {
         description="The Bilkent Scheduler makes it easy for Bilkent students to find the perfect schedule for courses during registration with upto date semester offerings."
         canonical="https://www.thebilkentscheduler.com/"
       />
-      <section className="relative py-4 leading-6 text-gray-900 lg:pb-12 lg:pt-6">
+      <section className="relative  py-4 leading-6 text-gray-900 lg:pb-12 lg:pt-6">
         <div className="flex flex-wrap">
           <div className="flex-none w-full max-w-full lg:flex-none lg:w-[23%] lg:px-2 md:px-50 sm:px-44 px-3 ">
             <div className="box-border">
-              <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
-                <h2 className="block mb-6 text-lg font-semibold xl:text-2xl leading-5">Courses</h2>
-                {/* Semesters Dropdown */}
-                <div className="relative pb-3">
-                  <Listbox
-                    value={selectedSemester}
-                    onChange={setSelectedSemester}
-                    disabled={true}>
-                    <div className="relative mt-1">
-                      <Listbox.Button className="relative w-full cursor-default rounded-lg bg-white py-2 pl-3 pr-10 text-left shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm">
-                        <span className="block truncate">
-                          {selectedSemester.year} {selectedSemester.name}
-                        </span>
-                        <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
-                          {semesters.length > 1 ? (
-                            <SelectorIcon
-                              className="h-5 w-5 text-gray-400"
-                              aria-hidden="true"
-                            />
-                          ) : null}
-                        </span>
-                      </Listbox.Button>
-                      <Transition
-                        as={Fragment}
-                        leave="transition ease-in duration-100"
-                        leaveFrom="opacity-100"
-                        leaveTo="opacity-0">
-                        <Listbox.Options className="z-50 absolute mt-1 max-h-60 w-full overflow-auto rounded-md bg-white py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none sm:text-sm">
-                          {semesters.map((semester, semesterIdx) => (
-                            <Listbox.Option
-                              key={semesterIdx}
-                              className={({ active }) => `relative cursor-default select-none py-2 pl-10 pr-4 ${active ? "bg-amber-100 text-amber-900" : "text-gray-900"}`}
-                              value={semester}>
-                              {({ selected }) => (
-                                <>
-                                  <span className={`block truncate ${selected ? "font-medium" : "font-normal"}`}>
-                                    {semester.year} {semester.name}
-                                  </span>
-                                  {selected ? (
-                                    <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-amber-600">
-                                      <CheckIcon
-                                        className="h-5 w-5"
-                                        aria-hidden="true"
-                                      />
+              <div className="relative group">
+                <div className="absolute animate-pulse -inset-0.5 bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-300 rounded-lg blur opacity-50 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
+                <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid relative ring-1 ring-gray-900/5">
+                  <h2 className="block mb-6 text-lg font-semibold xl:text-2xl leading-5">Courses</h2>
+                  {/* Semesters Dropdown */}
+                  <div className="relative pb-3">
+                    <Listbox
+                      value={selectedSemester}
+                      onChange={setSelectedSemester}
+                      disabled={true}>
+                      <div className="relative mt-1">
+                        <Listbox.Button className="relative w-full cursor-default rounded-lg bg-white py-2 pl-3 pr-10 text-left shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm">
+                          <span className="block truncate">
+                            {selectedSemester.year} {selectedSemester.name}
+                          </span>
+                          <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
+                            {semesters.length > 1 ? (
+                              <SelectorIcon
+                                className="h-5 w-5 text-gray-400"
+                                aria-hidden="true"
+                              />
+                            ) : null}
+                          </span>
+                        </Listbox.Button>
+                        <Transition
+                          as={Fragment}
+                          leave="transition ease-in duration-100"
+                          leaveFrom="opacity-100"
+                          leaveTo="opacity-0">
+                          <Listbox.Options className="z-50 absolute mt-1 max-h-60 w-full overflow-auto rounded-md bg-white py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none sm:text-sm">
+                            {semesters.map((semester, semesterIdx) => (
+                              <Listbox.Option
+                                key={semesterIdx}
+                                className={({ active }) => `relative cursor-default select-none py-2 pl-10 pr-4 ${active ? "bg-amber-100 text-amber-900" : "text-gray-900"}`}
+                                value={semester}>
+                                {({ selected }) => (
+                                  <>
+                                    <span className={`block truncate ${selected ? "font-medium" : "font-normal"}`}>
+                                      {semester.year} {semester.name}
                                     </span>
-                                  ) : null}
-                                </>
-                              )}
-                            </Listbox.Option>
-                          ))}
-                        </Listbox.Options>
-                      </Transition>
-                    </div>
-                  </Listbox>
-                </div>
+                                    {selected ? (
+                                      <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-amber-600">
+                                        <CheckIcon
+                                          className="h-5 w-5"
+                                          aria-hidden="true"
+                                        />
+                                      </span>
+                                    ) : null}
+                                  </>
+                                )}
+                              </Listbox.Option>
+                            ))}
+                          </Listbox.Options>
+                        </Transition>
+                      </div>
+                    </Listbox>
+                  </div>
 
-                {/* Departments Drop Down */}
-                <div className="relative">
-                  <label className="block text-sm leading-8 font-medium text-black">Departments</label>
-                  <Select
-                    options={departments.map((department) => ({
-                      value: department.code,
-                      label: department.code,
-                    }))}
-                    styles={{
-                      ...customStyles,
-                      multiValue: (base) => ({
-                        ...base,
-                        borderRadius: "8px",
-                      }),
-                      menu: (base) => ({
-                        ...base,
-                        zIndex: "50",
-                      }),
-                    }}
-                    isMulti
-                    isClearable
-                    isSearchable
-                    onChange={handleDepartmentSelection}
-                  />
-                  <span className="inline-block w-full rounded-xl shadow-sm"></span>
-                </div>
+                  {/* Departments Drop Down */}
+                  <div className="relative">
+                    <label className="block text-sm leading-8 font-medium text-black">Departments</label>
+                    <Select
+                      options={departments.map((department) => ({
+                        value: department.code,
+                        label: department.code,
+                      }))}
+                      styles={{
+                        ...customStyles,
+                        multiValue: (base) => ({
+                          ...base,
+                          borderRadius: "8px",
+                        }),
+                        menu: (base) => ({
+                          ...base,
+                          zIndex: "50",
+                        }),
+                      }}
+                      isMulti
+                      isClearable
+                      isSearchable
+                      onChange={handleDepartmentSelection}
+                    />
+                    <span className="inline-block w-full rounded-xl shadow-sm"></span>
+                  </div>
 
-                {/* Courses Drop Down */}
+                  {/* Courses Drop Down */}
 
-                <div className="relative">
-                  <label className="block text-sm leading-8 font-medium text-black">Courses</label>
-                  <Select
-                    options={displayCourses(courses, selectedDepartment).map((course) => ({
-                      value: course,
-                      label: course.code,
-                    }))}
-                    styles={{
-                      ...customStyles,
-                      multiValue: (base) => ({
-                        ...base,
-                        backgroundColor: "#f5f5f5",
-                        borderRadius: "8px",
-                      }),
-                      menu: (base) => ({
-                        ...base,
-                        zIndex: "50",
-                      }),
-                    }}
-                    isMulti
-                    isClearable
-                    isSearchable
-                    onChange={handleCourseSelection}
-                  />
+                  <div className="relative">
+                    <label className="block text-sm leading-8 font-medium text-black">Courses</label>
+                    <Select
+                      options={displayCourses(courses, selectedDepartment).map((course) => ({
+                        value: course,
+                        label: course.code,
+                      }))}
+                      styles={{
+                        ...customStyles,
+                        multiValue: (base) => ({
+                          ...base,
+                          backgroundColor: "#f5f5f5",
+                          borderRadius: "8px",
+                        }),
+                        menu: (base) => ({
+                          ...base,
+                          zIndex: "50",
+                        }),
+                      }}
+                      isMulti
+                      isClearable
+                      isSearchable
+                      onChange={handleCourseSelection}
+                    />
+                  </div>
                 </div>
               </div>
 
               {/* Instructor Filters Item */}
-              <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
-                <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5 ">
-                  Filter Instructors
-                  <Tooltip label="Exclude Instructors from your choices">
-                    <button>
-                      <svg
-                        className="ml-2 w-4 h-4 text-gray-400 hover:text-gray-500"
-                        aria-hidden="true"
-                        fill="currentColor"
-                        viewBox="0 0 20 20"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <path
-                          fillRule="evenodd"
-                          d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z"
-                          clipRule="evenodd"></path>
-                      </svg>
-                      <span className="sr-only">Show information</span>
-                    </button>
-                  </Tooltip>
-                </h2>
+              <div className="relative group">
+                <div className="absolute animate-pulse animation-delay-500 -inset-0.5 bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-300 rounded-lg blur opacity-50 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
 
-                <div className="relative">
+                <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid relative ring-1 ring-gray-900/5">
+                  <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5  ">
+                    Filter Instructors
+                    <Tooltip label="Exclude Instructors from your choices">
+                      <button>
+                        <svg
+                          className="ml-2 w-4 h-4 text-gray-400 hover:text-gray-500"
+                          aria-hidden="true"
+                          fill="currentColor"
+                          viewBox="0 0 20 20"
+                          xmlns="http://www.w3.org/2000/svg">
+                          <path
+                            fillRule="evenodd"
+                            d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z"
+                            clipRule="evenodd"></path>
+                        </svg>
+                        <span className="sr-only">Show information</span>
+                      </button>
+                    </Tooltip>
+                  </h2>
+
+                  <div className="relative">
+                    <Select
+                      options={selectedCourses.map((course) => ({
+                        label: course.value.code,
+                        options: handleInstructorDisplay(course).map((section) => ({
+                          value: section,
+                          label: section.instructor,
+                        })),
+                      }))}
+                      styles={{
+                        ...customStyles,
+                        menu: (base) => ({
+                          ...base,
+                          zIndex: "50",
+                        }),
+                      }}
+                      isMulti
+                      isClearable
+                      isSearchable
+                      onChange={handleInstructorSelection}
+                    />
+                  </div>
+                </div>
+              </div>
+
+              {/* Section Filters */}
+              <div className="relative group">
+                <div className="absolute animate-pulse animation-delay-1000 -inset-0.5 bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-300 rounded-lg blur opacity-50 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
+                <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid relative ring-1 ring-gray-900/5">
+                  <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5">Filter Sections</h2>
                   <Select
                     options={selectedCourses.map((course) => ({
                       label: course.value.code,
-                      options: handleInstructorDisplay(course).map((section) => ({
+                      options: course.value.sections.map((section) => ({
+                        label: `Section ${section.number}`,
                         value: section,
-                        label: section.instructor,
                       })),
                     }))}
                     styles={{
@@ -253,34 +288,9 @@ export default function Home() {
                     isMulti
                     isClearable
                     isSearchable
-                    onChange={handleInstructorSelection}
+                    onChange={handleSectionSelection}
                   />
                 </div>
-              </div>
-
-              {/* Section Filters */}
-              <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid">
-                <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5">Filter Sections</h2>
-                <Select
-                  options={selectedCourses.map((course) => ({
-                    label: course.value.code,
-                    options: course.value.sections.map((section) => ({
-                      label: `Section ${section.number}`,
-                      value: section,
-                    })),
-                  }))}
-                  styles={{
-                    ...customStyles,
-                    menu: (base) => ({
-                      ...base,
-                      zIndex: "50",
-                    }),
-                  }}
-                  isMulti
-                  isClearable
-                  isSearchable
-                  onChange={handleSectionSelection}
-                />
               </div>
             </div>
           </div>
