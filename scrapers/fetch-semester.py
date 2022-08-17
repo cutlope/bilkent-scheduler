@@ -35,7 +35,7 @@ for link in checkLinks:
         else:
             name = "Spring"
 
-        semesters.append({"code": str(checkSemester),
+        semesters.insert(0,{"code": str(checkSemester),
                          "year": year,
                          "name": name})
         with open(file_path, 'w+') as f:
