@@ -294,62 +294,48 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="flex-none w-full max-w-full md:mx-2 lg:px-0 sm:px-2 md:flex-none lg:w-[75%]">
-            <div className="pb-4 pr-4 pl-5 bg-white rounded-t-lg">
-              <div className="flex flex-wrap items-center">
-                <div className="flex-none w-full max-w-full md:flex-none lg:flex-none ">
-                  <nav className="border-t border-gray-200 px-4 flex items-center justify-between sm:px-0">
-                    <div className="-mt-px w-0 flex-1 flex">
-                      <button
-                        onClick={handlePreviousSchedule}
-                        className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400 ">
-                        <ArrowNarrowLeftIcon
-                          className="mr-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
-                          aria-hidden="true"
-                        />
-                        Previous
-                      </button>
-                    </div>
-                    <div className=" md:-mt-px md:flex">
-                      <a className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
-                        {schedules.length > 0 ? selectedSchedule + 1 : 0} / {schedules.length}
-                      </a>
-                    </div>
-                    <div className="-mt-px w-0 flex-1 flex justify-end">
-                      <button
-                        onClick={handleNextSchedule}
-                        className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400">
-                        Next
-                        <ArrowNarrowRightIcon
-                          className="ml-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
-                          aria-hidden="true"
-                        />
-                      </button>
-                    </div>
-                  </nav>
-                </div>
-              </div>
-            </div>
-            <div className="box-border">
-              <div className="flex flex-wrap pl-0">
-                <div className="flex-none w-full max-w-full">
-                  <div
-                    className="box-border"
-                    id="nav-tabContent">
-                    <div
-                      className="block"
-                      id="nav-grid"
-                      role="tabpanel"
-                      aria-labelledby="nav-grid-tab"
-                      style={{ transition: "opacity 0.15s linear 0s" }}>
-                      <div
-                        className="relative h-full"
-                        style={{ minHeight: "36rem" }}>
-                        {scheduleArray(schedules)[selectedSchedule]}
+          <div className="relative group flex-none w-full max-w-full md:mx-2 lg:px-0 sm:px-2 md:flex-none lg:w-[75%]">
+            <div className="absolute -inset-0.5 bg-gradient-to-l from-cyan-400 via-indigo-400 to-pink-300 rounded-lg blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
+            <div className="relative">
+              <div className="pb-4 pr-4 pl-5 bg-white rounded-t-lg">
+                <div className="flex flex-wrap items-center">
+                  <div className="flex-none w-full max-w-full md:flex-none lg:flex-none ">
+                    <nav className="border-t border-gray-200 px-4 flex items-center justify-between sm:px-0">
+                      <div className="-mt-px w-0 flex-1 flex">
+                        <button
+                          onClick={handlePreviousSchedule}
+                          className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400 ">
+                          <ArrowNarrowLeftIcon
+                            className="mr-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
+                            aria-hidden="true"
+                          />
+                          Previous
+                        </button>
                       </div>
-                    </div>
+                      <div className=" md:-mt-px md:flex">
+                        <span className="border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 pt-4 px-4 inline-flex items-center text-sm font-medium">
+                          {schedules.length > 0 ? selectedSchedule + 1 : 0} / {schedules.length}
+                        </span>
+                      </div>
+                      <div className="-mt-px w-0 flex-1 flex justify-end">
+                        <button
+                          onClick={handleNextSchedule}
+                          className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400">
+                          Next
+                          <ArrowNarrowRightIcon
+                            className="ml-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
+                            aria-hidden="true"
+                          />
+                        </button>
+                      </div>
+                    </nav>
                   </div>
                 </div>
+              </div>
+              <div
+                className="relative h-full"
+                style={{ minHeight: "36rem" }}>
+                {scheduleArray(schedules)[selectedSchedule]}
               </div>
             </div>
           </div>

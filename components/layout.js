@@ -1,5 +1,6 @@
-import Footer from "./footer";
+import dynamic from "next/dynamic";
 import Header from "./header";
+const Footer = dynamic(() => import("./footer.js"), { ssr: false });
 
 export default function Layout({ children }) {
   return (
