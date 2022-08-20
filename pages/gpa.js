@@ -45,7 +45,7 @@ function processGpa(gpa) {
 
 export default function GPA() {
   let semester = semesters[0].year + " " + semesters[0].name;
-  let title = `Average GPA ${semester} Offerings | The Bilkent Scheduler`;
+  let title = `Average GPA for ${semester} Offerings | Bilkent Scheduler`;
   return (
     <>
       <NextSeo
@@ -75,7 +75,7 @@ export default function GPA() {
                         scope="col"
                         className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">
                         GPA
-                        <Tooltip label="Average GPA for past 5 Years(Summer Excluded)">
+                        <Tooltip label="Average GPA for past 5 years (summer excluded)">
                           <button>
                             <svg
                               className="ml-2 w-4 h-4 text-gray-400 hover:text-gray-500"
