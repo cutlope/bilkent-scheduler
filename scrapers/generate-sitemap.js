@@ -8,7 +8,7 @@ function addPage(page) {
   return `  <url>
     <loc>${`${process.env.WEBSITE_URL}${route}`}</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>`;
 }
