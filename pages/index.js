@@ -89,10 +89,13 @@ export default function Home() {
     setSelectedSchedule(0);
   }, [selectedCourses, filteredSections, filteredInstructors]);
 
+  let semester = semesters[0].year + " " + semesters[0].name;
+  let title = `The Bilkent Scheduler | ${semester}`;
+
   return (
     <>
       <NextSeo
-        title="The Bilkent Scheduler"
+        title={title}
         description="The Bilkent Scheduler makes it easy for Bilkent students to find the perfect schedule for courses during registration with upto date semester offerings."
         canonical="https://www.thebilkentscheduler.com/"
       />
