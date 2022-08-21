@@ -110,7 +110,7 @@ export default function GPA() {
                       <Fragment key={Object.keys(course)}>
                         <tr className="border-t border-gray-200">
                           <th
-                            colSpan={5}
+                            colSpan={4}
                             scope="colgroup"
                             className="bg-gray-50 px-4 py-2 text-left text-sm font-semibold text-gray-900 sm:px-6">
                             {Object.keys(course)[0]}
