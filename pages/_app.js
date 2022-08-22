@@ -34,6 +34,10 @@ function MyApp({ Component, pageProps }) {
           href="favicon.ico?v=2"
         />
         <link
+          rel="shortcut icon"
+          href="favicon.ico"
+        />
+        <link
           rel="apple-touch-icon"
           sizes="180x180"
           href="apple-touch-icon.png"
