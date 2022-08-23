@@ -9,7 +9,7 @@ export default function Header() {
   const router = useRouter();
   const tabs = [
     { name: "Scheduler", href: "/", current: router.pathname === "/" },
-    { name: "Courses GPA", href: "gpa", current: router.pathname === "/gpa" },
+    { name: "Courses GPA", href: "courses", current: router.pathname === "/courses" },
   ];
 
   return (

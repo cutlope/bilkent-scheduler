@@ -12,6 +12,15 @@ const nextConfig = {
 
     return config;
   },
+  async redirects() {
+    return [
+      {
+        source: "/gpa",
+        destination: "/courses",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;

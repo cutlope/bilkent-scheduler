@@ -1,46 +1,13 @@
-/* This example requires Tailwind CSS v2.0+ */
 import { Fragment } from "react";
+import { CarouselJsonLd } from "next-seo";
 import courses from "../data/courses-gpa.json";
 import semesters from "../data/semesters.json";
 import { Tooltip } from "../components/Tooltip.js";
 import { NextSeo } from "next-seo";
+import { stringForm, generateStructData, processGpa, calculateGrade } from "../utils/functions";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
-}
-
-function calculateGrade(gpa) {
-  if (gpa >= 4.0) {
-    return "A";
-  } else if (gpa >= 3.7) {
-    return "A-";
-  } else if (gpa >= 3.3) {
-    return "B+";
-  } else if (gpa >= 3.0) {
-    return "B";
-  } else if (gpa >= 2.7) {
-    return "B-";
-  } else if (gpa >= 2.3) {
-    return "C+";
-  } else if (gpa >= 2.0) {
-    return "C";
-  } else if (gpa >= 1.7) {
-    return "C-";
-  } else if (gpa >= 1.3) {
-    return "D+";
-  } else if (gpa >= 1.0) {
-    return "D";
-  } else {
-    return "X";
-  }
-}
-
-function processGpa(gpa) {
-  if (gpa) {
-    return gpa === "0.00" ? "N/A" : gpa;
-  } else {
-    return "New Course";
-  }
 }
 
 export default function GPA() {
@@ -52,6 +19,10 @@ export default function GPA() {
         title={title}
         description="The Bilkent Scheduler compiles the average GPA of courses offered by Bilkent University to make the course selections for students more easier."
         canonical="https://www.thebilkentscheduler.com/gpa"
+      />
+      <CarouselJsonLd
+        ofType="Course"
+        data={generateStructData(courses)}
       />
       <div className="px-4 sm:px-6 lg:px-8 relative">
         <div className="sm:flex sm:items-center pl-1 ">
@@ -120,7 +91,11 @@ export default function GPA() {
                           <tr
                             key={course.code}
                             className={classNames(courseIdx === 0 ? "border-gray-300" : "border-gray-200", "border-t")}>
-                            <td className="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">{course.code}</td>
+                            <td
+                              id={stringForm(course.code)}
+                              className="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                              {course.code}
+                            </td>
                             <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{course.name}</td>
                             <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{processGpa(course.gpa)}</td>
                             <td className="whitespace-nowrap px-6 py-4 text-sm text-gray-500"> {calculateGrade(course.gpa)}</td>

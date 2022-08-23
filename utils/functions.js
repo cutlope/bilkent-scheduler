@@ -122,4 +122,57 @@ function displayCourses(dept, selectedDepartment) {
   return list;
 }
 
-export { prepareSchedules, displayCourses };
+function stringForm(code) {
+  return code.replace(/\s+/g, "").toLowerCase();
+}
+
+function processGpa(gpa) {
+  if (gpa) {
+    return gpa === "0.00" ? "N/A" : gpa;
+  } else {
+    return "New Course";
+  }
+}
+
+function calculateGrade(gpa) {
+  if (gpa >= 4.0) {
+    return "A";
+  } else if (gpa >= 3.7) {
+    return "A-";
+  } else if (gpa >= 3.3) {
+    return "B+";
+  } else if (gpa >= 3.0) {
+    return "B";
+  } else if (gpa >= 2.7) {
+    return "B-";
+  } else if (gpa >= 2.3) {
+    return "C+";
+  } else if (gpa >= 2.0) {
+    return "C";
+  } else if (gpa >= 1.7) {
+    return "C-";
+  } else if (gpa >= 1.3) {
+    return "D+";
+  } else if (gpa >= 1.0) {
+    return "D";
+  } else {
+    return "X";
+  }
+}
+
+function generateStructData(courses) {
+  let jsonld = [];
+  courses.map((course) =>
+    course[Object.keys(course)].courses.map((course) =>
+      jsonld.push({
+        courseName: `${course.code} : ${course.name}`,
+        description: `The Average GPA of ${course.code} is ${course.gpa ? processGpa(course.gpa): "N/A" } and a letter grade of ${calculateGrade(course.gpa)}`,
+        providerName: `Bilkent University`,
+        url: `https://www.thebilkentscheduler.com/courses#${stringForm(course.code)}`,
+      })
+    )
+  );
+  return jsonld;
+}
+
+export { prepareSchedules, displayCourses, generateStructData, stringForm, processGpa, calculateGrade };
