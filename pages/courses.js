@@ -13,6 +13,7 @@ function classNames(...classes) {
 export default function GPA() {
   let semester = semesters[0].year + " " + semesters[0].name;
   let title = `Average GPA for ${semester} Offerings | Bilkent Scheduler`;
+  let structData = generateStructData(courses);
   return (
     <>
       <NextSeo
@@ -21,8 +22,8 @@ export default function GPA() {
         canonical="https://www.thebilkentscheduler.com/courses"
       />
       <CarouselJsonLd
-        ofType="Course"
-        data={generateStructData(courses)}
+        ofType="course"
+        data={structData}
       />
       <div className="px-4 sm:px-6 lg:px-8 relative">
         <div className="sm:flex sm:items-center pl-1 ">
