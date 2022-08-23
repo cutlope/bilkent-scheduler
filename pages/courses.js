@@ -18,7 +18,7 @@ export default function GPA() {
       <NextSeo
         title={title}
         description="The Bilkent Scheduler compiles the average GPA of courses offered by Bilkent University to make the course selections for students more easier."
-        canonical="https://www.thebilkentscheduler.com/gpa"
+        canonical="https://www.thebilkentscheduler.com/courses"
       />
       <CarouselJsonLd
         ofType="Course"
