@@ -1,10 +1,56 @@
 import dynamic from "next/dynamic";
 import Header from "./header";
+import Head from "next/head";
 const Footer = dynamic(() => import("./footer.js"), { ssr: false });
 
 export default function Layout({ children }) {
   return (
     <>
+      <Head>
+        <title>Bilkent Schedule Generator </title>
+        <link
+          rel="icon"
+          href="favicon.ico?v=2"
+        />
+        <link
+          rel="shortcut icon"
+          href="favicon.ico"
+        />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="favicon-16x16.png"
+        />
+        <link
+          rel="manifest"
+          href="site.webmanifest"
+        />
+        <link
+          rel="mask-icon"
+          href="safari-pinned-tab.svg"
+          color="#5bbad5"
+        />
+        <meta
+          name="msapplication-TileColor"
+          content="#da532c"
+        />
+        <meta
+          name="theme-color"
+          content="#ffffff"
+        />
+      </Head>
       <section className="max-w-none mx-auto bg-gradient-to-br from-rose-100 to-teal-100 overflow-hidden ">
         <Header />
         <main>{children}</main>
