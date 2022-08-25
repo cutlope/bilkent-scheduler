@@ -2712,6 +2712,38 @@
           ]
         },
         {
+          "code": "CI 561",
+          "name": "School Service and Engagement",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Armağan Ateşkan",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-254"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-254"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "G-254"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-254"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "G-254"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "CI 599",
           "name": "Master's Thesis",
           "sections": [
@@ -3186,7 +3218,7 @@
             },
             {
               "number": "2",
-              "instructor": "Didem Özkul McGeoch",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 17,
@@ -3208,7 +3240,7 @@
             },
             {
               "number": "3",
-              "instructor": "Lutz Peschke",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 0,
@@ -3252,7 +3284,7 @@
             },
             {
               "number": "5",
-              "instructor": "Didem Özkul McGeoch",
+              "instructor": "Lutz Peschke",
               "schedule": [
                 {
                   "slot": 18,
@@ -3296,7 +3328,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Didem Özkul McGeoch",
               "schedule": [
                 {
                   "slot": 14,
@@ -3431,6 +3463,11 @@
                   "classroom": "FB-110"
                 }
               ]
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -3803,7 +3840,7 @@
             },
             {
               "number": "2",
-              "instructor": "Emel  Özdora Akşak",
+              "instructor": "Didem Özkul McGeoch",
               "schedule": [
                 {
                   "slot": 0,
@@ -3913,7 +3950,7 @@
             },
             {
               "number": "7",
-              "instructor": "Müge Mengü Hale",
+              "instructor": "Didem Özkul McGeoch",
               "schedule": [
                 {
                   "slot": 14,
@@ -3979,7 +4016,7 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Didem Özkul McGeoch",
               "schedule": [
                 {
                   "slot": 17,
@@ -4001,7 +4038,7 @@
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Emel  Özdora Akşak",
               "schedule": [
                 {
                   "slot": 17,
@@ -4020,6 +4057,11 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "12",
+              "instructor": "Müge Mengü Hale",
+              "schedule": []
             }
           ]
         },
@@ -4070,11 +4112,56 @@
                   "classroom": "FFB-008(S)"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "COMD 363",
+          "name": "Music and Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ufuk Önen",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             },
             {
-              "number": "3",
+              "number": "2",
               "instructor": "Ufuk Önen",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -4324,17 +4411,6 @@
           ]
         },
         {
-          "code": "COMD 451",
-          "name": "Creative Project Design and Development",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Fulten Larlar",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "COMD 471",
           "name": "Media Ethics",
           "sections": [
@@ -4412,7 +4488,7 @@
             },
             {
               "number": "3",
-              "instructor": "Emre Yalgın",
+              "instructor": "Fulten Larlar",
               "schedule": [
                 {
                   "slot": 36,
@@ -4526,17 +4602,6 @@
                   "classroom": "FB-310"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "COMD 527",
-          "name": "Creative Sound Design and Synthesis",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ufuk Önen",
-              "schedule": []
             }
           ]
         },
@@ -7875,6 +7940,50 @@
                   "classroom": "CE-106"
                 }
               ]
+            },
+            {
+              "number": "5",
+              "instructor": "Burcu Liman",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "C-216(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "C-216"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "C-216"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "C-216"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Burcu Liman",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "CE-106(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "CE-106"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "CE-106"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "CE-106"
+                }
+              ]
             }
           ]
         },
@@ -9086,7 +9195,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Arda Gitmez",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -9112,7 +9221,7 @@
             },
             {
               "number": "2",
-              "instructor": "Arda Gitmez",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -9138,7 +9247,7 @@
             },
             {
               "number": "3",
-              "instructor": "Arda Gitmez",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -9164,7 +9273,7 @@
             },
             {
               "number": "4",
-              "instructor": "Arda Gitmez",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -9190,7 +9299,7 @@
             },
             {
               "number": "5",
-              "instructor": "Arda Gitmez",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -9216,7 +9325,7 @@
             },
             {
               "number": "6",
-              "instructor": "Arda Gitmez",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -9242,7 +9351,7 @@
             },
             {
               "number": "7",
-              "instructor": "Arda Gitmez",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -9268,7 +9377,7 @@
             },
             {
               "number": "8",
-              "instructor": "Nuh Aygün Dalkıran",
+              "instructor": "Arda Gitmez",
               "schedule": [
                 {
                   "slot": 1,
@@ -9294,7 +9403,7 @@
             },
             {
               "number": "9",
-              "instructor": "Nuh Aygün Dalkıran",
+              "instructor": "Arda Gitmez",
               "schedule": [
                 {
                   "slot": 1,
@@ -9320,7 +9429,7 @@
             },
             {
               "number": "10",
-              "instructor": "Nuh Aygün Dalkıran",
+              "instructor": "Arda Gitmez",
               "schedule": [
                 {
                   "slot": 1,
@@ -9346,7 +9455,7 @@
             },
             {
               "number": "11",
-              "instructor": "Nuh Aygün Dalkıran",
+              "instructor": "Arda Gitmez",
               "schedule": [
                 {
                   "slot": 1,
@@ -9372,7 +9481,7 @@
             },
             {
               "number": "12",
-              "instructor": "Nuh Aygün Dalkıran",
+              "instructor": "Arda Gitmez",
               "schedule": [
                 {
                   "slot": 1,
@@ -9398,7 +9507,7 @@
             },
             {
               "number": "13",
-              "instructor": "Nuh Aygün Dalkıran",
+              "instructor": "Arda Gitmez",
               "schedule": [
                 {
                   "slot": 1,
@@ -9424,7 +9533,7 @@
             },
             {
               "number": "14",
-              "instructor": "Nuh Aygün Dalkıran",
+              "instructor": "Arda Gitmez",
               "schedule": [
                 {
                   "slot": 1,
@@ -9456,7 +9565,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Fatma Taşkın",
               "schedule": [
                 {
                   "slot": 3,
@@ -9482,7 +9591,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Fatma Taşkın",
               "schedule": [
                 {
                   "slot": 3,
@@ -9508,7 +9617,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Fatma Taşkın",
               "schedule": [
                 {
                   "slot": 3,
@@ -9534,7 +9643,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Fatma Taşkın",
               "schedule": [
                 {
                   "slot": 3,
@@ -9560,7 +9669,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Fatma Taşkın",
               "schedule": [
                 {
                   "slot": 3,
@@ -9586,7 +9695,7 @@
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Fatma Taşkın",
               "schedule": [
                 {
                   "slot": 3,
@@ -9612,7 +9721,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Fatma Taşkın",
               "schedule": [
                 {
                   "slot": 3,
@@ -9635,11 +9744,6 @@
                   "classroom": "V-04"
                 }
               ]
-            },
-            {
-              "number": "8",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -9734,6 +9838,28 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "5",
+              "instructor": "Halil Baha Karabudak",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -9809,7 +9935,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Ebru Güven",
               "schedule": [
                 {
                   "slot": 0,
@@ -9826,6 +9952,28 @@
                 {
                   "slot": 44,
                   "classroom": "A-125"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Ebru Güven",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "A-125"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "A-125"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "A-125"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "A-125(S)"
                 }
               ]
             }
@@ -9881,7 +10029,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Ebru Güven",
               "schedule": [
                 {
                   "slot": 16,
@@ -9900,11 +10048,6 @@
                   "classroom": "A-127"
                 }
               ]
-            },
-            {
-              "number": "4",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -10115,11 +10258,6 @@
                   "classroom": "V-04"
                 }
               ]
-            },
-            {
-              "number": "5",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
             }
           ]
         },
@@ -10179,7 +10317,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hakan Berument",
               "schedule": [
                 {
                   "slot": 1,
@@ -10201,7 +10339,7 @@
             },
             {
               "number": "2",
-              "instructor": "Hakan Berument",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 15,
@@ -10755,7 +10893,7 @@
             },
             {
               "number": "3",
-              "instructor": "Fatma Taşkın",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 18,
@@ -11072,7 +11210,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Emin Karagözoğlu",
               "schedule": [
                 {
                   "slot": 0,
@@ -11104,7 +11242,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hüseyin Çağrı Sağlam",
               "schedule": [
                 {
                   "slot": 18,
@@ -11136,7 +11274,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tarık Kara",
               "schedule": [
                 {
                   "slot": 4,
@@ -11168,7 +11306,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Semih Koray",
               "schedule": [
                 {
                   "slot": 0,
@@ -11200,7 +11338,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Şaziye Pelin Akyol",
               "schedule": [
                 {
                   "slot": 15,
@@ -11228,7 +11366,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burçin Kısacıkoğlu",
               "schedule": [
                 {
                   "slot": 3,
@@ -11256,7 +11394,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": []
             }
           ]
@@ -11267,7 +11405,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": []
             }
           ]
@@ -11289,7 +11427,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": []
             }
           ]
@@ -11300,7 +11438,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nuh Aygün Dalkıran",
               "schedule": []
             }
           ]
@@ -11640,7 +11778,7 @@
             },
             {
               "number": "2",
-              "instructor": "Süleyman Serdar Kozat",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 4,
@@ -12381,6 +12519,45 @@
           ]
         },
         {
+          "code": "EEE 399",
+          "name": "Summer Training II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 414",
+          "name": "Introduction to CMOS VLSI Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EE-317"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "EEE 424",
           "name": "Digital Signal Processing",
           "sections": [
@@ -12403,6 +12580,28 @@
                 {
                   "slot": 44,
                   "classroom": "EE-517"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Süleyman Serdar Kozat",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-317"
                 }
               ]
             }
@@ -12815,6 +13014,34 @@
                 },
                 {
                   "slot": 59,
+                  "classroom": "EE-317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 514",
+          "name": "Introduction to CMOS VLSI Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 44,
                   "classroom": "EE-317"
                 }
               ]
@@ -13616,6 +13843,17 @@
                   "classroom": "T-162"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "ELIT 420",
+          "name": "Sir Walter Scott, Scotland, and the Historical Novel",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Stein Haugom Olsen",
+              "schedule": []
             }
           ]
         },
@@ -16727,7 +16965,7 @@
             },
             {
               "number": "2",
-              "instructor": "Andrew William Hassell",
+              "instructor": "Andrew William Hassell & Burcu Sarı Karademir",
               "schedule": [
                 {
                   "slot": 18,
@@ -17140,6 +17378,34 @@
           ]
         },
         {
+          "code": "GRA 205",
+          "name": "Rendering for Graphic Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Birsu Semra Çeltek",
+              "schedule": [
+                {
+                  "slot": 36,
+                  "classroom": "FB-121"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "FB-121"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "FB-121"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "FB-121(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "GRA 207",
           "name": "Conceptual Design",
           "sections": [
@@ -17192,11 +17458,6 @@
                   "classroom": "FB-119"
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Ekin Kılıç Ezer",
-              "schedule": []
             }
           ]
         },
@@ -17379,17 +17640,6 @@
           ]
         },
         {
-          "code": "GRA 223",
-          "name": "Photographic Image Processing I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Murad Gürzumar",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "GRA 225",
           "name": "Introduction to Visual Techniques",
           "sections": [
@@ -17549,6 +17799,34 @@
           ]
         },
         {
+          "code": "GRA 323",
+          "name": "Logos, Symbols and Signs",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekin Kılıç Ezer",
+              "schedule": [
+                {
+                  "slot": 36,
+                  "classroom": "FB-119"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "FB-119"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "FB-119"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "FB-119(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "GRA 324",
           "name": "Photographic Practice",
           "sections": [
@@ -17571,6 +17849,28 @@
                 {
                   "slot": 24,
                   "classroom": "FB-209"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Murad Gürzumar",
+              "schedule": [
+                {
+                  "slot": 38,
+                  "classroom": "FB-209"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "FB-209"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "FB-209"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "FB-209(S)"
                 }
               ]
             }
@@ -17794,17 +18094,6 @@
                   "classroom": "FB-314"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "GRA 421",
-          "name": "Illustration I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Birsu Semra Çeltek",
-              "schedule": []
             }
           ]
         },
@@ -21025,6 +21314,28 @@
                   "classroom": "G-153"
                 }
               ]
+            },
+            {
+              "number": "42",
+              "instructor": "Marjan Mohammadi",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-107(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-107"
+                }
+              ]
             }
           ]
         },
@@ -21295,17 +21606,6 @@
                   "classroom": "G-131"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "HUM 331",
-          "name": "Humanities and Social Science Honors Seminar",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Marjan Mohammadi",
-              "schedule": []
             }
           ]
         }
@@ -23267,7 +23567,7 @@
             },
             {
               "number": "2",
-              "instructor": "Özlem Karsu",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 18,
@@ -23980,6 +24280,34 @@
                 {
                   "slot": 42,
                   "classroom": "B-204"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IE 443",
+          "name": "Multi-Objective Decision Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Karsu",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-206(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-206"
                 }
               ]
             }
@@ -27187,6 +27515,34 @@
           ]
         },
         {
+          "code": "LAW 580",
+          "name": "Legal Methodology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hamdi Pınar",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "LAW 590",
           "name": "Pre-Thesis Seminar",
           "sections": [
@@ -29389,6 +29745,28 @@
                   "classroom": "MA-202"
                 }
               ]
+            },
+            {
+              "number": "3",
+              "instructor": "Eyüp Emre Berk",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "MA-302(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "MA-302"
+                }
+              ]
             }
           ]
         },
@@ -29461,6 +29839,17 @@
                   "classroom": "MA-201"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 399",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Celile Itır Göğüş",
+              "schedule": []
             }
           ]
         },
@@ -29672,17 +30061,6 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MAN 443",
-          "name": "Operations Strategy",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Eyüp Emre Berk",
               "schedule": []
             }
           ]
@@ -31917,12 +32295,96 @@
           ]
         },
         {
+          "code": "MATH 521",
+          "name": "Introduction to Quantum Computation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cihan Okay",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "SA-Z03(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "SA-Z03"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "SA-Z03"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "SA-Z03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MATH 541",
+          "name": "Manifold Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bülent Ünal",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "SA-Z19(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "SA-Z19"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "SA-Z19"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "SA-Z19"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MATH 573",
+          "name": "Introduction to Financial Mathematics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ali Süleyman Üstünel",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "SA-Z19(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "SA-Z19"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "SA-Z19"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "SA-Z19"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "MATH 597",
           "name": "Graduate Seminars in Mathematics I",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             }
           ]
@@ -31933,7 +32395,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             }
           ]
@@ -31944,7 +32406,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             }
           ]
@@ -33488,7 +33950,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Şerif Faruk Arınç",
               "schedule": [
                 {
                   "slot": 2,
@@ -33563,11 +34025,6 @@
                   "classroom": "(S)"
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -33633,7 +34090,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Yıldıray Yıldız",
+              "instructor": "Müjdat Tohumcu & Yıldıray Yıldız",
               "schedule": [
                 {
                   "slot": 4,
@@ -34015,6 +34472,28 @@
                 },
                 {
                   "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Aylin Yılmaz",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
                   "classroom": ""
                 }
               ]
@@ -34674,17 +35153,6 @@
             {
               "number": "7",
               "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 488",
-          "name": "Interactive Computer Music with Max",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Tahsin Tolga Yayalar",
               "schedule": []
             }
           ]
@@ -38558,7 +39026,7 @@
             },
             {
               "number": "4",
-              "instructor": "Emine Ulaşan Özgüle",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 0,
@@ -38580,7 +39048,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Kaan Kerman",
               "schedule": [
                 {
                   "slot": 18,
@@ -38624,7 +39092,7 @@
             },
             {
               "number": "7",
-              "instructor": "Kaan Kerman",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 3,
@@ -38643,16 +39111,6 @@
                   "classroom": ""
                 }
               ]
-            },
-            {
-              "number": "8",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "9",
-              "instructor": "Aslıhan Koyuncu",
-              "schedule": []
             }
           ]
         },
@@ -38973,6 +39431,28 @@
                 {
                   "slot": 59,
                   "classroom": "A-125"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hande Ilgaz",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
                 }
               ]
             }
@@ -39673,11 +40153,6 @@
                   "classroom": "LA-101"
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         }
@@ -40732,7 +41207,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": [
                 {
                   "slot": 0,
@@ -40864,6 +41339,16 @@
             },
             {
               "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
               "instructor": "Staff",
               "schedule": []
             }
@@ -41013,11 +41498,6 @@
                   "classroom": ""
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -41075,6 +41555,34 @@
                 },
                 {
                   "slot": 60,
+                  "classroom": "(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "THR 303",
+          "name": "Voice and Speech V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
                   "classroom": "(S)"
                 }
               ]
@@ -41351,11 +41859,6 @@
                   "classroom": "LA-114"
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Asena Kaya Karaca",
-              "schedule": []
             }
           ]
         },
@@ -41393,7 +41896,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Emine Bogenç Demirel & Celal Demirel",
+              "instructor": "Cahide Ekiz & Emine Bogenç Demirel",
               "schedule": []
             },
             {
@@ -41409,7 +41912,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Emine Bogenç Demirel & Zeynep Şengel",
+              "instructor": "Duygu Duman & Zeynep Şengel",
               "schedule": [
                 {
                   "slot": 0,
@@ -41439,7 +41942,7 @@
             },
             {
               "number": "2",
-              "instructor": "Cahide Ekiz & Duygu Duman",
+              "instructor": "Duygu Duman & Asena Kaya Karaca",
               "schedule": [
                 {
                   "slot": 0,
@@ -41475,7 +41978,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Füsun Ataseven & Zeynep Şengel",
               "schedule": [
                 {
                   "slot": 2,
@@ -41502,6 +42005,36 @@
                   "classroom": "LA-114"
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Füsun Ataseven & Zeynep Şengel",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": ""
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -41511,7 +42044,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Zeynep Şengel & Elvin Abbasbeyli",
               "schedule": [
                 {
                   "slot": 3,
@@ -41539,7 +42072,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Asena Kaya Karaca",
               "schedule": [
                 {
                   "slot": 18,
@@ -41606,7 +42139,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Elvin Abbasbeyli",
               "schedule": [
                 {
                   "slot": 16,
@@ -41657,12 +42190,48 @@
           ]
         },
         {
+          "code": "TRIN 481",
+          "name": "Consecutive and Simultaneous Interpretation Techniques",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elvin Abbasbeyli",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": ""
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "TRIN 485",
           "name": "Translation workshop for EU texts and official documents ",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cahide Ekiz & Elvin Abbasbeyli",
               "schedule": [
                 {
                   "slot": 2,
@@ -41687,6 +42256,42 @@
                 {
                   "slot": 56,
                   "classroom": "LA-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TRIN 487",
+          "name": "Interpreting for Public Services",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Füsun Ataseven & Duygu Duman",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
+                  "classroom": ""
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
                 }
               ]
             }
