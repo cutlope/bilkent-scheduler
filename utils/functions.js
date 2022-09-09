@@ -69,8 +69,10 @@ const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections
   let schedules = [];
   if (selectedCourses && selectedCourses.length > 0) {
     selectedCourses.map((course) => {
-      course.value["color"] = colors[Math.floor(Math.random() * colors.length)];
-      colors.splice(colors.indexOf(course.value["color"]), 1);
+      if (course.value["color"] === undefined) {
+        course.value["color"] = colors[Math.floor(Math.random() * colors.length)];
+      }
+      //   colors.splice(colors.indexOf(course.value["color"]), 1);
       const newSchedules = [];
       let plainSections = getSections(course.value.sections, filteredSections, filteredInstructors);
       plainSections.map((section) => {
@@ -166,7 +168,7 @@ function generateStructData(courses) {
     course[Object.keys(course)].courses.map((course) =>
       jsonld.push({
         courseName: `${course.code} : ${course.name}`,
-        description: `The Average GPA of ${course.code} is ${course.gpa ? processGpa(course.gpa): "N/A" } and a letter grade of ${calculateGrade(course.gpa)}`,
+        description: `The Average GPA of ${course.code} is ${course.gpa ? processGpa(course.gpa) : "N/A"} and a letter grade of ${calculateGrade(course.gpa)}`,
         providerName: `Bilkent University`,
         url: `https://www.thebilkentscheduler.com/courses#${stringForm(course.code)}`,
       })
