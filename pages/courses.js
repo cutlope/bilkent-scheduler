@@ -1,9 +1,8 @@
-import { Fragment } from "react";
-import { CarouselJsonLd } from "next-seo";
+import { Fragment, useEffect, useState } from "react";
 import courses from "../data/courses-gpa.json";
 import semesters from "../data/semesters.json";
 import { Tooltip } from "../components/Tooltip.js";
-import { NextSeo } from "next-seo";
+import { NextSeo, CarouselJsonLd } from "next-seo";
 import { stringForm, generateStructData, processGpa, calculateGrade } from "../utils/functions";
 
 function classNames(...classes) {
@@ -14,6 +13,28 @@ export default function GPA() {
   let semester = semesters[0].year + " " + semesters[0].name;
   let title = `Average GPA for ${semester} Offerings | Bilkent Scheduler`;
   let structData = generateStructData(courses);
+  const [visible, setVisible] = useState(false);
+
+  const toggleVisible = () => {
+    const scrolled = document.documentElement.scrollTop;
+    if (scrolled > 500) {
+      setVisible(true);
+    } else if (scrolled <= 500) {
+      setVisible(false);
+    }
+  };
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
+  useEffect(() => {
+    window.addEventListener("scroll", toggleVisible);
+  }, []);
+
   return (
     <>
       <NextSeo
@@ -25,11 +46,16 @@ export default function GPA() {
         ofType="course"
         data={structData}
       />
-      <div className="px-4 sm:px-6 lg:px-8 relative">
+      <button
+        onClick={scrollToTop}
+        className={`${visible ? "null" : "hidden"} fixed z-50 bottom-8 right-4 border-0 sm:w-12 sm:h-12 w-9 h-9 rounded-full drop-shadow-md bg-emerald-300 text-white sm:text-3xl text-2xl font-bold opacity-60`}>
+        &uarr;
+      </button>
+      <div className="px-4 mb-3 sm:px-6 lg:px-8 relative">
         <div className="sm:flex sm:items-center pl-1 ">
           <div className="sm:flex-auto">
             <h1 className="text-xl font-semibold text-gray-900">{semester} Courses</h1>
-            <p className="mt-2 text-sm text-gray-700">Average GPA and Letter Grades for Courses offered by Bilkent University in {semester} Semester.</p>
+            <h2 className="mt-2 text-sm text-gray-700">Average GPA and Letter Grades for Courses offered by Bilkent University in {semester} Semester.</h2>
           </div>
         </div>
         <div className="mt-8 flex flex-col">
@@ -66,7 +92,6 @@ export default function GPA() {
                                 d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z"
                                 clipRule="evenodd"></path>
                             </svg>
-                            <span className="sr-only">Show information</span>
                           </button>
                         </Tooltip>
                       </th>

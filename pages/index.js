@@ -5,7 +5,7 @@ import { Listbox, Transition } from "@headlessui/react";
 import { useState, Fragment } from "react";
 import Calendar from "../components/calendar";
 import Select from "react-select";
-import { ArrowNarrowLeftIcon, ArrowNarrowRightIcon, CheckIcon, SelectorIcon } from "@heroicons/react/solid";
+import { ArrowLongLeftIcon, ArrowLongRightIcon, CheckIcon, ChevronUpDownIcon } from "@heroicons/react/20/solid";
 import { prepareSchedules, displayCourses } from "../utils/functions";
 import { useUpdateEffect } from "react-use";
 import { NextSeo } from "next-seo";
@@ -120,7 +120,7 @@ export default function Home() {
                           </span>
                           <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
                             {semesters.length > 1 ? (
-                              <SelectorIcon
+                              <ChevronUpDownIcon
                                 className="h-5 w-5 text-gray-400"
                                 aria-hidden="true"
                               />
@@ -225,7 +225,7 @@ export default function Home() {
                 <div className="py-6 px-4 mb-8 bg-white rounded-xl border border-gray-200 border-solid relative ring-1 ring-gray-900/5">
                   <h2 className="block mb-6 text-lg font-semibold xl:text-xl leading-5  ">
                     Filter Instructors
-                    <Tooltip label="Exclude Instructors from your choices">
+                    <Tooltip label="Exclude Instructors">
                       <button>
                         <svg
                           className="ml-2 w-4 h-4 text-gray-400 hover:text-gray-500"
@@ -308,7 +308,7 @@ export default function Home() {
                         <button
                           onClick={handlePreviousSchedule}
                           className="border-t-2 border-transparent pt-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400 ">
-                          <ArrowNarrowLeftIcon
+                          <ArrowLongLeftIcon
                             className="mr-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
                             aria-hidden="true"
                           />
@@ -325,7 +325,7 @@ export default function Home() {
                           onClick={handleNextSchedule}
                           className="border-t-2 border-transparent pt-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-emerald-700 hover:border-emerald-400">
                           Next
-                          <ArrowNarrowRightIcon
+                          <ArrowLongRightIcon
                             className="ml-3 h-5 w-5 text-gray-400 hover:text-emerald-400"
                             aria-hidden="true"
                           />
