@@ -112,16 +112,14 @@ const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections
 };
 
 function displayCourses(dept, selectedDepartment) {
-  const list = [];
-  selectedDepartment.map((department) => {
-    let depart = department.value;
+    let list = [];
+    let depart = selectedDepartment.value;
     dept.map((courses) => {
       courses[depart]?.courses?.map((course) => {
         list.push(course);
       });
     });
-  });
-  return list;
+    return list;
 }
 
 function stringForm(code) {

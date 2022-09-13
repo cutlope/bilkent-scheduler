@@ -193,10 +193,12 @@ export default function Home() {
                   <div className="relative">
                     <label className="block text-sm leading-8 font-medium text-black">Courses</label>
                     <Select
-                      options={displayCourses(courses, selectedDepartment).map((course) => ({
-                        value: course,
-                        label: course.code,
-                      }))}
+                      options={selectedDepartment.map((department) => ({
+                        label: department.label,
+                        options: displayCourses(courses, department).map((course) => ({
+                            value: course,
+                            label: course.code,
+                      }))}))}
                       styles={{
                         ...customStyles,
                         multiValue: (base) => ({
