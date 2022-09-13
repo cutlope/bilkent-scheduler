@@ -29,14 +29,13 @@ with open(file_path, 'r') as f:
 
 for department in departments:
     departmentCode = department.get("code")
-    url = "https://stars.bilkent.edu.tr/homepage/ajax/plainOfferings.php?COURSE_CODE={departmentCode}&SEMESTER={semesterCode}".format(
+    url = "https://stars.bilkent.edu.tr/homepage/ajax/plainOfferings.php?COURSE_CODE={departmentCode}&SEMESTER={semesterCode}&submit=List+Selected+Offerings".format(
         departmentCode=departmentCode, semesterCode=semesterCode)
     page = s.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
     tables = soup.findChildren('table')
-    if len(tables) != 1:
-        table = tables[1]
-        body = table.findChildren('tbody')
+    if len(tables) == 1:
+        body = tables[0].findChildren('tbody')
         rows = body[0].findChildren('tr')
         offerings = []
         for row in rows:
