@@ -72,7 +72,7 @@ const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections
       if (course.value["color"] === undefined) {
         course.value["color"] = colors[Math.floor(Math.random() * colors.length)];
       }
-      //   colors.splice(colors.indexOf(course.value["color"]), 1);
+        colors.splice(colors.indexOf(course.value["color"]), 1);
       const newSchedules = [];
       let plainSections = getSections(course.value.sections, filteredSections, filteredInstructors);
       plainSections.map((section) => {
@@ -82,10 +82,7 @@ const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections
         do {
           const newSchedule = getNotOverlappingSections(section, schedules[i]);
           if (newSchedule) {
-            //             if (Object.keys(newSchedule.timeslots).length !== 0) {
-            //                 if (Object.keys(newSchedule.timeslots).length > 2.5 * newSchedule.courses.length) {
             newSchedules.push(newSchedule);
-            //   }}
           }
           i += 1;
         } while (i < schedules.length);
