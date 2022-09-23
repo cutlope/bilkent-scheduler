@@ -1,34 +1,111 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
+<h1> The Bilkent Scheduler </h1>
 
-## Getting Started
+[![Next][next.js]][next-url] [![React][react.js]][react-url] [![Python][python]][python-url] [![GitHub Actions][github actions]][github actions-url] [![Vercel][vercel]][vercel-url]
 
-First, run the development server:
+[![Product Name Screen Shot][product-screenshot]](https://thebilkentscheduler.com)
+
+## Description
+
+The Bilkent Scheduler is a web application that allows students to create their own schedules for the upcoming semester.
+
+The application is built using Next.js and uses a combination of Python BeautifulSoup and Github Actions([git-scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)) to scrape the Bilkent University course catalog and create a JSON file that is used to populate the website. The application is hosted on Vercel.
+
+The Bilkent Scheduler was created because, at the time of its creation, the other available schedulers were not up to date with the current Bilkent University course offerings. The Bilkent Scheduler is updated every semester with the latest course offerings by itself.       
+This project was my attempt at creating a more modern-looking and up-to-date scheduler that would be easier to use and self-updating. It was also an experiment to see how much I could learn and create in a span of 2 weeks.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+- [License](#license)
+
+## Installation
+
+Clone the project:
+
+    git clone https://github.com/cutlope/bilkent-scheduler.git
+
+Install dependencies:
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Using pnpm
+pnpm install
+
+# Using npm
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Run dev server:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Using pnpm
+pnpm run dev
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Using npm
+npm run dev
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- ROADMAP -->
 
-## Learn More
+## Roadmap
 
-To learn more about Next.js, take a look at the following resources:
+- [x] Add GPA for each course
+  - [ ] Add GPA per instructor for each course
+- [x] Add back to top button
+- [ ] Add option to block timeslots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+See the [open issues](https://github.com/cutlope/bilkent-scheduler/issues) for a full list of proposed features (and known issues).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!-- CONTACT -->
 
-## Deploy on Vercel
+<!-- ACKNOWLEDGMENTS -->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Acknowledgments
+
+Shoutout to these people whose projects helped me create this project:
+
+- [furkankose/bilkent-scheduler](https://github.com/furkankose/bilkent-scheduler)
+- [mustafaakin/bilkent-scheduler](https://github.com/mustafaakin/bilkent-scheduler)
+
+## Contact
+
+Feel free to contact me at: [hey@cutlope.dev](mailto:hey@cutlope.dev)
+
+<!-- CONTRIBUTING -->
+
+## License
+
+Distributed under the GNU GPLv3 License. See license.txt for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[next-url]: https://nextjs.org/
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.python.org/
+[github actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+[github actions-url]: https://github.com/features/actions
+[vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[vercel-url]: https://vercel.com/
+[product-screenshot]: /public/screenshot.png
