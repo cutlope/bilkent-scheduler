@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@builder.io/partytown": "^0.7.0",
     "@floating-ui/react-dom-interactions": "^0.9.3",
     "@headlessui/react": "^1.7.0",
     "@heroicons/react": "^2.0.10",
@@ -24,6 +23,7 @@
     "tailwindcss-animation-delay": "^1.0.7"
   },
   "devDependencies": {
+    "@builder.io/partytown": "^0.7.0",
     "autoprefixer": "^10.4.8",
     "eslint": "^8.23.0",
     "eslint-config-next": "12.3.0",

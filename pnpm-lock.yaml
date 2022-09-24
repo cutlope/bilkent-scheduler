@@ -26,7 +26,6 @@ specifiers:
   tailwindcss-animation-delay: ^1.0.7
 
 dependencies:
-  '@builder.io/partytown': 0.7.0
   '@floating-ui/react-dom-interactions': 0.9.3_biqbaboplfbrettd7655fr4n2y
   '@headlessui/react': 1.7.0_biqbaboplfbrettd7655fr4n2y
   '@heroicons/react': 2.0.10_react@18.2.0
@@ -41,6 +40,7 @@ dependencies:
   tailwindcss-animation-delay: 1.0.7_tailwindcss@3.1.8
 
 devDependencies:
+  '@builder.io/partytown': 0.7.0
   autoprefixer: 10.4.8_postcss@8.4.16
   eslint: 8.23.0
   eslint-config-next: 12.3.0_eslint@8.23.0
@@ -127,7 +127,7 @@ packages:
   /@builder.io/partytown/0.7.0:
     resolution: {integrity: sha512-Mw2KeiPglCZujE99ntbJfZq52dJktzhfifWav4UJYgDx81L/hWMQXg/bNqsYlz9cnopDBqYewy+6qbv3b1DcyQ==}
     hasBin: true
-    dev: false
+    dev: true
 
   /@emotion/babel-plugin/11.10.2:
     resolution: {integrity: sha512-xNQ57njWTFVfPAc3cjfuaPdsgLp5QOSuRsj9MA6ndEhH/AzuZM86qIQzt6rq+aGBwj3n5/TkLmU5lhAfdRmogA==}
