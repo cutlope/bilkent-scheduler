@@ -1,6 +1,7 @@
 import "../styles/globals.css";
 import Layout from "../components/layout.js";
 import { DefaultSeo } from "next-seo";
+import { Analytics } from "@vercel/analytics/react";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -27,6 +28,7 @@ function MyApp({ Component, pageProps }) {
       />
 
       <Component {...pageProps} />
+      <Analytics />
     </Layout>
   );
 }
