@@ -5,6 +5,7 @@ const nextConfig = {
   experimental: {
     nextScriptWorkers: true,
   },
+  ignoreDuringBuilds: true,
   webpack: (config, { isServer }) => {
     if (isServer) {
       require("./scrapers/generate-sitemap");
