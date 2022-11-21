@@ -30,8 +30,10 @@ export default function Header() {
             />
           </svg>
           <div className="w-auto mr-14">
-            <Link href="/">
-              <a className="font-heading font-semibold text-lg text-black">The Bilkent Scheduler</a>
+            <Link
+              className="font-heading font-semibold text-lg text-black"
+              href="/">
+              The Bilkent Scheduler
             </Link>
           </div>
         </div>
@@ -44,13 +46,10 @@ export default function Header() {
             {tabs.map((tab, idx) => (
               <Link
                 key={idx}
-                href={tab.href}>
-                <a
-                  key={tab.name}
-                  className={classNames(tab.current ? "border-teal-500 text-teal-600" : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300", "sm:w-1/6 py-4 px-1 text-center border-b-2 font-medium text-sm mx-2")}
-                  aria-current={tab.current ? "page" : undefined}>
-                  {tab.name}
-                </a>
+                href={tab.href}
+                className={classNames(tab.current ? "border-teal-500 text-teal-600" : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300", "sm:w-1/6 py-4 px-1 text-center border-b-2 font-medium text-sm mx-2")}
+                aria-current={tab.current ? "page" : undefined}>
+                {tab.name}
               </Link>
             ))}
           </nav>
