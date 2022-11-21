@@ -51,7 +51,7 @@ export default function GPA() {
         className={`${visible ? "null" : "hidden"} fixed z-50 bottom-8 right-4 border-0 sm:w-12 sm:h-12 w-9 h-9 rounded-full drop-shadow-md bg-emerald-300 text-white sm:text-3xl text-2xl font-bold opacity-60`}>
         &uarr;
       </button>
-      <div className="px-4 mb-3 sm:px-6 lg:px-8 relative">
+      <div className="px-2 mb-3 sm:px-6 lg:px-8 relative rounded-lg">
         <div className="sm:flex sm:items-center pl-1 ">
           <div className="sm:flex-auto">
             <h1 className="text-xl font-semibold text-gray-900">{semester} Courses</h1>
@@ -59,80 +59,76 @@ export default function GPA() {
           </div>
         </div>
         <div className="mt-8 flex flex-col">
-          <div className="-my-2 -mx-4 overflow-x-auto sm:-mx-6 lg:-mx-8">
-            <div className="inline-block min-w-full py-2 align-middle md:px-6 lg:px-8">
-              <div className="overflow-hidden shadow ring-1 ring-black ring-opacity-5 md:rounded-lg">
-                <table className="min-w-full ">
-                  <thead className="bg-white">
-                    <tr>
+          <div className="shadow ring-1 ring-black ring-opacity-5 rounded-lg overflow-hidden">
+            <table className="sm:table-auto table-fixed w-full ">
+              <thead className="bg-white">
+                <tr>
+                  <th
+                    scope="col"
+                    className="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900 sm:pl-6">
+                    Code
+                  </th>
+                  <th
+                    scope="col"
+                    className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">
+                    Title
+                  </th>
+                  <th
+                    scope="col"
+                    className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">
+                    GPA
+                    <Tooltip label="Average GPA for past 5 years (summer excluded)">
+                      <button>
+                        <svg
+                          className="ml-2 w-4 h-4 text-gray-400 hover:text-gray-500 hidden sm:block"
+                          aria-hidden="true"
+                          fill="currentColor"
+                          viewBox="0 0 20 20"
+                          xmlns="http://www.w3.org/2000/svg">
+                          <path
+                            fillRule="evenodd"
+                            d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z"
+                            clipRule="evenodd"></path>
+                        </svg>
+                      </button>
+                    </Tooltip>
+                  </th>
+                  <th
+                    scope="col"
+                    className="px-3 pr-2 py-3.5 text-left text-sm font-semibold text-gray-900">
+                    Grade
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="bg-white">
+                {courses.map((course) => (
+                  <Fragment key={Object.keys(course)}>
+                    <tr className="border-t border-gray-200">
                       <th
-                        scope="col"
-                        className="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900 sm:pl-6">
-                        Code
-                      </th>
-                      <th
-                        scope="col"
-                        className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">
-                        Title
-                      </th>
-                      <th
-                        scope="col"
-                        className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">
-                        GPA
-                        <Tooltip label="Average GPA for past 5 years (summer excluded)">
-                          <button>
-                            <svg
-                              className="ml-2 w-4 h-4 text-gray-400 hover:text-gray-500"
-                              aria-hidden="true"
-                              fill="currentColor"
-                              viewBox="0 0 20 20"
-                              xmlns="http://www.w3.org/2000/svg">
-                              <path
-                                fillRule="evenodd"
-                                d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z"
-                                clipRule="evenodd"></path>
-                            </svg>
-                          </button>
-                        </Tooltip>
-                      </th>
-                      <th
-                        scope="col"
-                        className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900">
-                        Grade
+                        colSpan={4}
+                        scope="colgroup"
+                        className="bg-gray-50 px-4 py-2 text-left text-sm font-semibold text-gray-900 sm:px-6">
+                        {Object.keys(course)[0]}
                       </th>
                     </tr>
-                  </thead>
-                  <tbody className="bg-white">
-                    {courses.map((course) => (
-                      <Fragment key={Object.keys(course)}>
-                        <tr className="border-t border-gray-200">
-                          <th
-                            colSpan={4}
-                            scope="colgroup"
-                            className="bg-gray-50 px-4 py-2 text-left text-sm font-semibold text-gray-900 sm:px-6">
-                            {Object.keys(course)[0]}
-                          </th>
-                        </tr>
-                        {course[Object.keys(course)].courses.map((course, courseIdx) => (
-                          <tr
-                            key={course.code}
-                            className={classNames(courseIdx === 0 ? "border-gray-300" : "border-gray-200", "border-t")}>
-                            <td
-                              id={stringForm(course.code)}
-                              className="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
-                              {course.code}
-                            </td>
-                            <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{course.name}</td>
-                            <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{processGpa(course.gpa)}</td>
-                            <td className="whitespace-nowrap px-6 py-4 text-sm text-gray-500"> {calculateGrade(course.gpa)}</td>
-                          </tr>
-                        ))}
-                      </Fragment>
+                    {course[Object.keys(course)].courses.map((course, courseIdx) => (
+                      <tr
+                        key={course.code}
+                        className={classNames(courseIdx === 0 ? "border-gray-300" : "border-gray-200", "border-t")}>
+                        <td
+                          id={stringForm(course.code)}
+                          className=" py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                          {course.code}
+                        </td>
+                        <td className="px-3 py-4 text-sm text-gray-500 text-ellipsis overflow-hidden whitespace-nowrap  ">{course.name}</td>
+                        <td className="px-3 py-4 text-sm text-gray-500 ">{processGpa(course.gpa)}</td>
+                        <td className="px-6 py-4 text-sm text-gray-500"> {calculateGrade(course.gpa)}</td>
+                      </tr>
                     ))}
-                  </tbody>
-                </table>
-              </div>
-            </div>
+                  </Fragment>
+                ))}
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
