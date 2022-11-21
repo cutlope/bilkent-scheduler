@@ -49,6 +49,7 @@ for depart in allCourses:
         totalGpa = 0
         gpaCount = 0
         if len(table) != 0:
+            changed = True
             print(courseCode)
             body = table[0].findChildren('tbody')
             if len(body) != 0:
@@ -68,6 +69,7 @@ for depart in allCourses:
                     course["gpa"] = format((totalGpa / gpaCount), '.2f')
 
 
-file_path = (base_path / "../data/courses-gpa.json").resolve()
-with open(file_path, "w+", encoding="utf-8") as f:
-    json.dump(allCourses, f, ensure_ascii=False, indent=2)
+if changed:
+    file_path = (base_path / "../data/courses-gpa.json").resolve()
+    with open(file_path, "w+", encoding="utf-8") as f:
+        json.dump(allCourses, f, ensure_ascii=False, indent=2)

@@ -1,11 +1,10 @@
 import semesters from "../data/semesters.json";
 import departments from "../data/departments.json";
 import courses from "../data/courses.json";
-import { Listbox, Transition } from "@headlessui/react";
-import { useState, Fragment } from "react";
+import { useState } from "react";
 import Calendar from "../components/calendar";
 import Select from "react-select";
-import { ArrowLongLeftIcon, ArrowLongRightIcon, CheckIcon, ChevronUpDownIcon } from "@heroicons/react/20/solid";
+import { ArrowLongLeftIcon, ArrowLongRightIcon } from "@heroicons/react/20/solid";
 import { prepareSchedules, displayCourses } from "../utils/functions";
 import { useUpdateEffect } from "react-use";
 import { NextSeo } from "next-seo";
@@ -22,7 +21,7 @@ const customStyles = {
 
 export default function Home() {
   const [selectedDepartment, setSelectedDepartment] = useState([]);
-  const [selectedSemester, setSelectedSemester] = useState(semesters[0]);
+  const selectedSemester = semesters[0];
   const [selectedCourses, setSelectedCourses] = useState([]);
   const [filteredSections, setFilteredSections] = useState([]);
   const [filteredInstructors, setFilteredInstructors] = useState([]);
@@ -109,58 +108,15 @@ export default function Home() {
                   <h2 className="block mb-6 text-lg font-semibold xl:text-2xl leading-5">Courses</h2>
                   {/* Semesters Dropdown */}
                   <div className="relative pb-3">
-                    <Listbox
-                      value={selectedSemester}
-                      onChange={setSelectedSemester}
-                      disabled={true}>
-                      <div className="relative mt-1">
-                        <Listbox.Button className="relative w-full cursor-default rounded-lg bg-white py-2 pl-3 pr-10 text-left shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm">
-                          <span className="block truncate">
-                            {selectedSemester.year} {selectedSemester.name}
-                          </span>
-                          <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
-                            {semesters.length > 1 ? (
-                              <ChevronUpDownIcon
-                                className="h-5 w-5 text-gray-400"
-                                aria-hidden="true"
-                              />
-                            ) : null}
-                          </span>
-                        </Listbox.Button>
-                        <Transition
-                          as={Fragment}
-                          leave="transition ease-in duration-100"
-                          leaveFrom="opacity-100"
-                          leaveTo="opacity-0">
-                          <Listbox.Options className="z-50 absolute mt-1 max-h-60 w-full overflow-auto rounded-md bg-white py-1 text-base shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none sm:text-sm">
-                            {semesters.map((semester, semesterIdx) => (
-                              <Listbox.Option
-                                key={semesterIdx}
-                                className={({ active }) => `relative cursor-default select-none py-2 pl-10 pr-4 ${active ? "bg-amber-100 text-amber-900" : "text-gray-900"}`}
-                                value={semester}>
-                                {({ selected }) => (
-                                  <>
-                                    <span className={`block truncate ${selected ? "font-medium" : "font-normal"}`}>
-                                      {semester.year} {semester.name}
-                                    </span>
-                                    {selected ? (
-                                      <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-amber-600">
-                                        <CheckIcon
-                                          className="h-5 w-5"
-                                          aria-hidden="true"
-                                        />
-                                      </span>
-                                    ) : null}
-                                  </>
-                                )}
-                              </Listbox.Option>
-                            ))}
-                          </Listbox.Options>
-                        </Transition>
+                    <div className="relative mt-1">
+                      <span className="block text-sm leading-8 font-medium text-black">Semester</span>
+                      <div className="relative w-full py-2 pl-3 pr-10 text-left shadow-md sm:text-sm rounded-md">
+                        <span className="block truncate">
+                          {selectedSemester.year} {selectedSemester.name}
+                        </span>
                       </div>
-                    </Listbox>
+                    </div>
                   </div>
-
                   {/* Departments Drop Down */}
                   <div className="relative">
                     <label className="block text-sm leading-8 font-medium text-black">Departments</label>
@@ -189,16 +145,16 @@ export default function Home() {
                   </div>
 
                   {/* Courses Drop Down */}
-
                   <div className="relative">
                     <label className="block text-sm leading-8 font-medium text-black">Courses</label>
                     <Select
                       options={selectedDepartment.map((department) => ({
                         label: department.label,
                         options: displayCourses(courses, department).map((course) => ({
-                            value: course,
-                            label: course.code,
-                      }))}))}
+                          value: course,
+                          label: course.code,
+                        })),
+                      }))}
                       styles={{
                         ...customStyles,
                         multiValue: (base) => ({
