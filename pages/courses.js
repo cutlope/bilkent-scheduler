@@ -60,7 +60,7 @@ export default function GPA() {
         </div>
         <div className="mt-8 flex flex-col">
           <div className="shadow ring-1 ring-black ring-opacity-5 rounded-lg overflow-hidden">
-            <table className="sm:table-auto table-fixed w-full ">
+            <table className="lg:table-auto table-fixed w-full ">
               <thead className="bg-white">
                 <tr>
                   <th
