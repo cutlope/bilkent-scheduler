@@ -100,7 +100,7 @@ export default function Home() {
       />
       <section className="relative  py-4 leading-6 text-gray-900 lg:pb-12 lg:pt-6">
         <div className="flex flex-wrap">
-          <div className="flex-none w-full max-w-full lg:flex-none lg:w-[23%] lg:px-2 md:px-50 sm:px-44 px-3 ">
+          <div className="flex-none w-full max-w-full lg:flex-none lg:w-[23%] lg:px-2 md:px-50 sm:px-16 px-3 ">
             <div className="box-border">
               <div className="relative group">
                 <div className="absolute animate-pulse -inset-0.5 bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-300 rounded-lg blur opacity-50 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
