@@ -752,16 +752,21 @@
               "number": "1",
               "instructor": "Ufuk Önen",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ufuk Önen",
+              "schedule": []
             }
           ]
         },
         {
-          "code": "COMD 365",
-          "name": "Character Animation and Sequential Storytelling",
+          "code": "COMD 364",
+          "name": "Video Production for Non-majors ",
           "sections": [
             {
               "number": "1",
-              "instructor": "Maria Helena Brzozowska",
+              "instructor": "Hasan Yusuf Akçura",
               "schedule": []
             }
           ]
@@ -1375,6 +1380,11 @@
             },
             {
               "number": "2",
+              "instructor": "Çavlan Başarır",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Mehmet Atıl Kurttekin",
               "schedule": []
             }
@@ -1397,17 +1407,28 @@
           ]
         },
         {
+          "code": "GRA 205",
+          "name": "Rendering for Graphic Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Birsu Semra Çeltek",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "GRA 212",
           "name": "Typography II",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Can İzzet Birand",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Oğuz Akın",
               "schedule": []
             }
           ]
@@ -1446,12 +1467,517 @@
           ]
         },
         {
+          "code": "GRA 225",
+          "name": "Introduction to Visual Techniques",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çavlan Başarır",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 302",
+          "name": "Graphic Design IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekin Kılıç Ezer",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Atıl Kurttekin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 316",
+          "name": "Interface Design Studio",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Can İzzet Birand",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Erhan Tunalı",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 317",
+          "name": "Motion Design Studio",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oğuz Akın",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Çağatay Alpay",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "GRA 324",
           "name": "Photographic Practice",
           "sections": [
             {
               "number": "1",
               "instructor": "Murad Gürzumar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Murad Gürzumar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 335",
+          "name": "Computational Design Methods",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 341",
+          "name": "History of Graphic Art",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 344",
+          "name": "Psychology of Advertisement",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yasemin Gümüş Ağca",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 347",
+          "name": "Design Issues",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yasemin Gümüş Ağca",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Atıl Kurttekin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 402",
+          "name": "Graphic Design VI",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erhan Tunalı",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Oğuz Akın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 421",
+          "name": "Illustration I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 423",
+          "name": "Professional Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 502",
+          "name": "Graduate Studio II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Andreas Treske",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 517",
+          "name": "Image Time and Motion I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Andreas Treske",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 590",
+          "name": "Seminar in Research Topics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HUM": {
+      "courses": [
+        {
+          "code": "HUM 111",
+          "name": "Cultures Civilizations and Ideas I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HUM 112",
+          "name": "Cultures Civilizations and Ideas II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "19",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "20",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "21",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "22",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "23",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "24",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "25",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "26",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "27",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "28",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "29",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "30",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "31",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "32",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "33",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "34",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "35",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "36",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "37",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "38",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "39",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "40",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "41",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "42",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "43",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "44",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "45",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "46",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HUM 331",
+          "name": "Humanities and Social Science Honors Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -1935,11 +2461,6 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Hatice Karaca",
-              "schedule": []
             }
           ]
         },
@@ -1949,11 +2470,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Staff",
               "schedule": []
             }
@@ -1987,7 +2503,18 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bülent Batuman",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAUD 418",
+          "name": "Professional Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Oktan Nalbantoğlu",
               "schedule": []
             }
           ]
@@ -2064,6 +2591,272 @@
         {
           "code": "MATH 101",
           "name": "Calculus I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 102",
+          "name": "Calculus II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 132",
+          "name": "Discrete and Combinatorial Mathematics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 220",
+          "name": "Linear Algebra",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 225",
+          "name": "Linear Algebra and Differential Equations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 230",
+          "name": "Probability and Statistics for Engineers",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 240",
+          "name": "Differential Equations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 241",
+          "name": "Engineering Mathematics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tolga Çukur",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Tolga Çukur",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 242",
+          "name": "Engineering Mathematics II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Arif Bülent Özgüler",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Arif Bülent Özgüler",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 250",
+          "name": "Introduction to Probability",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 255",
+          "name": "Probability and Statistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süleyman Serdar Kozat",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Süleyman Serdar Kozat",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 260",
+          "name": "Introduction to Statistics",
           "sections": [
             {
               "number": "1",
@@ -2422,6 +3215,287 @@
             {
               "number": "1",
               "instructor": "Tayfun Özçelik",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ME": {
+      "courses": [
+        {
+          "code": "ME 101",
+          "name": "Fundamentals of Mechanical Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Yegan Erdem",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 102",
+          "name": "Introduction to Systems Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Müjdat Tohumcu",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Barbaros Çetin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 212",
+          "name": "Thermo-Fluids Engineering II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Luca Biancofiore",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Luca Biancofiore",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Luca Biancofiore",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Luca Biancofiore",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 232",
+          "name": "Mechanics and Materials II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlker Temizer",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "İlker Temizer",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "İlker Temizer",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "İlker Temizer",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 299",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şakir Baytaroğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 342",
+          "name": "Dynamics and Control II ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Melih Çakmakcı",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 343",
+          "name": "Mechanical Vibrations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Melih Çakmakcı",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 381",
+          "name": "Design and Manufacturing ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 384",
+          "name": "Mechatronic Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Özcan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Onur Özcan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 399",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şakir Baytaroğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 431",
+          "name": "Industrial Fluid Power",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 482",
+          "name": "Mechanical Engineering Design II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Müjdat Tohumcu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 485",
+          "name": "Design Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Barbaros Çetin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 490",
+          "name": "Undergraduate Research in ME",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 580",
+          "name": "Introduction to MEMS and Micro Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 590",
+          "name": "Mechanical Engineering Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 657",
+          "name": "Nano/Micro Manufacturing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Yegan Erdem",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 690",
+          "name": "Mechanical Engineering Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -2998,6 +4072,23 @@
     }
   },
   {
+    "SFL": {
+      "courses": [
+        {
+          "code": "SFL 392",
+          "name": "Common European Framework of Reference Level B2",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "THM": {
       "courses": [
         {
@@ -3214,8 +4305,210 @@
     "TRIN": {
       "courses": [
         {
+          "code": "TRIN 112",
+          "name": "French Turkish Translation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 122",
+          "name": "English-Turkish Translation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 134",
+          "name": "Texts and Composition in French II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "TRIN 212",
           "name": "Technology for Translators",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 222",
+          "name": "Translation Studies II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 228",
+          "name": "French Culture and Civilisation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 242",
+          "name": "Specialised Translation II: Localisation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 268",
+          "name": "Sight Translation II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 330",
+          "name": "Criticism and French Literature",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 332",
+          "name": "Translation criticism of Anglo-American literature",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 364",
+          "name": "Literary Translation (English-Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 366",
+          "name": "Literary Translation (French-Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 390",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 462",
+          "name": "English-French Translation Workshop II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 464",
+          "name": "Professional Communication for Interpreters",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 473",
+          "name": "Turkish Diction",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 484",
+          "name": "Simultaneous Interpretation II: Fieldwork+Projectwork",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 486",
+          "name": "Translation project for official texts and documents",
           "sections": [
             {
               "number": "1",
