@@ -51,7 +51,7 @@ export default function Layout({ children }) {
           content="#ffffff"
         />
       </Head>
-      <section className="max-w-none mx-auto bg-gradient-to-br from-rose-100 to-teal-100 overflow-hidden ">
+      <section className="max-w-none min-h-screen mx-auto bg-gradient-to-br from-rose-100 to-teal-100 overflow-hidden ">
         <Header />
         <main>{children}</main>
         <Footer />
