@@ -3,6 +3,33 @@
     "ADA": {
       "courses": [
         {
+          "code": "ADA 131",
+          "name": "Architectural Drawing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Acar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ADA 134",
+          "name": "Designing with Digital Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Alp Giray Köse",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Yiğit Acar",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ADA 264",
           "name": "History of Built Environment II",
           "sections": [
@@ -19,6 +46,16 @@
             {
               "number": "3",
               "instructor": "Merve Aslı Hetemoğlu",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Ayşe Henry",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Segah Sak",
               "schedule": []
             }
           ]
@@ -224,6 +261,175 @@
             {
               "number": "1",
               "instructor": "Dennis Raymond Bryson",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ARCH": {
+      "courses": [
+        {
+          "code": "ARCH 202",
+          "name": "Architectural Design Studio II",
+          "sections": [
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 231",
+          "name": "Statics and Strength of Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Deniz Üçer Erduran",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Deniz Üçer Erduran",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 252",
+          "name": "Construction and Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Glenn Terry Kukkola",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Özge Selen Duran",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 302",
+          "name": "Architectural Design Studio IV",
+          "sections": [
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 317",
+          "name": "Parametric Design Studio",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yavuz Baver Barut",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 332",
+          "name": "Structural Design II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aysu Berk",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 342",
+          "name": "Environmental Technology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Glenn Terry Kukkola",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Zühre Sü Gül",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 402",
+          "name": "Architectural Design Studio VI",
+          "sections": [
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 411",
+          "name": "Conservation of Historical Environments",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Henry",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 418",
+          "name": "Professional Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özge Selen Duran",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 514",
+          "name": "Architectural Readings",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Şenyapılı Özcan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 550",
+          "name": "Current Issues in Architectural Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Giorgio Gasco",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Şenyapılı Özcan",
               "schedule": []
             }
           ]
@@ -1436,6 +1642,11 @@
               "number": "2",
               "instructor": "Ezhan Karaşan",
               "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -1759,12 +1970,280 @@
     "CTIS": {
       "courses": [
         {
+          "code": "CTIS 151",
+          "name": "Introduction to Programming",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 152",
+          "name": "Algorithms and Data Structures",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 163",
+          "name": "Discrete Mathematics ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 164",
+          "name": "Technical Mathematics with Programming ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 165",
+          "name": "Fundamentals of Information Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 166",
+          "name": "Information Technologies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "CTIS 186",
           "name": "Business Computer Applications",
           "sections": [
             {
               "number": "1",
               "instructor": "Jamel Ben Chafra",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 221",
+          "name": "Object Oriented Programming",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 222",
+          "name": "Object Oriented Analysis and Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 255",
+          "name": "Frontend Web Technologies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 256",
+          "name": "Introduction to Backend Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 259",
+          "name": "Database Management Systems and Applications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 261",
+          "name": "Fundamentals of Computer Networks",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 262",
+          "name": "Applied Computer Networks",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -1787,6 +2266,178 @@
             {
               "number": "1",
               "instructor": "Esin Şenol",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 310",
+          "name": "Semester Internship",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 359",
+          "name": "Principles of Software Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 363",
+          "name": "Ethical and Social Issues in Information Systems ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 365",
+          "name": "Applied Data Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 456",
+          "name": "Senior Project II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 487",
+          "name": "Mobile Application Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 496",
+          "name": "Computer and Network Security",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -1877,6 +2528,17 @@
         {
           "code": "EDEB 416",
           "name": "Criticism",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Kalpaklı",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EDEB 435",
+          "name": "Culture Politics and Literature",
           "sections": [
             {
               "number": "1",
@@ -1995,6 +2657,16 @@
               "number": "7",
               "instructor": "Volkan Acun",
               "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Aysu Berk",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Ayşe Henry",
+              "schedule": []
             }
           ]
         },
@@ -2072,6 +2744,16 @@
             {
               "number": "1",
               "instructor": "Sema Karamanoğlu",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Burcu Şenyapılı Özcan",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -2456,6 +3138,17 @@
             {
               "number": "1",
               "instructor": "Çavlan Başarır",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GRA 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Birsu Semra Çeltek",
               "schedule": []
             }
           ]
@@ -4783,6 +5476,17 @@
         {
           "code": "ME 431",
           "name": "Industrial Fluid Power",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 436",
+          "name": "Energy Conversion Systems",
           "sections": [
             {
               "number": "1",
