@@ -2929,6 +2929,50 @@
                   "classroom": "FF-110"
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -3431,6 +3475,28 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -3537,6 +3603,11 @@
                   "classroom": "FFB-008(S)"
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
             }
           ]
         },
@@ -4067,7 +4138,7 @@
             },
             {
               "number": "2",
-              "instructor": "Uğur Güdükbay",
+              "instructor": "Aynur Dayanık",
               "schedule": [
                 {
                   "slot": 3,
@@ -12300,6 +12371,34 @@
           ]
         },
         {
+          "code": "EEE 603",
+          "name": "Advanced Electromagnetic Theory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayhan Altıntaş",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "EEE 699",
           "name": "Ph.D. Dissertation",
           "sections": [
@@ -16879,6 +16978,34 @@
           ]
         },
         {
+          "code": "GE 510",
+          "name": "Fundamentals of Social Research Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Tolga Bölükbaşı",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "GE 512",
           "name": "Quantitative Data Analysis",
           "sections": [
@@ -16900,6 +17027,34 @@
                 },
                 {
                   "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GE 513",
+          "name": "Qualitative Research Methods",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatice Pınar Bilgin & Berrak Burçak Della Fave & Mehmet Nedim Karakayalı & Çerağ Esra Çuhadar & Hasan Tolga Bölükbaşı & Meral Uğur Çınar",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
                   "classroom": ""
                 }
               ]
@@ -17139,6 +17294,62 @@
           ]
         },
         {
+          "code": "GRA 209",
+          "name": "Graphic Design for Non-Majors",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekin Kılıç Ezer",
+              "schedule": [
+                {
+                  "slot": 36,
+                  "classroom": "FB-119"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "FB-119"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "FB-119"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "FB-119(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GRA 211",
+          "name": "Typography I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erhan Tunalı",
+              "schedule": [
+                {
+                  "slot": 37,
+                  "classroom": "FB-321"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "FB-321"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "FB-321"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "FB-321(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "GRA 212",
           "name": "Typography II",
           "sections": [
@@ -17185,17 +17396,6 @@
                   "classroom": "FB-221(S)"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "GRA 217",
-          "name": "Motion Graphics",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Çağatay Alpay",
-              "schedule": []
             }
           ]
         },
@@ -17261,7 +17461,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Çavlan Başarır",
+              "instructor": "Çağatay Alpay",
               "schedule": [
                 {
                   "slot": 4,
@@ -17851,7 +18051,7 @@
             },
             {
               "number": "2",
-              "instructor": "Ekin Kılıç Ezer",
+              "instructor": "Çavlan Başarır",
               "schedule": [
                 {
                   "slot": 16,
@@ -20146,7 +20346,7 @@
             },
             {
               "number": "15",
-              "instructor": "Aslı Menevşe",
+              "instructor": "Foster Pease Chamberlin",
               "schedule": [
                 {
                   "slot": 16,
@@ -20431,11 +20631,6 @@
               ]
             },
             {
-              "number": "28",
-              "instructor": "Luuk Otmar De Boer",
-              "schedule": []
-            },
-            {
               "number": "29",
               "instructor": "Dragan Ilic",
               "schedule": [
@@ -20613,7 +20808,7 @@
             },
             {
               "number": "37",
-              "instructor": "Foster Pease Chamberlin",
+              "instructor": "Aslı Menevşe",
               "schedule": [
                 {
                   "slot": 14,
@@ -29477,7 +29672,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Metin Gürses",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 0,
@@ -29521,7 +29716,7 @@
             },
             {
               "number": "3",
-              "instructor": "Çisil Karagüzel",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 18,
@@ -29543,7 +29738,7 @@
             },
             {
               "number": "4",
-              "instructor": "Metin Gürses",
+              "instructor": "Çisil Karagüzel",
               "schedule": [
                 {
                   "slot": 4,
@@ -30073,7 +30268,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Altaban",
               "schedule": [
                 {
                   "slot": 3,
@@ -30095,7 +30290,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Altaban",
               "schedule": [
                 {
                   "slot": 17,
@@ -30139,7 +30334,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": [
                 {
                   "slot": 16,
@@ -30161,7 +30356,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": [
                 {
                   "slot": 15,
@@ -31221,7 +31416,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": [
                 {
                   "slot": 16,
@@ -31243,7 +31438,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": [
                 {
                   "slot": 4,
@@ -31265,7 +31460,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": [
                 {
                   "slot": 0,
@@ -34349,6 +34544,11 @@
               "number": "2",
               "instructor": "Onur Türkmen",
               "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Oliver Folger Jia",
+              "schedule": []
             }
           ]
         },
@@ -34358,7 +34558,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Onur Türkmen",
+              "instructor": "Onur Yıldırım",
               "schedule": [
                 {
                   "slot": 18,
@@ -34377,6 +34577,166 @@
                   "classroom": "P-341"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "MSC 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Işın Metin",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Oliver Folger Jia",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "NSC": {
+      "courses": [
+        {
+          "code": "NSC 511",
+          "name": "Cellular, Molecular and Developmental Neuroscience ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NSC 514",
+          "name": "Affective Neuroscience ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Meltem Karataş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 546",
+          "name": "Computing for Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hacı Hulusi Kafalıgönül",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 591",
+          "name": "Pro-thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 599",
+          "name": "Neuroscience Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 612",
+          "name": "Selected Topics in Neuroscience I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ausaf Ahmed Farooqui",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NSC 613",
+          "name": "Selected Topics in Neuroscience II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Demet Ataman Sadık",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 691",
+          "name": "Pro-thesis Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 699",
+          "name": "Neuroscience Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
             }
           ]
         }
@@ -38053,7 +38413,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Ausaf Ahmed Farooqui",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 16,
@@ -38344,6 +38704,34 @@
             {
               "number": "1",
               "instructor": "Hüseyin Boyacı",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 320",
+          "name": "Cognitive Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ausaf Ahmed Farooqui",
               "schedule": [
                 {
                   "slot": 16,
@@ -39337,6 +39725,40 @@
     }
   },
   {
+    "THEA": {
+      "courses": [
+        {
+          "code": "THEA 182",
+          "name": "Acting Techniques II-Singing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jason Edward Hale",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
+                  "classroom": ""
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "THM": {
       "courses": [
         {
@@ -40015,7 +40437,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Gizem Gürer Arslan",
               "schedule": [
                 {
                   "slot": 0,
@@ -40037,7 +40459,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Gizem Gürer Arslan",
               "schedule": [
                 {
                   "slot": 14,
@@ -40053,6 +40475,72 @@
                 },
                 {
                   "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Gizem Gürer Arslan",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Ceren Özcan Can",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Ceren Özcan Can",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
                   "classroom": ""
                 }
               ]
@@ -40173,7 +40661,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Eray Eserol",
+              "instructor": "Halim Şener",
               "schedule": [
                 {
                   "slot": 35,
@@ -40263,6 +40751,34 @@
           ]
         },
         {
+          "code": "THR 333",
+          "name": "On Camera Acting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jason Edward Hale",
+              "schedule": [
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "THR 339",
           "name": "Playwriting",
           "sections": [
@@ -40307,7 +40823,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hande Vural Johnson & Haluk Yüce",
               "schedule": [
                 {
                   "slot": 14,
