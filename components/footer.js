@@ -7,6 +7,8 @@ export default function Footer() {
         <li className="p-5">
           <a
             className="font-heading text-base text-gray-900 hover:text-gray-700 flex items-center"
+            target="_blank"
+            rel="noopener noreferrer"
             href="https://forms.gle/orWH296qir6KQ5BQ9">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +29,9 @@ export default function Footer() {
         <li className="p-5">
           <a
             className="font-heading text-base text-gray-900 hover:text-gray-700 flex items-center"
-            href="https://forms.gle/orWH296qir6KQ5BQ9">
+            href="https://forms.gle/orWH296qir6KQ5BQ9"
+            target="_blank"
+            rel="noopener noreferrer">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-5 w-5 mr-1"
@@ -47,11 +51,13 @@ export default function Footer() {
       </ul>
       <ul className="flex flex-wrap justify-center">
         <li className="pt-2">
-          Made with ❤️ by{" "}
+          Made with ❤️ by
+          {/* eslint-disable-next-line react/jsx-no-target-blank */}
           <a
             className="text-purple-500 font-bold"
             target="_blank"
-            href="https://cutlope.dev">
+            href="https://cutlope.dev/?ref=bilkent">
+            {" "}
             Cutlope
           </a>
         </li>
