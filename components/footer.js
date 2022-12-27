@@ -56,7 +56,8 @@ export default function Footer() {
           <a
             className="text-purple-500 font-bold"
             target="_blank"
-            href="https://cutlope.dev/?ref=bilkent">
+            rel=""
+            href="https://cutlope.dev/">
             {" "}
             Cutlope
           </a>
