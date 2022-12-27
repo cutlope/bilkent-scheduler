@@ -45,6 +45,17 @@ export default function Footer() {
           </a>
         </li>
       </ul>
+      <ul className="flex flex-wrap justify-center">
+        <li className="pt-2">
+          Made with ❤️ by{" "}
+          <a
+            className="text-purple-500 font-bold"
+            target="_blank"
+            href="https://cutlope.dev">
+            Cutlope
+          </a>
+        </li>
+      </ul>
     </div>
   );
 }
