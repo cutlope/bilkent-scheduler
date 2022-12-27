@@ -1151,6 +1151,16 @@
               "number": "1",
               "instructor": "Lutz Peschke",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "2.70"
@@ -1315,6 +1325,11 @@
               "number": "3",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "2.75"
@@ -1354,6 +1369,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Hasan Yusuf Akçura",
               "schedule": []
             }
@@ -1563,7 +1583,7 @@
             },
             {
               "number": "2",
-              "instructor": "Uğur Güdükbay",
+              "instructor": "Aynur Dayanık",
               "schedule": []
             },
             {
@@ -4398,6 +4418,18 @@
           "gpa": "0.00"
         },
         {
+          "code": "EEE 603",
+          "name": "Advanced Electromagnetic Theory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayhan Altıntaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.54"
+        },
+        {
           "code": "EEE 699",
           "name": "Ph.D. Dissertation",
           "sections": [
@@ -5699,6 +5731,18 @@
           "gpa": "2.45"
         },
         {
+          "code": "GE 510",
+          "name": "Fundamentals of Social Research Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Tolga Bölükbaşı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.63"
+        },
+        {
           "code": "GE 512",
           "name": "Quantitative Data Analysis",
           "sections": [
@@ -5709,6 +5753,18 @@
             }
           ],
           "gpa": "3.66"
+        },
+        {
+          "code": "GE 513",
+          "name": "Qualitative Research Methods",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatice Pınar Bilgin & Berrak Burçak Della Fave & Mehmet Nedim Karakayalı & Çerağ Esra Çuhadar & Hasan Tolga Bölükbaşı & Meral Uğur Çınar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.52"
         }
       ]
     }
@@ -5779,6 +5835,30 @@
           "gpa": "3.47"
         },
         {
+          "code": "GRA 209",
+          "name": "Graphic Design for Non-Majors",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekin Kılıç Ezer",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.45"
+        },
+        {
+          "code": "GRA 211",
+          "name": "Typography I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erhan Tunalı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.00"
+        },
+        {
           "code": "GRA 212",
           "name": "Typography II",
           "sections": [
@@ -5794,18 +5874,6 @@
             }
           ],
           "gpa": "3.11"
-        },
-        {
-          "code": "GRA 217",
-          "name": "Motion Graphics",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Çağatay Alpay",
-              "schedule": []
-            }
-          ],
-          "gpa": "3.01"
         },
         {
           "code": "GRA 219",
@@ -5837,7 +5905,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Çavlan Başarır",
+              "instructor": "Çağatay Alpay",
               "schedule": []
             }
           ],
@@ -6023,7 +6091,7 @@
             },
             {
               "number": "2",
-              "instructor": "Ekin Kılıç Ezer",
+              "instructor": "Çavlan Başarır",
               "schedule": []
             }
           ],
@@ -6960,7 +7028,7 @@
             },
             {
               "number": "15",
-              "instructor": "Aslı Menevşe",
+              "instructor": "Foster Pease Chamberlin",
               "schedule": []
             },
             {
@@ -7024,11 +7092,6 @@
               "schedule": []
             },
             {
-              "number": "28",
-              "instructor": "Luuk Otmar De Boer",
-              "schedule": []
-            },
-            {
               "number": "29",
               "instructor": "Dragan Ilic",
               "schedule": []
@@ -7070,7 +7133,7 @@
             },
             {
               "number": "37",
-              "instructor": "Foster Pease Chamberlin",
+              "instructor": "Aslı Menevşe",
               "schedule": []
             },
             {
@@ -10339,7 +10402,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Metin Gürses",
+              "instructor": "Staff",
               "schedule": []
             },
             {
@@ -10349,12 +10412,12 @@
             },
             {
               "number": "3",
-              "instructor": "Çisil Karagüzel",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Metin Gürses",
+              "instructor": "Çisil Karagüzel",
               "schedule": []
             },
             {
@@ -10497,12 +10560,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Altaban",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Altaban",
               "schedule": []
             },
             {
@@ -10512,12 +10575,12 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             },
             {
@@ -10865,17 +10928,17 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             }
           ],
@@ -12678,6 +12741,11 @@
               "number": "2",
               "instructor": "Onur Türkmen",
               "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Oliver Folger Jia",
+              "schedule": []
             }
           ],
           "gpa": "3.33"
@@ -12688,11 +12756,147 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Onur Türkmen",
+              "instructor": "Onur Yıldırım",
               "schedule": []
             }
           ],
           "gpa": "3.41"
+        },
+        {
+          "code": "MSC 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Işın Metin",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Oliver Folger Jia",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
+    "NSC": {
+      "courses": [
+        {
+          "code": "NSC 511",
+          "name": "Cellular, Molecular and Developmental Neuroscience ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.54"
+        },
+        {
+          "code": "NSC 514",
+          "name": "Affective Neuroscience ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Meltem Karataş",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.93"
+        },
+        {
+          "code": "NSC 546",
+          "name": "Computing for Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hacı Hulusi Kafalıgönül",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.79"
+        },
+        {
+          "code": "NSC 591",
+          "name": "Pro-thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "NSC 599",
+          "name": "Neuroscience Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "NSC 612",
+          "name": "Selected Topics in Neuroscience I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ausaf Ahmed Farooqui",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.94"
+        },
+        {
+          "code": "NSC 613",
+          "name": "Selected Topics in Neuroscience II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Demet Ataman Sadık",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.50"
+        },
+        {
+          "code": "NSC 691",
+          "name": "Pro-thesis Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "NSC 699",
+          "name": "Neuroscience Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -13870,7 +14074,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Ausaf Ahmed Farooqui",
+              "instructor": "Staff",
               "schedule": []
             }
           ],
@@ -13986,6 +14190,18 @@
             }
           ],
           "gpa": "2.87"
+        },
+        {
+          "code": "PSYC 320",
+          "name": "Cognitive Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ausaf Ahmed Farooqui",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.79"
         },
         {
           "code": "PSYC 340",
@@ -14472,6 +14688,23 @@
     }
   },
   {
+    "THEA": {
+      "courses": [
+        {
+          "code": "THEA 182",
+          "name": "Acting Techniques II-Singing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jason Edward Hale",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "THM": {
       "courses": [
         {
@@ -14756,12 +14989,27 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Gizem Gürer Arslan",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Gizem Gürer Arslan",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Gizem Gürer Arslan",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Ceren Özcan Can",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Ceren Özcan Can",
               "schedule": []
             }
           ],
@@ -14809,7 +15057,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Eray Eserol",
+              "instructor": "Halim Şener",
               "schedule": []
             }
           ],
@@ -14852,6 +15100,18 @@
           "gpa": "3.01"
         },
         {
+          "code": "THR 333",
+          "name": "On Camera Acting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jason Edward Hale",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.58"
+        },
+        {
           "code": "THR 339",
           "name": "Playwriting",
           "sections": [
@@ -14881,7 +15141,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hande Vural Johnson & Haluk Yüce",
               "schedule": []
             }
           ],
