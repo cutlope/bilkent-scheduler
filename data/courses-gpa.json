@@ -1167,6 +1167,11 @@
               "number": "3",
               "instructor": "Chien Yang Erdem",
               "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Chien Yang Erdem",
+              "schedule": []
             }
           ],
           "gpa": "2.12"
@@ -2084,6 +2089,17 @@
             }
           ],
           "gpa": "1.90"
+        },
+        {
+          "code": "CS 474",
+          "name": "Algorithms II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cevdet Aykanat",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "CS 476",
@@ -3663,6 +3679,11 @@
               "number": "1",
               "instructor": "Hacer Esra Almas",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "0.00"
@@ -4130,6 +4151,17 @@
           "gpa": "2.06"
         },
         {
+          "code": "EEE 445",
+          "name": "Sampled Data Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "EEE 474",
           "name": "Foundations of Magnetic Resonance Imaging",
           "sections": [
@@ -4273,7 +4305,7 @@
         },
         {
           "code": "EEE 530",
-          "name": "Digital Communications Theory",
+          "name": "Advanced Digital Communications",
           "sections": [
             {
               "number": "1",
@@ -4330,6 +4362,17 @@
             }
           ],
           "gpa": "3.39"
+        },
+        {
+          "code": "EEE 545",
+          "name": "Sampled Data Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "EEE 550",
@@ -4765,48 +4808,188 @@
           "name": "English and Composition I",
           "sections": [
             {
-              "number": "1",
+              "number": "2",
+              "instructor": "Tuğçe Hamamcıoğlu",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Joe Roland Lines",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "David Christopher Butcher",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Semra Akbaş",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Andrew Justin Gehring",
+              "schedule": []
+            },
+            {
+              "number": "7",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "13",
+              "number": "8",
+              "instructor": "Andrew John Mcintosh",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Jill Marie Wigert",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Andrew Justin Gehring",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Fatma Tuğçe Arıkan",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Dorothy Marie Mayne",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Ahu Ertan",
+              "schedule": []
+            },
+            {
+              "number": "22",
+              "instructor": "Joe Roland Lines",
+              "schedule": []
+            },
+            {
+              "number": "23",
+              "instructor": "Jill Marie Wigert",
+              "schedule": []
+            },
+            {
+              "number": "24",
+              "instructor": "Semra Akbaş",
+              "schedule": []
+            },
+            {
+              "number": "25",
+              "instructor": "Dorothy Marie Mayne",
+              "schedule": []
+            },
+            {
+              "number": "26",
+              "instructor": "Tuğçe Hamamcıoğlu",
+              "schedule": []
+            },
+            {
+              "number": "27",
+              "instructor": "Ahu Ertan",
+              "schedule": []
+            },
+            {
+              "number": "32",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "21",
+              "number": "33",
+              "instructor": "Andrew Justin Gehring",
+              "schedule": []
+            },
+            {
+              "number": "34",
+              "instructor": "Katherine Halley Willcox Özsarı",
+              "schedule": []
+            },
+            {
+              "number": "35",
+              "instructor": "Andrew John Mcintosh",
+              "schedule": []
+            },
+            {
+              "number": "40",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "31",
+              "number": "41",
+              "instructor": "Fatma Tuğçe Arıkan",
+              "schedule": []
+            },
+            {
+              "number": "42",
+              "instructor": "Dorothy Marie Mayne",
+              "schedule": []
+            },
+            {
+              "number": "43",
+              "instructor": "Ahu Ertan",
+              "schedule": []
+            },
+            {
+              "number": "48",
+              "instructor": "Joe Roland Lines",
+              "schedule": []
+            },
+            {
+              "number": "49",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "39",
+              "number": "54",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "47",
+              "number": "55",
+              "instructor": "Fatma Tuğçe Arıkan",
+              "schedule": []
+            },
+            {
+              "number": "56",
+              "instructor": "Ahu Ertan",
+              "schedule": []
+            },
+            {
+              "number": "57",
+              "instructor": "Katherine Halley Willcox Özsarı",
+              "schedule": []
+            },
+            {
+              "number": "58",
+              "instructor": "John William Day",
+              "schedule": []
+            },
+            {
+              "number": "63",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "53",
-              "instructor": "Staff",
+              "number": "64",
+              "instructor": "Andrew John Mcintosh",
               "schedule": []
             },
             {
-              "number": "62",
-              "instructor": "Staff",
+              "number": "65",
+              "instructor": "Jill Marie Wigert",
               "schedule": []
             },
             {
               "number": "69",
-              "instructor": "Staff",
+              "instructor": "Fatma Tuğçe Arıkan",
               "schedule": []
             },
             {
@@ -4832,53 +5015,368 @@
           "name": "English and Composition II",
           "sections": [
             {
-              "number": "1",
+              "number": "2",
+              "instructor": "Andrew William Hassell",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Iain Board",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Melanie Ann Kincl",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Ümmü Gaye Ternisien",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Nilüfer Yeşil",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Sarah Melissa Stevens Hassell",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Jacob Neal Minniear",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Jeffrey Michael Doonan",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Ersin Soylu",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Bengü Yurtseven",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "John Paul Alff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Matthew Llyod Gorman",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Türküm Azmiye Cankatan",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Elif Çotuksöken",
+              "schedule": []
+            },
+            {
+              "number": "20",
+              "instructor": "Andrew William Hassell",
+              "schedule": []
+            },
+            {
+              "number": "21",
+              "instructor": "Melanie Ann Kincl",
+              "schedule": []
+            },
+            {
+              "number": "22",
+              "instructor": "Jennifer Lyn Schroeder",
+              "schedule": []
+            },
+            {
+              "number": "23",
+              "instructor": "Nilüfer Yeşil",
+              "schedule": []
+            },
+            {
+              "number": "24",
+              "instructor": "Lorna Yeşilkaya",
+              "schedule": []
+            },
+            {
+              "number": "25",
+              "instructor": "Bengü Yurtseven",
+              "schedule": []
+            },
+            {
+              "number": "26",
+              "instructor": "Hakan Güven",
+              "schedule": []
+            },
+            {
+              "number": "27",
+              "instructor": "Jeffrey Michael Doonan",
+              "schedule": []
+            },
+            {
+              "number": "28",
+              "instructor": "Marinus Hendrik Johannes Langbroek",
+              "schedule": []
+            },
+            {
+              "number": "33",
+              "instructor": "Sarah Melissa Stevens Hassell",
+              "schedule": []
+            },
+            {
+              "number": "34",
+              "instructor": "Bengü Yurtseven",
+              "schedule": []
+            },
+            {
+              "number": "35",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "19",
-              "instructor": "Staff",
+              "number": "36",
+              "instructor": "Matthew Llyod Gorman",
               "schedule": []
             },
             {
-              "number": "32",
-              "instructor": "Staff",
+              "number": "37",
+              "instructor": "Sibel Evliyagil",
               "schedule": []
             },
             {
-              "number": "44",
-              "instructor": "Staff",
+              "number": "38",
+              "instructor": "Marinus Hendrik Johannes Langbroek",
               "schedule": []
             },
             {
-              "number": "56",
-              "instructor": "Staff",
+              "number": "39",
+              "instructor": "Zeynep Özek",
               "schedule": []
             },
             {
-              "number": "68",
-              "instructor": "Staff",
+              "number": "40",
+              "instructor": "Hümeyra Başol Çetin",
               "schedule": []
             },
             {
-              "number": "76",
-              "instructor": "Staff",
+              "number": "45",
+              "instructor": "Pınar Esma Önkol",
               "schedule": []
             },
             {
-              "number": "86",
-              "instructor": "Staff",
+              "number": "46",
+              "instructor": "Ersin Soylu",
               "schedule": []
             },
             {
-              "number": "93",
-              "instructor": "Staff",
+              "number": "47",
+              "instructor": "Özge Ezici Çetin",
               "schedule": []
             },
             {
-              "number": "105",
-              "instructor": "Staff",
+              "number": "48",
+              "instructor": "Gülnur Uğuz",
+              "schedule": []
+            },
+            {
+              "number": "49",
+              "instructor": "Sibel Evliyagil",
+              "schedule": []
+            },
+            {
+              "number": "50",
+              "instructor": "Zeynep Özek",
+              "schedule": []
+            },
+            {
+              "number": "51",
+              "instructor": "Elif Hande Özer",
+              "schedule": []
+            },
+            {
+              "number": "52",
+              "instructor": "Hümeyra Başol Çetin",
+              "schedule": []
+            },
+            {
+              "number": "57",
+              "instructor": "Andrew William Hassell",
+              "schedule": []
+            },
+            {
+              "number": "58",
+              "instructor": "Robert McNamara Loomis",
+              "schedule": []
+            },
+            {
+              "number": "59",
+              "instructor": "Jennifer Lyn Schroeder",
+              "schedule": []
+            },
+            {
+              "number": "60",
+              "instructor": "Jacob Neal Minniear",
+              "schedule": []
+            },
+            {
+              "number": "61",
+              "instructor": "Özge Ezici Çetin",
+              "schedule": []
+            },
+            {
+              "number": "62",
+              "instructor": "Sibel Evliyagil",
+              "schedule": []
+            },
+            {
+              "number": "63",
+              "instructor": "Zeynep Özek",
+              "schedule": []
+            },
+            {
+              "number": "64",
+              "instructor": "Hümeyra Başol Çetin",
+              "schedule": []
+            },
+            {
+              "number": "69",
+              "instructor": "Ümmü Gaye Ternisien",
+              "schedule": []
+            },
+            {
+              "number": "70",
+              "instructor": "Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "71",
+              "instructor": "Türküm Azmiye Cankatan",
+              "schedule": []
+            },
+            {
+              "number": "72",
+              "instructor": "İklil Kaya Yıldırım",
+              "schedule": []
+            },
+            {
+              "number": "77",
+              "instructor": "Andrew Bonar",
+              "schedule": []
+            },
+            {
+              "number": "78",
+              "instructor": "Robert McNamara Loomis",
+              "schedule": []
+            },
+            {
+              "number": "79",
+              "instructor": "Lorna Yeşilkaya",
+              "schedule": []
+            },
+            {
+              "number": "80",
+              "instructor": "Ceylan Kızılduman Yazıcı",
+              "schedule": []
+            },
+            {
+              "number": "81",
+              "instructor": "Gülnur Uğuz",
+              "schedule": []
+            },
+            {
+              "number": "82",
+              "instructor": "Hakan Güven",
+              "schedule": []
+            },
+            {
+              "number": "87",
+              "instructor": "Elif Çotuksöken",
+              "schedule": []
+            },
+            {
+              "number": "88",
+              "instructor": "Robert McNamara Loomis",
+              "schedule": []
+            },
+            {
+              "number": "89",
+              "instructor": "John Paul Alff",
+              "schedule": []
+            },
+            {
+              "number": "94",
+              "instructor": "Andrew Bonar",
+              "schedule": []
+            },
+            {
+              "number": "95",
+              "instructor": "Elif Çotuksöken",
+              "schedule": []
+            },
+            {
+              "number": "96",
+              "instructor": "Melanie Ann Kincl",
+              "schedule": []
+            },
+            {
+              "number": "97",
+              "instructor": "Hakan Güven",
+              "schedule": []
+            },
+            {
+              "number": "98",
+              "instructor": "Gülnur Uğuz",
+              "schedule": []
+            },
+            {
+              "number": "99",
+              "instructor": "Pınar Esma Önkol",
+              "schedule": []
+            },
+            {
+              "number": "100",
+              "instructor": "Andrew William Hassell",
+              "schedule": []
+            },
+            {
+              "number": "101",
+              "instructor": "Elif Hande Özer",
+              "schedule": []
+            },
+            {
+              "number": "106",
+              "instructor": "Pınar Demir",
+              "schedule": []
+            },
+            {
+              "number": "107",
+              "instructor": "Elif Çotuksöken",
+              "schedule": []
+            },
+            {
+              "number": "108",
+              "instructor": "Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "109",
+              "instructor": "Hakan Güven",
+              "schedule": []
+            },
+            {
+              "number": "110",
+              "instructor": "John Paul Alff",
               "schedule": []
             },
             {
@@ -5026,7 +5524,7 @@
             },
             {
               "number": "5",
-              "instructor": "Marlene Denice Elwell",
+              "instructor": "Özge Ezici Çetin",
               "schedule": []
             },
             {
@@ -6264,6 +6762,11 @@
               "number": "1",
               "instructor": "Julian Bennett",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Julian Bennett",
+              "schedule": []
             }
           ],
           "gpa": "3.06"
@@ -6315,18 +6818,6 @@
             }
           ],
           "gpa": "2.96"
-        },
-        {
-          "code": "HART 367",
-          "name": "Pompeii: Life and Death of a Roman City ",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Julian Bennett",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.89"
         },
         {
           "code": "HART 373",
@@ -6682,6 +7173,16 @@
             {
               "number": "17",
               "instructor": "İbrahim Mert Öztürk",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "19",
+              "instructor": "Staff",
               "schedule": []
             }
           ],
@@ -8608,7 +9109,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hatice Karaca",
               "schedule": []
             }
           ],
@@ -11030,6 +11531,17 @@
           "gpa": "3.46"
         },
         {
+          "code": "MATH 522",
+          "name": "Topics in Quantum Information Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cihan Okay",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MATH 524",
           "name": "Algebra II",
           "sections": [
@@ -13320,6 +13832,11 @@
               "number": "1",
               "instructor": "Istvan Albert Aranyosi",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Nazım Keven",
+              "schedule": []
             }
           ],
           "gpa": "2.68"
@@ -13361,18 +13878,6 @@
           "gpa": "2.14"
         },
         {
-          "code": "PHIL 420",
-          "name": "Philosophy of Memory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nazım Keven",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.49"
-        },
-        {
           "code": "PHIL 421",
           "name": "Feminist Philosophy",
           "sections": [
@@ -13407,18 +13912,6 @@
             }
           ],
           "gpa": "3.69"
-        },
-        {
-          "code": "PHIL 506",
-          "name": "Philosophy of Memory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nazım Keven",
-              "schedule": []
-            }
-          ],
-          "gpa": "3.78"
         },
         {
           "code": "PHIL 507",
@@ -14784,7 +15277,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Necmi Akşit",
               "schedule": []
             }
           ],
@@ -14819,7 +15312,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Necmi Akşit",
               "schedule": []
             }
           ],
@@ -14855,7 +15348,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tijen Akşit",
               "schedule": []
             }
           ],
