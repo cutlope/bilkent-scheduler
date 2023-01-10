@@ -28,7 +28,7 @@ jobs:
           pip install requests beautifulsoup4
           python ./scrapers/fetch-courses.py
       - name: Verify Changed files
-        uses: tj-actions/verify-changed-files@master
+        uses: tj-actions/verify-changed-files@main
         id: verify-changed-files
         with:
           files: data/base-courses.json
