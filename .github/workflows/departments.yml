@@ -17,9 +17,9 @@ jobs:
 
     steps:
       - name: Check out the repo
-        uses: actions/checkout@master
+        uses: actions/checkout@main
       - name: Add Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@main
         with:
           python-version: "3.10"
       - name: Scrape Departments
@@ -32,7 +32,7 @@ jobs:
         with:
           format: "DD-MM-YYYY"
       - name: Commit Back Changed Data
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@main
         with:
           commit_message: "Latest Department data: ${{ steps.time.outputs.time }}"
           commit_author: Author <actions@github.com>
