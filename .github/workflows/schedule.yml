@@ -32,7 +32,7 @@ jobs:
         with:
           format: "DD-MM-YYYY"
       - name: Commit Back Changed Data
-        uses: stefanzweifel/git-auto-commit-action@main
+        uses: stefanzweifel/git-auto-commit-action@master
         with:
           commit_message: "Latest Schedule data: ${{ steps.time.outputs.time }}"
           commit_author: Author <actions@github.com>
