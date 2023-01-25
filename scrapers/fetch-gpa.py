@@ -36,6 +36,7 @@ sem = calcSem(limitSemester)
 limitYear = calcYear(limitSemester)
 limitRes = limitYear + " " + sem
 
+changed = False
 
 for depart in allCourses:
     departCode = list(depart.keys())[0]
@@ -43,7 +44,7 @@ for depart in allCourses:
         courseCode = course["code"]
         url = "https://stars.bilkent.edu.tr/homepage/ajax/courses.oldOfferings.php?COURSE={courseCode}".format(
             courseCode=courseCode)
-        page = requests.get(url)
+        page = requests.get(url , allow_redirects=False)
         soup = BeautifulSoup(page.content, "html.parser")
         table = soup.findChildren('table')
         totalGpa = 0
