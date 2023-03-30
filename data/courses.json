@@ -14538,7 +14538,7 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "A-227(S)"
+                  "classroom": "A-227"
                 },
                 {
                   "slot": 9,
@@ -14546,7 +14546,7 @@
                 },
                 {
                   "slot": 39,
-                  "classroom": "A-227"
+                  "classroom": "A-227(S)"
                 },
                 {
                   "slot": 46,
@@ -27991,6 +27991,23 @@
     }
   },
   {
+    "IELTS": {
+      "courses": [
+        {
+          "code": "IELTS 100",
+          "name": "International English Language Testing System",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "IR": {
       "courses": [
         {
@@ -30868,19 +30885,19 @@
               "schedule": [
                 {
                   "slot": 0,
-                  "classroom": "G-B40(S)"
+                  "classroom": "B-105(S)"
                 },
                 {
                   "slot": 7,
-                  "classroom": "G-B40"
+                  "classroom": "B-105"
                 },
                 {
                   "slot": 37,
-                  "classroom": "G-B40"
+                  "classroom": "B-105"
                 },
                 {
                   "slot": 44,
-                  "classroom": "G-B40"
+                  "classroom": "B-105"
                 }
               ]
             }
@@ -39395,7 +39412,7 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "SU-01(S)"
+                  "classroom": "SU-01"
                 },
                 {
                   "slot": 21,
@@ -39403,7 +39420,7 @@
                 },
                 {
                   "slot": 51,
-                  "classroom": "SU-01"
+                  "classroom": "SU-01(S)"
                 },
                 {
                   "slot": 58,
@@ -46963,7 +46980,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Duygu Duman",
               "schedule": [
                 {
                   "slot": 1,
