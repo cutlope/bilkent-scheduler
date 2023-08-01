@@ -32808,7 +32808,24 @@
             {
               "number": "1",
               "instructor": "Metin Gürses",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -42305,19 +42322,19 @@
               "instructor": "Yasemin Tanbi",
               "schedule": [
                 {
-                  "slot": 15,
+                  "slot": 18,
                   "classroom": ""
                 },
                 {
-                  "slot": 22,
+                  "slot": 25,
                   "classroom": ""
                 },
                 {
-                  "slot": 52,
+                  "slot": 50,
                   "classroom": ""
                 },
                 {
-                  "slot": 59,
+                  "slot": 57,
                   "classroom": ""
                 }
               ]
@@ -42333,11 +42350,11 @@
               "instructor": "Mehpare Çelik",
               "schedule": [
                 {
-                  "slot": 50,
+                  "slot": 15,
                   "classroom": ""
                 },
                 {
-                  "slot": 57,
+                  "slot": 22,
                   "classroom": ""
                 }
               ]
