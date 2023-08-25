@@ -2637,7 +2637,7 @@
             },
             {
               "number": "4",
-              "instructor": "Alaz Okudan",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 1,
@@ -2868,11 +2868,6 @@
                   "classroom": ""
                 }
               ]
-            },
-            {
-              "number": "3",
-              "instructor": "Chien Yang Erdem",
-              "schedule": []
             }
           ]
         },
@@ -3395,7 +3390,7 @@
             },
             {
               "number": "9",
-              "instructor": "Alaz Okudan",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 1,
@@ -3417,7 +3412,7 @@
             },
             {
               "number": "10",
-              "instructor": "Didem Özkul McGeoch",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 4,
@@ -3439,7 +3434,7 @@
             },
             {
               "number": "11",
-              "instructor": "Didem Özkul McGeoch",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 18,
@@ -3461,7 +3456,7 @@
             },
             {
               "number": "12",
-              "instructor": "Didem Özkul McGeoch",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 2,
@@ -3672,7 +3667,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Robin Ann Downey",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 3,
@@ -28582,6 +28577,34 @@
           ]
         },
         {
+          "code": "IR 4146",
+          "name": "East  Asia and Global Order",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "IR 4198",
           "name": "Nuclear Proliferation and International Politics",
           "sections": [
@@ -28660,6 +28683,34 @@
                 {
                   "slot": 45,
                   "classroom": "A-326"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IR 5146",
+          "name": "East Asia and Global Order ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
                 }
               ]
             }
@@ -29932,6 +29983,34 @@
           ]
         },
         {
+          "code": "LAW 321",
+          "name": "Judicial Review and Constitutional Rights: Comparative Perspectives",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Serkan Yolcu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "LAW 371",
           "name": "International Criminal Law",
           "sections": [
@@ -30335,6 +30414,34 @@
               "number": "1",
               "instructor": "Ece Göztepe Çelebi",
               "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 515",
+          "name": "Offences  Against the Reliability and Functioning of the Public Administration (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haluk Toroslu",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -37980,6 +38087,62 @@
           ]
         },
         {
+          "code": "MSC 403",
+          "name": "Symphony Orchestra VII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MSC 404",
+          "name": "Symphony Orchestra VIII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "MSC 411",
           "name": "Composition VII",
           "sections": [
@@ -38087,28 +38250,6 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 453",
-          "name": "Bilkent Chorale VII ",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Jennifer Leigh Tipton",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 454",
-          "name": "Bilkent Chorale VIII",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Jennifer Leigh Tipton",
               "schedule": []
             }
           ]
@@ -41966,12 +42107,12 @@
             },
             {
               "number": "2",
-              "instructor": "Selin Salman Engin",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Selin Salman Engin",
+              "instructor": "Staff",
               "schedule": []
             },
             {
@@ -42003,11 +42144,6 @@
             },
             {
               "number": "6",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "7",
               "instructor": "Staff",
               "schedule": []
             }
@@ -42113,7 +42249,7 @@
             },
             {
               "number": "3",
-              "instructor": "Emine Ulaşan Özgüle",
+              "instructor": "Selin Salman Engin",
               "schedule": []
             },
             {
@@ -42284,7 +42420,7 @@
             },
             {
               "number": "2",
-              "instructor": "Hande Ilgaz",
+              "instructor": "Selin Salman Engin",
               "schedule": []
             }
           ]
@@ -42476,6 +42612,28 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Burcu Ayşen Ürgen",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -42532,6 +42690,28 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hande Ilgaz",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -42581,17 +42761,6 @@
             {
               "number": "1",
               "instructor": "Emine Ulaşan Özgüle",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 406",
-          "name": "Introduction to Electroencephalography (EEG)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burcu Ayşen Ürgen",
               "schedule": []
             }
           ]
@@ -42677,6 +42846,11 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -42733,6 +42907,11 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Emine Ulaşan Özgüle",
+              "schedule": []
             }
           ]
         },
@@ -42845,14 +43024,15 @@
                   "classroom": ""
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "code": "PSYC 482",
+          "name": "Mind in Evolution",
+          "sections": [
             {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "3",
+              "number": "1",
               "instructor": "Staff",
               "schedule": []
             }
@@ -42887,17 +43067,6 @@
             {
               "number": "1",
               "instructor": "Jedediah Wilfred Papas Allen",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 506",
-          "name": "Introduction to Electroencephalography (EEG)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burcu Ayşen Ürgen",
               "schedule": []
             }
           ]
@@ -44083,7 +44252,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": [
                 {
                   "slot": 0,
@@ -44580,7 +44749,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": [
                 {
                   "slot": 36,
@@ -44746,7 +44915,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Neda Siami",
               "schedule": [
                 {
                   "slot": 14,
@@ -44768,7 +44937,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Neda Siami",
               "schedule": [
                 {
                   "slot": 16,
@@ -44824,7 +44993,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Büşra Kurt Uçar",
+              "instructor": "Güçlü Özkök & Büşra Kurt Uçar",
               "schedule": [
                 {
                   "slot": 16,
@@ -44846,7 +45015,7 @@
             },
             {
               "number": "2",
-              "instructor": "Büşra Kurt Uçar",
+              "instructor": "Güçlü Özkök & Büşra Kurt Uçar",
               "schedule": [
                 {
                   "slot": 3,
@@ -44946,6 +45115,28 @@
                 },
                 {
                   "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Zeynep Şengel",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
                   "classroom": ""
                 }
               ]
