@@ -1,5 +1,22 @@
 [
   {
+    "ACC": {
+      "courses": [
+        {
+          "code": "ACC 476",
+          "name": "Graduation Project in Accounting Information Systems and Auditing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "ADA": {
       "courses": [
         {
@@ -309,7 +326,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burcu Şenyapılı Özcan",
               "schedule": []
             }
           ]
@@ -325,7 +342,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Deniz Üçer Erduran",
               "schedule": []
             }
           ]
@@ -336,12 +353,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Özge Selen Duran",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Deniz Üçer Erduran",
               "schedule": []
             }
           ]
@@ -374,7 +391,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aysu Berk",
               "schedule": []
             }
           ]
@@ -423,7 +440,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşe Henry",
               "schedule": []
             }
           ]
@@ -434,7 +451,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Özge Selen Duran",
               "schedule": []
             }
           ]
@@ -467,7 +484,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bülent Batuman",
               "schedule": []
             }
           ]
@@ -1571,11 +1588,6 @@
             {
               "number": "9",
               "instructor": "Sibel Uğurlubilek",
-              "schedule": []
-            },
-            {
-              "number": "10",
-              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -4734,6 +4746,17 @@
           ]
         },
         {
+          "code": "FA 214",
+          "name": "Introduction to Printmaking II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Beata Malgorzata Zalewska Sladczyk",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "FA 215",
           "name": "Introduction to Sculpture I",
           "sections": [
@@ -4967,6 +4990,17 @@
             {
               "number": "19",
               "instructor": "Emine Öncüler Yayalar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GE 304",
+          "name": "Technology Society and Professional Development Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Alper Kutay",
               "schedule": []
             }
           ]
@@ -5708,6 +5742,71 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         }
@@ -5723,6 +5822,101 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "19",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "20",
               "instructor": "Staff",
               "schedule": []
             }
@@ -5745,6 +5939,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Staff",
               "schedule": []
             }
@@ -7746,6 +7945,11 @@
             },
             {
               "number": "2",
+              "instructor": "Hamdi Pınar",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Arif Barış Özbilen",
               "schedule": []
             }
@@ -7827,7 +8031,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Hamdi Pınar",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -9277,7 +9481,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Özgün Ünlü",
               "schedule": []
             }
           ]
@@ -9324,7 +9528,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Müfit Sezer",
               "schedule": []
             }
           ]
@@ -9335,7 +9539,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Türker Özsarı",
               "schedule": []
             }
           ]
@@ -9357,7 +9561,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Laurence John Barker",
               "schedule": []
             }
           ]
@@ -9479,7 +9683,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Azer Kerimov",
               "schedule": []
             }
           ]
@@ -9490,7 +9694,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ahmet Muhtar Güloğlu",
               "schedule": []
             }
           ]
@@ -9538,7 +9742,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             }
           ]
@@ -9549,22 +9753,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             }
           ]
@@ -9575,7 +9779,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Alexandre Goncharov",
               "schedule": []
             }
           ]
@@ -9586,7 +9790,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aurelian Gheondea",
               "schedule": []
             }
           ]
@@ -9597,7 +9801,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ali Sinan Sertöz",
               "schedule": []
             }
           ]
@@ -9608,7 +9812,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Fatihcan Atay",
               "schedule": []
             }
           ]
@@ -9619,7 +9823,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Gökhan Yıldırım",
               "schedule": []
             }
           ]
@@ -9630,7 +9834,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aurelian Gheondea",
               "schedule": []
             }
           ]
@@ -9641,7 +9845,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Alexander Degtyarev",
               "schedule": []
             }
           ]
@@ -9652,7 +9856,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Fatihcan Atay",
               "schedule": []
             }
           ]
@@ -9663,7 +9867,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Gökhan Yıldırım",
               "schedule": []
             }
           ]
@@ -9674,7 +9878,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             }
           ]
@@ -9685,7 +9889,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             }
           ]
@@ -9696,7 +9900,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ergün Yalçın",
               "schedule": []
             }
           ]
@@ -9707,7 +9911,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Metin Gürses",
               "schedule": []
             }
           ]
@@ -11089,28 +11293,6 @@
         {
           "code": "NSC 599",
           "name": "Neuroscience Master's Thesis",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hüseyin Boyacı",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "NSC 670",
-          "name": "Lab in Cellular, Molecular, and Developmental Neuroscience ",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hüseyin Boyacı",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "NSC 671",
-          "name": "Lab in Sensory and Motor Systems Neuroscience",
           "sections": [
             {
               "number": "1",
@@ -12773,7 +12955,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Necmi Akşit",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -12784,7 +12966,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Necmi Akşit",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -12828,7 +13010,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Tijen Akşit",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -13456,8 +13638,19 @@
           ]
         },
         {
+          "code": "TRIN 467",
+          "name": "Methodology in Translation Criticism",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Büşra Kurt Uçar",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "TRIN 473",
-          "name": "Turkish Diction",
+          "name": "Advanced Turkish Communication",
           "sections": [
             {
               "number": "1",
@@ -13493,8 +13686,8 @@
           "name": "Capstone Project",
           "sections": [
             {
-              "number": "1",
-              "instructor": "Staff",
+              "number": "2",
+              "instructor": "Zeynep Şengel & Bahtınur Gündoğdu",
               "schedule": []
             }
           ]
