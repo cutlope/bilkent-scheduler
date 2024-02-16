@@ -3120,16 +3120,16 @@
               "instructor": "Alipaşa Ayas",
               "schedule": [
                 {
-                  "slot": 58,
-                  "classroom": "G-255"
+                  "slot": 57,
+                  "classroom": "G-229"
                 },
                 {
-                  "slot": 65,
-                  "classroom": "G-255"
+                  "slot": 64,
+                  "classroom": "G-229"
                 },
                 {
-                  "slot": 72,
-                  "classroom": "G-255"
+                  "slot": 71,
+                  "classroom": "G-229"
                 }
               ]
             }
@@ -13333,7 +13333,12 @@
             {
               "number": "1",
               "instructor": "Volkan Kurşun",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 30,
+                  "classroom": "EE-517"
+                }
+              ]
             }
           ]
         },
@@ -13344,7 +13349,12 @@
             {
               "number": "1",
               "instructor": "Volkan Kurşun",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 30,
+                  "classroom": "EE-517"
+                }
+              ]
             }
           ]
         },
@@ -17378,19 +17388,19 @@
                 },
                 {
                   "slot": 17,
-                  "classroom": "SA-Z04"
+                  "classroom": "G-Z07"
                 },
                 {
                   "slot": 24,
-                  "classroom": "SA-Z04"
+                  "classroom": "G-Z07"
                 },
                 {
                   "slot": 49,
-                  "classroom": "SA-Z04"
+                  "classroom": "G-Z07"
                 },
                 {
                   "slot": 56,
-                  "classroom": "SA-Z04"
+                  "classroom": "G-Z07"
                 }
               ]
             },
@@ -21923,11 +21933,11 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "H-335(S)"
+                  "classroom": "H-335"
                 },
                 {
                   "slot": 22,
-                  "classroom": "H-335"
+                  "classroom": "H-335(S)"
                 },
                 {
                   "slot": 52,
@@ -22560,7 +22570,7 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "G-Z39(S)"
+                  "classroom": "G-Z39"
                 },
                 {
                   "slot": 25,
@@ -22572,7 +22582,7 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": "G-Z39"
+                  "classroom": "G-Z39(S)"
                 }
               ]
             }
