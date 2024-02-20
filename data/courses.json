@@ -9706,7 +9706,7 @@
                 },
                 {
                   "slot": 18,
-                  "classroom": "B-108"
+                  "classroom": "B-106"
                 },
                 {
                   "slot": 35,
@@ -22480,7 +22480,24 @@
             {
               "number": "1",
               "instructor": "Barbora Weissova",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -30624,19 +30641,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "B-111(S)"
+                  "classroom": "B-113(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": "B-111"
+                  "classroom": "B-113"
                 },
                 {
                   "slot": 39,
-                  "classroom": "B-111"
+                  "classroom": "B-113"
                 },
                 {
                   "slot": 46,
-                  "classroom": "B-111"
+                  "classroom": "B-113"
                 }
               ]
             }
@@ -38189,12 +38206,12 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Belinda Chen",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Belinda Chen",
               "schedule": []
             },
             {
@@ -46618,7 +46635,7 @@
               "schedule": [
                 {
                   "slot": 0,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 7,
@@ -46630,7 +46647,7 @@
                 },
                 {
                   "slot": 44,
-                  "classroom": "LD-4"
+                  "classroom": "LD-4(S)"
                 }
               ]
             }
