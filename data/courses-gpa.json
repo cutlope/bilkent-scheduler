@@ -1,5 +1,626 @@
 [
   {
+    "ADA": {
+      "courses": [
+        {
+          "code": "ADA 131",
+          "name": "Architectural Drawing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Acar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Hatice Karaca",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Hatice Karaca",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.48"
+        },
+        {
+          "code": "ADA 134",
+          "name": "Designing with Digital Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Yiğit Acar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.60"
+        },
+        {
+          "code": "ADA 263",
+          "name": "History of Built Environment I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Serpil Özaloğlu",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Ayşe Henry",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.24"
+        },
+        {
+          "code": "ADA 265",
+          "name": "How Houses Build People",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Segah Sak",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Segah Sak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.12"
+        }
+      ]
+    }
+  },
+  {
+    "COMD": {
+      "courses": [
+        {
+          "code": "COMD 101",
+          "name": "Visual Communication Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jülide Akşiyote Görür",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Jülide Akşiyote Görür",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Egemen Kırkağaç",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.46"
+        },
+        {
+          "code": "COMD 103",
+          "name": "Integrated Visual Communication",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Boran Aksoy",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Boran Aksoy",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.40"
+        },
+        {
+          "code": "COMD 203",
+          "name": "Media Studies I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Baykan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Burcu Baykan",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Lutz Peschke",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Lutz Peschke",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.63"
+        },
+        {
+          "code": "COMD 207",
+          "name": "History of Film and Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Wickham Catesby Flannagan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Wickham Catesby Flannagan",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.52"
+        },
+        {
+          "code": "COMD 210",
+          "name": "Introduction to Screenwriting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fulten Larlar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Fulten Larlar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
+        },
+        {
+          "code": "COMD 281",
+          "name": "Media and Design Studio I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Boran Aksoy",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Boran Aksoy",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.65"
+        },
+        {
+          "code": "COMD 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "COMD 305",
+          "name": "Intermediate Film Production I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
+        },
+        {
+          "code": "COMD 310",
+          "name": "Advanced Screenwriting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.99"
+        },
+        {
+          "code": "COMD 321",
+          "name": "Analysis of Moving Image",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Colleen Bevin Kennedy Karpat",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Colleen Bevin Kennedy Karpat",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.77"
+        },
+        {
+          "code": "COMD 331",
+          "name": "News Reporting and Writing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Müge Mengü Hale",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Müge Mengü Hale",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.24"
+        },
+        {
+          "code": "COMD 341",
+          "name": "Media and Society",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.57"
+        },
+        {
+          "code": "COMD 357",
+          "name": "Multimedia Journalism",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.12"
+        },
+        {
+          "code": "COMD 358",
+          "name": "Professional Communication ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emel Özdora",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.92"
+        },
+        {
+          "code": "COMD 361",
+          "name": "Sound Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.73"
+        },
+        {
+          "code": "COMD 381",
+          "name": "Media and Design Studio III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Wickham Catesby Flannagan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Fulten Larlar",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Wickham Catesby Flannagan",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Fulten Larlar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.90"
+        },
+        {
+          "code": "COMD 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "COMD 433",
+          "name": "Gender and Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.70"
+        },
+        {
+          "code": "COMD 439",
+          "name": "International Public Relations ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emel Özdora",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Emel Özdora",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.76"
+        },
+        {
+          "code": "COMD 471",
+          "name": "Media Ethics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bülent Mehmet Çaplı",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Bülent Mehmet Çaplı",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.72"
+        },
+        {
+          "code": "COMD 481",
+          "name": "Visual Communication Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Andreas Treske",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Andreas Treske",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.01"
+        },
+        {
+          "code": "COMD 512",
+          "name": "Foundations in Visual Studies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Baykan",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.46"
+        },
+        {
+          "code": "COMD 513",
+          "name": "Film and Genre",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Colleen Bevin Kennedy Karpat",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.59"
+        },
+        {
+          "code": "COMD 517",
+          "name": "Topics in Media Studies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "COMD 590",
+          "name": "Seminar in Research Topics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emel Özdora",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "COMD 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emel Özdora",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
     "CS": {
       "courses": [
         {
@@ -1189,6 +1810,146 @@
     }
   },
   {
+    "FA": {
+      "courses": [
+        {
+          "code": "FA 101",
+          "name": "Basic Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Sema Karamanoğlu",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Aysu Berk",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.47"
+        },
+        {
+          "code": "FA 171",
+          "name": "Introduction to Art, Design and Culture I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Egemen Kırkağaç",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Müge Mengü Hale",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Egemen Kırkağaç",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Sema Karamanoğlu",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Müge Mengü Hale",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.60"
+        }
+      ]
+    }
+  },
+  {
     "GE": {
       "courses": [
         {
@@ -1274,6 +2035,48 @@
             }
           ],
           "gpa": "3.53"
+        }
+      ]
+    }
+  },
+  {
+    "GRA": {
+      "courses": [
+        {
+          "code": "GRA 541",
+          "name": "Graphic and Visual Representation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Lutz Peschke",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.52"
+        },
+        {
+          "code": "GRA 590",
+          "name": "Seminar in Research Topics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Marek Brzozowski",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "GRA 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Marek Brzozowski",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -1393,7 +2196,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Scott Allen Kennedy",
               "schedule": []
             }
           ],
@@ -1607,7 +2410,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Scott Allen Kennedy",
               "schedule": []
             }
           ],
@@ -1964,18 +2767,6 @@
             }
           ],
           "gpa": "2.86"
-        },
-        {
-          "code": "IE 468",
-          "name": "Pricing and Revenue Optimization ",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Alper Şen",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.85"
         },
         {
           "code": "IE 477",
@@ -2514,6 +3305,18 @@
           "gpa": "2.54"
         },
         {
+          "code": "MAN 486",
+          "name": "Managing Consulting Projects",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erdinç Mert",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.19"
+        },
+        {
           "code": "MAN 495",
           "name": "Business Capstone Project",
           "sections": [
@@ -2524,6 +3327,132 @@
             }
           ],
           "gpa": "3.54"
+        },
+        {
+          "code": "MAN 525",
+          "name": "Financial Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Altan Pazarbaşı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.12"
+        },
+        {
+          "code": "MAN 590",
+          "name": "Pro-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Ekici",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MAN 593",
+          "name": "Research Paper I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Ekici",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MAN 594",
+          "name": "Research Paper II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Ekici",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MAN 599",
+          "name": "Master's Thesis Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Ekici",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MAN 690",
+          "name": "Pre-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Ekici",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MAN 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Ekici",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
+    "MBA": {
+      "courses": [
+        {
+          "code": "MBA 503",
+          "name": "Business Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süheyla Özyıldırım",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.34"
+        },
+        {
+          "code": "MBA 542",
+          "name": "Production and Operations Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Eyüp Emre Berk",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.28"
+        },
+        {
+          "code": "MBA 553",
+          "name": "Data Models and Decisions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erdal Erel",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.10"
         }
       ]
     }
@@ -2917,6 +3846,120 @@
             }
           ],
           "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
+    "MSN": {
+      "courses": [
+        {
+          "code": "MSN 500",
+          "name": "Concepts in Materials Science",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Engin Durgun",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.22"
+        },
+        {
+          "code": "MSN 511",
+          "name": "Surface Science and Spectroscopy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Won mi Ahn",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.43"
+        },
+        {
+          "code": "MSN 513",
+          "name": "Micro and Nanostructured Sensors and Biosensing Applications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fatih İnci",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.61"
+        },
+        {
+          "code": "MSN 517",
+          "name": "Nanoscience and Nanotechnology I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seymur Jahangirov",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.78"
+        },
+        {
+          "code": "MSN 519",
+          "name": "Applications of Microfluidics and Nanofluidics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gürkan Yeşilöz",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.76"
+        },
+        {
+          "code": "MSN 522",
+          "name": "Synthetic Biology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Urartu Özgür Şafak Şeker",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.65"
+        },
+        {
+          "code": "MSN 531",
+          "name": "Magnetic Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cüneyt Şahin",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.78"
+        },
+        {
+          "code": "MSN 555",
+          "name": "Laser Physics: from Principles to Applications for Materials Science",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bülend Ortaç",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.26"
+        },
+        {
+          "code": "MSN 556",
+          "name": "Optical Fibers",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Ordu",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.47"
         }
       ]
     }
