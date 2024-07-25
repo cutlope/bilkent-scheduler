@@ -106,19 +106,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "(S)"
+                  "classroom": "FF-213(S)"
                 },
                 {
                   "slot": 11,
-                  "classroom": ""
+                  "classroom": "FF-213"
                 },
                 {
                   "slot": 18,
-                  "classroom": ""
+                  "classroom": "FF-213"
                 },
                 {
                   "slot": 25,
-                  "classroom": ""
+                  "classroom": "FF-213"
                 }
               ]
             },
@@ -944,6 +944,17 @@
             {
               "number": "1",
               "instructor": "Giorgio Gasco",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ARCH 513",
+          "name": "Theory and Methodology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 18,
@@ -959,34 +970,6 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "ARCH 513",
-          "name": "Theory and Methodology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 4,
-                  "classroom": "(S)"
-                },
-                {
-                  "slot": 11,
-                  "classroom": ""
-                },
-                {
-                  "slot": 36,
-                  "classroom": ""
-                },
-                {
-                  "slot": 43,
                   "classroom": ""
                 }
               ]
@@ -3428,19 +3411,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "(S)"
+                  "classroom": "FB-110(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": ""
+                  "classroom": "FB-110"
                 },
                 {
                   "slot": 39,
-                  "classroom": ""
+                  "classroom": "FB-110"
                 },
                 {
                   "slot": 46,
-                  "classroom": ""
+                  "classroom": "FB-110"
                 }
               ]
             }
@@ -4438,19 +4421,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "(S)"
+                  "classroom": "FF-216(S)"
                 },
                 {
                   "slot": 11,
-                  "classroom": ""
+                  "classroom": "FF-216"
                 },
                 {
                   "slot": 18,
-                  "classroom": ""
+                  "classroom": "FF-216"
                 },
                 {
                   "slot": 25,
-                  "classroom": ""
+                  "classroom": "FF-216"
                 }
               ]
             }
@@ -8488,19 +8471,19 @@
               "instructor": "Staff",
               "schedule": [
                 {
-                  "slot": 14,
+                  "slot": 4,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 21,
+                  "slot": 11,
                   "classroom": ""
                 },
                 {
-                  "slot": 51,
+                  "slot": 36,
                   "classroom": ""
                 },
                 {
-                  "slot": 58,
+                  "slot": 43,
                   "classroom": ""
                 }
               ]
@@ -10372,36 +10355,36 @@
               "instructor": "Staff",
               "schedule": [
                 {
-                  "slot": 1,
+                  "slot": 2,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 3,
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 16,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
                   "classroom": "(S)"
-                },
-                {
-                  "slot": 8,
-                  "classroom": ""
-                },
-                {
-                  "slot": 10,
-                  "classroom": ""
-                },
-                {
-                  "slot": 15,
-                  "classroom": ""
-                },
-                {
-                  "slot": 17,
-                  "classroom": ""
-                },
-                {
-                  "slot": 22,
-                  "classroom": ""
-                },
-                {
-                  "slot": 24,
-                  "classroom": ""
                 }
               ]
             }
@@ -11366,24 +11349,7 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 18,
-                  "classroom": "(S)"
-                },
-                {
-                  "slot": 25,
-                  "classroom": ""
-                },
-                {
-                  "slot": 50,
-                  "classroom": ""
-                },
-                {
-                  "slot": 57,
-                  "classroom": ""
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -11496,19 +11462,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "FB-209(S)"
+                  "classroom": "(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": "FB-209"
+                  "classroom": ""
                 },
                 {
                   "slot": 39,
-                  "classroom": "FB-209"
+                  "classroom": ""
                 },
                 {
                   "slot": 46,
-                  "classroom": "FB-209"
+                  "classroom": ""
                 }
               ]
             },
@@ -11518,19 +11484,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "FB-209(S)"
+                  "classroom": "(S)"
                 },
                 {
                   "slot": 11,
-                  "classroom": "FB-209"
+                  "classroom": ""
                 },
                 {
                   "slot": 36,
-                  "classroom": "FB-209"
+                  "classroom": ""
                 },
                 {
                   "slot": 43,
-                  "classroom": "FB-209"
+                  "classroom": ""
                 }
               ]
             }
@@ -12060,24 +12026,7 @@
             {
               "number": "1",
               "instructor": "Birsu Semra Çeltek",
-              "schedule": [
-                {
-                  "slot": 36,
-                  "classroom": "FB-121"
-                },
-                {
-                  "slot": 43,
-                  "classroom": "FB-121"
-                },
-                {
-                  "slot": 50,
-                  "classroom": "FB-121"
-                },
-                {
-                  "slot": 57,
-                  "classroom": "FB-121(S)"
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -12197,19 +12146,19 @@
               "schedule": [
                 {
                   "slot": 36,
-                  "classroom": ""
+                  "classroom": "FB-209"
                 },
                 {
                   "slot": 43,
-                  "classroom": ""
+                  "classroom": "FB-209"
                 },
                 {
                   "slot": 50,
-                  "classroom": ""
+                  "classroom": "FB-209"
                 },
                 {
                   "slot": 57,
-                  "classroom": "(S)"
+                  "classroom": "FB-209(S)"
                 }
               ]
             },
@@ -12665,43 +12614,43 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 21,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 35,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 38,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 42,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 45,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 49,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 52,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 56,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "FC-220"
                 }
               ]
             }
@@ -17353,24 +17302,7 @@
             {
               "number": "1",
               "instructor": "Mehmet Selim Aktürk",
-              "schedule": [
-                {
-                  "slot": 15,
-                  "classroom": "(S)"
-                },
-                {
-                  "slot": 22,
-                  "classroom": ""
-                },
-                {
-                  "slot": 52,
-                  "classroom": ""
-                },
-                {
-                  "slot": 59,
-                  "classroom": ""
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -19362,17 +19294,68 @@
             {
               "number": "1",
               "instructor": "Lale Gümüşlüoğlu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Lale Gümüşlüoğlu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "3",
               "instructor": "Ayşe Başak Tanyeri",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19383,32 +19366,134 @@
             {
               "number": "1",
               "instructor": "Özgür Tolga Baycan",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Özgür Tolga Baycan",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "3",
               "instructor": "Özgür Tolga Baycan",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "4",
               "instructor": "Özgür Tolga Baycan",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "5",
               "instructor": "Ceren Aydoğmuş",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "6",
               "instructor": "Ceren Aydoğmuş",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19419,12 +19504,46 @@
             {
               "number": "1",
               "instructor": "Gözde Esen",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Gözde Esen",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19435,22 +19554,90 @@
             {
               "number": "1",
               "instructor": "Banu Sultanoğlu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": ""
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Banu Sultanoğlu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": ""
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "3",
               "instructor": "Banu Sultanoğlu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": ""
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "4",
               "instructor": "Gözde Esen",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19461,7 +19648,24 @@
             {
               "number": "1",
               "instructor": "Tolga Demir",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19472,12 +19676,46 @@
             {
               "number": "1",
               "instructor": "Fehmi Tanrısever",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Fehmi Tanrısever",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19488,7 +19726,24 @@
             {
               "number": "1",
               "instructor": "Celile Itır Göğüş",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
@@ -19504,7 +19759,24 @@
             {
               "number": "1",
               "instructor": "Ayşe Başak Tanyeri",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19515,7 +19787,24 @@
             {
               "number": "1",
               "instructor": "Gözde Esen",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19526,17 +19815,68 @@
             {
               "number": "1",
               "instructor": "Kürşat Aydoğan",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Ahmet Şensoy",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "3",
               "instructor": "Ahmet Şensoy",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19547,12 +19887,46 @@
             {
               "number": "1",
               "instructor": "Ahmet Ekici",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Ahmet Ekici",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19563,12 +19937,46 @@
             {
               "number": "1",
               "instructor": "Eyüp Emre Berk",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19600,7 +20008,24 @@
             {
               "number": "1",
               "instructor": "Süheyla Özyıldırım",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19611,12 +20036,46 @@
             {
               "number": "1",
               "instructor": "Atilla Onuklu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Atilla Onuklu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19627,7 +20086,24 @@
             {
               "number": "1",
               "instructor": "Zeynep Önder",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19638,7 +20114,24 @@
             {
               "number": "1",
               "instructor": "Aydın Örsan Örge",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19660,7 +20153,24 @@
             {
               "number": "1",
               "instructor": "Saurabh Pandharinath Shinde",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19671,7 +20181,24 @@
             {
               "number": "1",
               "instructor": "Onur Osmanoğlu",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19682,7 +20209,24 @@
             {
               "number": "1",
               "instructor": "Ceren Aydoğmuş",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19693,7 +20237,24 @@
             {
               "number": "1",
               "instructor": "Tolga Demir",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19704,7 +20265,24 @@
             {
               "number": "1",
               "instructor": "Zeynep Önder",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -19715,7 +20293,24 @@
             {
               "number": "1",
               "instructor": "Erdinç Mert",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -22203,87 +22798,648 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "3",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "4",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "5",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "6",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "7",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "8",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "9",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "10",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "11",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "12",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "13",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "14",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "15",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "16",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "17",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -22294,22 +23450,154 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "3",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "4",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -23138,7 +24426,24 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -23149,7 +24454,24 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         }
@@ -23818,7 +25140,24 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -23840,12 +25179,46 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "3",
@@ -23866,7 +25239,16 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -23963,6 +25345,28 @@
               "schedule": [
                 {
                   "slot": 3,
+                  "classroom": "LB-101(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "LB-101"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "LB-101"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "LB-101"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 3,
                   "classroom": "(S)"
                 },
                 {
@@ -23975,28 +25379,6 @@
                 },
                 {
                   "slot": 42,
-                  "classroom": ""
-                }
-              ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 17,
-                  "classroom": "(S)"
-                },
-                {
-                  "slot": 24,
-                  "classroom": ""
-                },
-                {
-                  "slot": 49,
-                  "classroom": ""
-                },
-                {
-                  "slot": 56,
                   "classroom": ""
                 }
               ]
@@ -24013,19 +25395,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "(S)"
+                  "classroom": "LB-102(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": ""
+                  "classroom": "LB-102"
                 },
                 {
                   "slot": 38,
-                  "classroom": ""
+                  "classroom": "LB-102"
                 },
                 {
                   "slot": 45,
-                  "classroom": ""
+                  "classroom": "LB-102"
                 }
               ]
             },
@@ -24035,19 +25417,19 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "(S)"
+                  "classroom": "LB-102(S)"
                 },
                 {
                   "slot": 24,
-                  "classroom": ""
+                  "classroom": "LB-102"
                 },
                 {
                   "slot": 49,
-                  "classroom": ""
+                  "classroom": "LB-102"
                 },
                 {
                   "slot": 56,
-                  "classroom": ""
+                  "classroom": "LB-102"
                 }
               ]
             }
@@ -24063,19 +25445,19 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "(S)"
+                  "classroom": "LA-114(S)"
                 },
                 {
                   "slot": 21,
-                  "classroom": ""
+                  "classroom": "LA-114"
                 },
                 {
                   "slot": 51,
-                  "classroom": ""
+                  "classroom": "LA-114"
                 },
                 {
                   "slot": 58,
-                  "classroom": ""
+                  "classroom": "LA-114"
                 }
               ]
             },
@@ -24084,19 +25466,19 @@
               "instructor": "Neda Siami",
               "schedule": [
                 {
-                  "slot": 18,
+                  "slot": 17,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 25,
+                  "slot": 24,
                   "classroom": ""
                 },
                 {
-                  "slot": 50,
+                  "slot": 49,
                   "classroom": ""
                 },
                 {
-                  "slot": 57,
+                  "slot": 56,
                   "classroom": ""
                 }
               ]
@@ -24117,15 +25499,15 @@
                 },
                 {
                   "slot": 23,
-                  "classroom": ""
+                  "classroom": "LB-101"
                 },
                 {
                   "slot": 53,
-                  "classroom": ""
+                  "classroom": "LB-101"
                 },
                 {
                   "slot": 60,
-                  "classroom": ""
+                  "classroom": "LB-101"
                 }
               ]
             }
@@ -24145,7 +25527,7 @@
                 },
                 {
                   "slot": 3,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 },
                 {
                   "slot": 8,
@@ -24153,7 +25535,7 @@
                 },
                 {
                   "slot": 10,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 }
               ]
             },
@@ -24162,20 +25544,20 @@
               "instructor": "Büşra Kurt Uçar",
               "schedule": [
                 {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
                   "slot": 17,
+                  "classroom": "LB-Z10"
+                },
+                {
+                  "slot": 22,
                   "classroom": ""
                 },
                 {
                   "slot": 24,
-                  "classroom": ""
-                },
-                {
-                  "slot": 50,
-                  "classroom": ""
-                },
-                {
-                  "slot": 57,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 }
               ]
             }
@@ -24191,75 +25573,25 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "(S)"
+                  "classroom": "LB-101(S)"
                 },
                 {
                   "slot": 21,
-                  "classroom": ""
+                  "classroom": "LB-101"
                 },
                 {
                   "slot": 51,
-                  "classroom": ""
+                  "classroom": "LB-101"
                 },
                 {
                   "slot": 58,
-                  "classroom": ""
+                  "classroom": "LB-101"
                 }
               ]
             },
             {
               "number": "2",
               "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 0,
-                  "classroom": "(S)"
-                },
-                {
-                  "slot": 7,
-                  "classroom": ""
-                },
-                {
-                  "slot": 37,
-                  "classroom": ""
-                },
-                {
-                  "slot": 44,
-                  "classroom": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "TRIN 228",
-          "name": "French Culture and Civilisation",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Neda Siami",
-              "schedule": [
-                {
-                  "slot": 0,
-                  "classroom": "(S)"
-                },
-                {
-                  "slot": 7,
-                  "classroom": ""
-                },
-                {
-                  "slot": 37,
-                  "classroom": ""
-                },
-                {
-                  "slot": 44,
-                  "classroom": ""
-                }
-              ]
-            },
-            {
-              "number": "2",
-              "instructor": "Neda Siami",
               "schedule": [
                 {
                   "slot": 4,
@@ -24282,62 +25614,34 @@
           ]
         },
         {
-          "code": "TRIN 267",
-          "name": "Sight Translation I",
+          "code": "TRIN 228",
+          "name": "French Culture and Civilisation",
           "sections": [
             {
               "number": "1",
-              "instructor": "Zeynep Şengel",
+              "instructor": "Neda Siami",
               "schedule": [
                 {
-                  "slot": 2,
-                  "classroom": "(S)"
+                  "slot": 0,
+                  "classroom": "LA-114(S)"
                 },
                 {
-                  "slot": 9,
-                  "classroom": ""
+                  "slot": 7,
+                  "classroom": "LA-114"
                 },
                 {
-                  "slot": 16,
-                  "classroom": ""
+                  "slot": 37,
+                  "classroom": "LA-114"
                 },
                 {
-                  "slot": 23,
-                  "classroom": ""
+                  "slot": 44,
+                  "classroom": "LA-114"
                 }
               ]
             },
             {
               "number": "2",
-              "instructor": "Zeynep Şengel",
-              "schedule": [
-                {
-                  "slot": 38,
-                  "classroom": ""
-                },
-                {
-                  "slot": 45,
-                  "classroom": ""
-                },
-                {
-                  "slot": 52,
-                  "classroom": ""
-                },
-                {
-                  "slot": 59,
-                  "classroom": "(S)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "code": "TRIN 321",
-          "name": "Note-Taking and Consecutive Interpretation in English",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Zeynep Şengel",
+              "instructor": "Neda Siami",
               "schedule": [
                 {
                   "slot": 3,
@@ -24356,25 +25660,103 @@
                   "classroom": ""
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "TRIN 267",
+          "name": "Sight Translation I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zeynep Şengel",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "LA-101(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "LA-101"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "LA-101"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "LA-101"
+                }
+              ]
             },
             {
               "number": "2",
               "instructor": "Zeynep Şengel",
               "schedule": [
                 {
-                  "slot": 17,
+                  "slot": 38,
+                  "classroom": "LA-101"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "LA-101"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "LA-101"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "LA-101(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "TRIN 321",
+          "name": "Note-Taking and Consecutive Interpretation in English",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zeynep Şengel",
+              "schedule": [
+                {
+                  "slot": 0,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 24,
+                  "slot": 7,
                   "classroom": ""
                 },
                 {
-                  "slot": 49,
+                  "slot": 37,
                   "classroom": ""
                 },
                 {
-                  "slot": 56,
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Zeynep Şengel",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
                   "classroom": ""
                 }
               ]
@@ -24391,19 +25773,19 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "(S)"
+                  "classroom": "LB-Z10(S)"
                 },
                 {
                   "slot": 25,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 },
                 {
                   "slot": 50,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 },
                 {
                   "slot": 57,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 }
               ]
             },
@@ -24413,19 +25795,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "(S)"
+                  "classroom": "LB-Z10(S)"
                 },
                 {
                   "slot": 11,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 },
                 {
                   "slot": 36,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 },
                 {
                   "slot": 43,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 }
               ]
             }
@@ -24441,19 +25823,19 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": ""
+                  "classroom": "LD-4"
                 },
                 {
                   "slot": 22,
-                  "classroom": ""
+                  "classroom": "LD-4"
                 },
                 {
                   "slot": 52,
-                  "classroom": ""
+                  "classroom": "LD-4"
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "LD-4"
                 }
               ]
             },
@@ -24462,20 +25844,20 @@
               "instructor": "Cahide Ekiz",
               "schedule": [
                 {
-                  "slot": 15,
-                  "classroom": ""
+                  "slot": 4,
+                  "classroom": "LD-4"
                 },
                 {
-                  "slot": 22,
-                  "classroom": ""
+                  "slot": 11,
+                  "classroom": "LD-4"
                 },
                 {
-                  "slot": 52,
-                  "classroom": ""
+                  "slot": 36,
+                  "classroom": "LD-4"
                 },
                 {
-                  "slot": 59,
-                  "classroom": ""
+                  "slot": 43,
+                  "classroom": "LD-4"
                 }
               ]
             }
@@ -24490,20 +25872,20 @@
               "instructor": "Büşra Kurt Uçar",
               "schedule": [
                 {
-                  "slot": 2,
-                  "classroom": "(S)"
+                  "slot": 1,
+                  "classroom": "LD-4(S)"
                 },
                 {
-                  "slot": 9,
-                  "classroom": ""
+                  "slot": 8,
+                  "classroom": "LD-4"
                 },
                 {
-                  "slot": 39,
-                  "classroom": ""
+                  "slot": 38,
+                  "classroom": "LD-4"
                 },
                 {
-                  "slot": 46,
-                  "classroom": ""
+                  "slot": 45,
+                  "classroom": "LD-4"
                 }
               ]
             }
@@ -24530,19 +25912,19 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "(S)"
+                  "classroom": "LB-Z10(S)"
                 },
                 {
                   "slot": 22,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 },
                 {
                   "slot": 52,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "LB-Z10"
                 }
               ]
             }
@@ -24558,27 +25940,27 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 9,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 17,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 24,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 49,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 56,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 }
               ]
             }
@@ -24594,19 +25976,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "(S)"
+                  "classroom": "LB-Z09(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 38,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 45,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 }
               ]
             }
@@ -24622,27 +26004,27 @@
               "schedule": [
                 {
                   "slot": 3,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 10,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 35,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 42,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 50,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 },
                 {
                   "slot": 57,
-                  "classroom": ""
+                  "classroom": "LB-Z09"
                 }
               ]
             }
