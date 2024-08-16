@@ -364,6 +364,18 @@
           "gpa": "2.30"
         },
         {
+          "code": "ARCH 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özge Selen Duran",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
           "code": "ARCH 301",
           "name": "Architectural Design Studio III",
           "sections": [
@@ -391,6 +403,18 @@
             }
           ],
           "gpa": "2.10"
+        },
+        {
+          "code": "ARCH 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özge Selen Duran",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         },
         {
           "code": "ARCH 401",
@@ -475,6 +499,30 @@
             }
           ],
           "gpa": "3.73"
+        },
+        {
+          "code": "ARCH 590",
+          "name": "Graduate Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ARCH 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -680,7 +728,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.55"
+          "gpa": "2.56"
         },
         {
           "code": "CHEM 461",
@@ -753,6 +801,17 @@
             }
           ],
           "gpa": "3.39"
+        },
+        {
+          "code": "CHEM 555",
+          "name": "Applied Quantum Chemistry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fahri Alkan",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "CHEM 571",
@@ -938,7 +997,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.54"
+          "gpa": "2.83"
         },
         {
           "code": "CI 699",
@@ -1525,7 +1584,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.82"
+          "gpa": "2.83"
         },
         {
           "code": "CS 115",
@@ -1634,7 +1693,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.66"
+          "gpa": "2.67"
         },
         {
           "code": "CS 125",
@@ -1744,7 +1803,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.38"
+          "gpa": "2.37"
         },
         {
           "code": "CS 223",
@@ -1959,12 +2018,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Ezhan Karaşan",
+              "instructor": "Cem Tekin",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ezhan Karaşan",
               "schedule": []
             }
           ],
@@ -2351,7 +2410,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.44"
+          "gpa": "2.45"
         },
         {
           "code": "CTIS 163",
@@ -2488,7 +2547,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.31"
+          "gpa": "2.32"
         },
         {
           "code": "CTIS 259",
@@ -2515,7 +2574,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.60"
+          "gpa": "2.61"
         },
         {
           "code": "CTIS 261",
@@ -2647,7 +2706,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.21"
+          "gpa": "2.23"
         },
         {
           "code": "CTIS 365",
@@ -2960,22 +3019,22 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Hakan Berument",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "4",
               "instructor": "Eda Gürel",
               "schedule": []
             },
             {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
               "number": "5",
-              "instructor": "Hakan Berument",
+              "instructor": "Staff",
               "schedule": []
             },
             {
@@ -3102,7 +3161,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Hakan Berument",
               "schedule": []
             }
           ],
@@ -3217,7 +3276,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.04"
+          "gpa": "2.05"
         },
         {
           "code": "ECON 301",
@@ -3340,7 +3399,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.54"
+          "gpa": "2.53"
         },
         {
           "code": "ECON 443",
@@ -3622,7 +3681,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Necmi Akşit & Alipaşa Ayas",
               "schedule": []
             }
           ]
@@ -3646,7 +3705,7 @@
       "courses": [
         {
           "code": "EEE 102",
-          "name": "Introduction to Digital Circuit Design",
+          "name": "Digital Logic Design",
           "sections": [
             {
               "number": "1",
@@ -3702,7 +3761,7 @@
         },
         {
           "code": "EEE 212",
-          "name": "Microprocessors",
+          "name": "Microcontrollers and Embedded Systems",
           "sections": [
             {
               "number": "1",
@@ -4232,12 +4291,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ceylan Bevington",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ceylan Bevington",
               "schedule": []
             }
           ],
@@ -4249,12 +4308,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Andrea Selleri",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Andrea Selleri",
               "schedule": []
             }
           ],
@@ -4266,12 +4325,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ivana Bicak",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ivana Bicak",
               "schedule": []
             }
           ],
@@ -4290,17 +4349,28 @@
           "gpa": "0.00"
         },
         {
+          "code": "ELIT 316",
+          "name": "Classical and Religious Backgrounds to English Literature",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ivana Bicak",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ELIT 359",
           "name": "Shakespeare",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşe Çelikkol",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ayşe Çelikkol",
               "schedule": []
             }
           ],
@@ -4312,12 +4382,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jonathan Coleman Williams",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Jonathan Coleman Williams",
               "schedule": []
             }
           ],
@@ -4353,12 +4423,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Atti Viragh",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Atti Viragh",
               "schedule": []
             }
           ],
@@ -4377,17 +4447,28 @@
           "gpa": "2.77"
         },
         {
+          "code": "ELIT 459",
+          "name": "Thinking with Poetry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Andrea Selleri",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ELIT 463",
           "name": "Postcolonial Literature",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Timothy Sean Wright",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Timothy Sean Wright",
               "schedule": []
             }
           ],
@@ -4404,6 +4485,96 @@
             }
           ],
           "gpa": "3.06"
+        }
+      ]
+    }
+  },
+  {
+    "EMBA": {
+      "courses": [
+        {
+          "code": "EMBA 514",
+          "name": "Foundations of Organizational Management I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aydın Örsan Örge",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EMBA 515",
+          "name": "Foundations of Organizational Management II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aydın Örsan Örge",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EMBA 525",
+          "name": "Managing Systems Effectively",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fehmi Tanrısever",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.85"
+        },
+        {
+          "code": "EMBA 534",
+          "name": "Quantitative Methods",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EMBA 535",
+          "name": "Financial Reporting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EMBA 546",
+          "name": "Strategic Financial Management ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Başak Tanyeri",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EMBA 547",
+          "name": "Decision Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fehmi Tanrısever",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.83"
         }
       ]
     }
@@ -4533,7 +4704,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.97"
+          "gpa": "2.98"
         },
         {
           "code": "ENG 117",
@@ -4958,7 +5129,7 @@
               "schedule": []
             }
           ],
-          "gpa": "3.15"
+          "gpa": "3.17"
         },
         {
           "code": "FA 213",
@@ -5166,12 +5337,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Emine Öncüler Yayalar",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Emine Öncüler Yayalar",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
@@ -5206,7 +5377,7 @@
             },
             {
               "number": "9",
-              "instructor": "Barış Alpertan",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             },
             {
@@ -5238,32 +5409,32 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Fatma Tahire Erman & John William Day",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Victoria Mary Whiteside",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Türkan Mine Kara & John William Day",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Ioannis N. Grigoriadis & Victoria Mary Whiteside",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "John William Day & Tuğba Bayar",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Türkan Mine Kara & Victoria Mary Whiteside",
               "schedule": []
             }
           ],
@@ -5280,6 +5451,30 @@
             }
           ],
           "gpa": "3.53"
+        },
+        {
+          "code": "GE 510",
+          "name": "Fundamentals of Social Research Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Zarplı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.60"
+        },
+        {
+          "code": "GE 511",
+          "name": "Philosophy of Social Inquiry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Simon Drummond Wigley",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.64"
         },
         {
           "code": "GE 512",
@@ -5699,7 +5894,7 @@
         },
         {
           "code": "HART 222",
-          "name": "Mesopotamian Archaeology",
+          "name": "From Villages to Empires in Ancient Mesopotamia",
           "sections": [
             {
               "number": "1",
@@ -5842,7 +6037,7 @@
         },
         {
           "code": "HART 423",
-          "name": "Life in Greek and Roman Anatolia",
+          "name": "Anatolia III-Life in Greek and Roman Anatolia (Classical Anatolia)",
           "sections": [
             {
               "number": "1",
@@ -6007,7 +6202,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ann Marie Thornton",
               "schedule": []
             },
             {
@@ -6022,12 +6217,12 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Ann Marie Thornton",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Owen Miller",
               "schedule": []
             },
             {
@@ -6037,7 +6232,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Ann Marie Thornton",
               "schedule": []
             },
             {
@@ -6057,7 +6252,7 @@
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Ann Marie Thornton",
               "schedule": []
             },
             {
@@ -6067,7 +6262,7 @@
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "David E. Thornton",
               "schedule": []
             },
             {
@@ -6084,7 +6279,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Owen Miller",
               "schedule": []
             },
             {
@@ -6147,7 +6342,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
@@ -6162,12 +6357,12 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6177,12 +6372,12 @@
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6197,7 +6392,7 @@
             },
             {
               "number": "17",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6217,12 +6412,12 @@
             },
             {
               "number": "21",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
               "number": "22",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             }
           ],
@@ -6420,7 +6615,7 @@
         },
         {
           "code": "HIST 593",
-          "name": "Seminar in English History I",
+          "name": "Seminar in English History ",
           "sections": [
             {
               "number": "1",
@@ -7011,7 +7206,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.12"
+          "gpa": "2.08"
         },
         {
           "code": "IAED 365",
@@ -7451,7 +7646,29 @@
               "schedule": []
             }
           ],
-          "gpa": "2.58"
+          "gpa": "2.61"
+        },
+        {
+          "code": "IE 424",
+          "name": "Introduction to the Concepts and Dynamics of Innovation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 428",
+          "name": "Project Scheduling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "IE 432",
@@ -7723,7 +7940,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.25"
+          "gpa": "2.26"
         },
         {
           "code": "IR 205",
@@ -7862,7 +8079,7 @@
         },
         {
           "code": "IR 338",
-          "name": "Politics of International Economy",
+          "name": "International Political Economy",
           "sections": [
             {
               "number": "1",
@@ -8375,7 +8592,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Elif Gökşen Köstem",
               "schedule": []
             }
           ],
@@ -8447,7 +8664,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.54"
+          "gpa": "2.53"
         },
         {
           "code": "LAW 307",
@@ -8481,7 +8698,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.82"
+          "gpa": "2.78"
         },
         {
           "code": "LAW 313",
@@ -8511,6 +8728,41 @@
             }
           ],
           "gpa": "2.17"
+        },
+        {
+          "code": "LAW 365",
+          "name": "Legal Philosophy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.28"
+        },
+        {
+          "code": "LAW 377",
+          "name": "Current Issues in Law of Technology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.28"
+        },
+        {
+          "code": "LAW 389",
+          "name": "The Right to Data Protection (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "LAW 401",
@@ -8571,6 +8823,18 @@
           "gpa": "2.94"
         },
         {
+          "code": "LAW 409",
+          "name": "Intellectual Property Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.09"
+        },
+        {
           "code": "LAW 411",
           "name": "Criminal Procedure  (in Turkish)",
           "sections": [
@@ -8585,7 +8849,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.29"
+          "gpa": "2.26"
         },
         {
           "code": "LAW 412",
@@ -8603,6 +8867,160 @@
             }
           ],
           "gpa": "2.22"
+        },
+        {
+          "code": "LAW 420",
+          "name": "Turkish International Arbitration Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.38"
+        },
+        {
+          "code": "LAW 422",
+          "name": "Maritime Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 447",
+          "name": "Moot Court I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.99"
+        },
+        {
+          "code": "LAW 473",
+          "name": "Mergers and Acquisitions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.45"
+        },
+        {
+          "code": "LAW 507",
+          "name": "Public Economic Law  (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.26"
+        },
+        {
+          "code": "LAW 580",
+          "name": "Legal Methodology (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Serkan Yolcu",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.30"
+        },
+        {
+          "code": "LAW 590",
+          "name": "Pre-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Dicle Ergin",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "LAW 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Dicle Ergin",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "LAW 609",
+          "name": "Criminal Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haluk Toroslu",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.96"
+        },
+        {
+          "code": "LAW 622",
+          "name": "Preservation of Assets in Corporations (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Çağlar Manavgat",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.42"
+        },
+        {
+          "code": "LAW 624",
+          "name": "International Procedure (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gülüm Özçelik",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 689",
+          "name": "Pre-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Dicle Ergin",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "LAW 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Dicle Ergin",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -8718,7 +9136,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.63"
+          "gpa": "2.64"
         },
         {
           "code": "LNG 122",
@@ -8784,7 +9202,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.59"
+          "gpa": "2.60"
         },
         {
           "code": "LNG 132",
@@ -9132,7 +9550,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.14"
+          "gpa": "2.13"
         },
         {
           "code": "MAN 211",
@@ -9285,7 +9703,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.68"
+          "gpa": "2.69"
         },
         {
           "code": "MAN 341",
@@ -9399,6 +9817,17 @@
           "gpa": "3.00"
         },
         {
+          "code": "MAN 425",
+          "name": "Corporate Financial Strategy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MAN 432",
           "name": "Consumer Behavior",
           "sections": [
@@ -9421,6 +9850,17 @@
             }
           ],
           "gpa": "2.67"
+        },
+        {
+          "code": "MAN 444",
+          "name": "Special Topics in Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "MAN 467",
@@ -9647,7 +10087,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.21"
+          "gpa": "2.20"
         },
         {
           "code": "MATH 102",
@@ -9692,32 +10132,32 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Arzu Sibel İkinci",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Arzu Sibel İkinci",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Arzu Sibel İkinci",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Güliz Bolat",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Güliz Bolat",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Güliz Bolat",
               "schedule": []
             }
           ],
@@ -9729,7 +10169,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Güliz Bolat",
               "schedule": []
             }
           ],
@@ -9802,7 +10242,7 @@
               "schedule": []
             }
           ],
-          "gpa": "1.98"
+          "gpa": "1.97"
         },
         {
           "code": "MATH 123",
@@ -10084,7 +10524,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.37"
+          "gpa": "2.38"
         },
         {
           "code": "MATH 323",
@@ -10099,6 +10539,42 @@
           "gpa": "2.17"
         },
         {
+          "code": "MATH 345",
+          "name": "Differential Geometry I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.80"
+        },
+        {
+          "code": "MATH 421",
+          "name": "Introduction to Quantum Computation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.75"
+        },
+        {
+          "code": "MATH 443",
+          "name": "Partial Differential Equations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.39"
+        },
+        {
           "code": "MATH 490",
           "name": "Project in Mathematics",
           "sections": [
@@ -10111,6 +10587,42 @@
           "gpa": "3.35"
         },
         {
+          "code": "MATH 501",
+          "name": "Real Analysis I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.82"
+        },
+        {
+          "code": "MATH 521",
+          "name": "Introduction to Quantum Computation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.06"
+        },
+        {
+          "code": "MATH 523",
+          "name": "Algebra I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.55"
+        },
+        {
           "code": "MATH 544",
           "name": "Methods of Applied Mathematics II",
           "sections": [
@@ -10121,6 +10633,30 @@
             }
           ],
           "gpa": "3.35"
+        },
+        {
+          "code": "MATH 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MATH 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -10139,6 +10675,18 @@
             }
           ],
           "gpa": "3.34"
+        },
+        {
+          "code": "MBA 511",
+          "name": "Accounting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.48"
         },
         {
           "code": "MBA 542",
@@ -10163,6 +10711,28 @@
             }
           ],
           "gpa": "3.10"
+        },
+        {
+          "code": "MBA 557",
+          "name": "Venture Capital and Private Equity",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tolga Demir",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MBA 632",
+          "name": "Digital Marketing ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Osmanoğlu",
+              "schedule": []
+            }
+          ]
         }
       ]
     }
@@ -10288,7 +10858,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Urartu Özgür Şafak Şeker",
               "schedule": []
             }
           ],
@@ -10343,6 +10913,17 @@
           "gpa": "3.24"
         },
         {
+          "code": "MBG 466",
+          "name": "Introduction to Cellular and Molecular Biology of the Brain",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Turgay Dalkara",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MBG 483",
           "name": "Developmental Biology",
           "sections": [
@@ -10377,6 +10958,30 @@
             }
           ],
           "gpa": "3.20"
+        },
+        {
+          "code": "MBG 491",
+          "name": "Senior Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlyas Chachoua",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.92"
+        },
+        {
+          "code": "MBG 492",
+          "name": "Senior Project II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlyas Chachoua",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.85"
         },
         {
           "code": "MBG 502",
@@ -10915,7 +11520,7 @@
               "schedule": []
             }
           ],
-          "gpa": "3.20"
+          "gpa": "3.18"
         },
         {
           "code": "MSC 111",
@@ -10928,6 +11533,11 @@
             },
             {
               "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Staff",
               "schedule": []
             }
@@ -11094,6 +11704,576 @@
             }
           ],
           "gpa": "3.96"
+        },
+        {
+          "code": "MSC 154",
+          "name": "Bilkent Chorale II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.94"
+        },
+        {
+          "code": "MSC 155",
+          "name": "Diction for Singers: English and Italian",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.69"
+        },
+        {
+          "code": "MSC 171",
+          "name": "Theory I: Fundamentals",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Aydın",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.51"
+        },
+        {
+          "code": "MSC 173",
+          "name": "Origins of Western Music: From Antiquities to Baroque",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.09"
+        },
+        {
+          "code": "MSC 200",
+          "name": "Sophomore Concert",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MSC 203",
+          "name": "Symphony Orchestra III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.72"
+        },
+        {
+          "code": "MSC 211",
+          "name": "Composition III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ülkemin Akbaş",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ülkemin Akbaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.37"
+        },
+        {
+          "code": "MSC 212",
+          "name": "Composition IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Yıldırım",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.46"
+        },
+        {
+          "code": "MSC 213",
+          "name": "Orchestration",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Yıldırım",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.63"
+        },
+        {
+          "code": "MSC 231",
+          "name": "Instrument III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.09"
+        },
+        {
+          "code": "MSC 233",
+          "name": "Chamber Music III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.27"
+        },
+        {
+          "code": "MSC 250",
+          "name": "Singing for Theatre II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.99"
+        },
+        {
+          "code": "MSC 251",
+          "name": "Singing Voice III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.47"
+        },
+        {
+          "code": "MSC 252",
+          "name": "Singing Voice IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.70"
+        },
+        {
+          "code": "MSC 253",
+          "name": "Bilkent Chorale III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.95"
+        },
+        {
+          "code": "MSC 254",
+          "name": "Bilkent Chorale IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ],
+          "gpa": "4.00"
+        },
+        {
+          "code": "MSC 255",
+          "name": "Vocal Literature American/English/Italian",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.83"
+        },
+        {
+          "code": "MSC 271",
+          "name": "Theory III: Modal Counterpoint",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Aydın",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.71"
+        },
+        {
+          "code": "MSC 273",
+          "name": "Music in Europe during the Age of the Enlightenment",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.79"
+        },
+        {
+          "code": "MSC 300",
+          "name": "Junior Concert",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MSC 303",
+          "name": "Symphony Orchestra V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.66"
+        },
+        {
+          "code": "MSC 312",
+          "name": "Composition VI",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tahsin Tolga Yayalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.52"
+        },
+        {
+          "code": "MSC 321",
+          "name": "Tonal Counterpoint",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Aydın",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.51"
+        },
+        {
+          "code": "MSC 322",
+          "name": "Post - Tonal Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tahsin Tolga Yayalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.03"
+        },
+        {
+          "code": "MSC 326",
+          "name": "Conducting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.32"
+        },
+        {
+          "code": "MSC 331",
+          "name": "Instrument V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.13"
+        },
+        {
+          "code": "MSC 333",
+          "name": "Chamber Music V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.32"
+        },
+        {
+          "code": "MSC 353",
+          "name": "Bilkent Chorale V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 355",
+          "name": "Pedagogy I : Anatomy of the Voice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 399",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tahsin Tolga Yayalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MSC 400",
+          "name": "Senior Concert",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MSC 431",
+          "name": "Instrument VII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.02"
+        },
+        {
+          "code": "MSC 432",
+          "name": "Instrument VIII: Graduation Concert",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.59"
+        },
+        {
+          "code": "MSC 433",
+          "name": "Chamber Music VII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.65"
+        },
+        {
+          "code": "MSC 434",
+          "name": "Chamber Music VIII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.34"
+        },
+        {
+          "code": "MSC 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Işın Metin",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -11213,6 +12393,36 @@
     }
   },
   {
+    "NSC": {
+      "courses": [
+        {
+          "code": "NSC 511",
+          "name": "Cellular, Molecular and Developmental Neuroscience ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Turgay Dalkara",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.42"
+        },
+        {
+          "code": "NSC 613",
+          "name": "Selected Topics in Neuroscience II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Robert Ian Bowers",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.50"
+        }
+      ]
+    }
+  },
+  {
     "PHIL": {
       "courses": [
         {
@@ -11221,12 +12431,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Alireza Fatollahi",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Alireza Fatollahi",
               "schedule": []
             }
           ],
@@ -11238,12 +12448,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tufan Kıymaz",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Tufan Kıymaz",
               "schedule": []
             }
           ],
@@ -11255,7 +12465,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jonathan Payton",
               "schedule": []
             }
           ],
@@ -11267,7 +12477,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Saniye Vatansever",
               "schedule": []
             }
           ],
@@ -11279,87 +12489,87 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yan Trefor Overfield Shaw & Mary Katrina Krizan",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "İklil Kaya Yıldırım & Jonathan Payton",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Laura Elizabeth Salgın & James Kinkaid III",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Yehezkel S. Berkovski & Jeffrey Michael Doonan",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "John William Day",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi & Laura Elizabeth Salgın",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Matthew Llyod Gorman & Adriana Monica Solomon",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Elif Hande Özer & Saniye Vatansever",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "İklil Kaya Yıldırım & Jonathan Payton",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Yan Trefor Overfield Shaw & Mary Katrina Krizan",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Matthew Llyod Gorman & Adriana Monica Solomon",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Laura Elizabeth Salgın & James Kinkaid III",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "John William Day",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Yehezkel S. Berkovski & Jeffrey Michael Doonan",
               "schedule": []
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Elif Hande Özer & Saniye Vatansever",
               "schedule": []
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi & John William Day",
               "schedule": []
             },
             {
               "number": "17",
-              "instructor": "Staff",
+              "instructor": "Jennifer Lyn Schroeder & Nazım Keven",
               "schedule": []
             }
           ],
@@ -11371,22 +12581,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Pınar Esma Önkol & Tufan Kıymaz",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Iain Board & Daniel Mark Wolt",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Iain Board & Daniel Mark Wolt",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Pınar Esma Önkol & Tufan Kıymaz",
               "schedule": []
             }
           ],
@@ -11410,7 +12620,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ],
@@ -11422,7 +12632,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Adriana Monica Solomon",
               "schedule": []
             }
           ],
@@ -11434,7 +12644,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ],
@@ -11446,12 +12656,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nazım Keven",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Nazım Keven",
               "schedule": []
             }
           ],
@@ -11475,7 +12685,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel S. Berkovski",
               "schedule": []
             }
           ],
@@ -11511,7 +12721,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mary Katrina Krizan",
               "schedule": []
             }
           ],
@@ -11523,7 +12733,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel S. Berkovski",
               "schedule": []
             }
           ],
@@ -11535,7 +12745,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ],
@@ -11547,7 +12757,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ],
@@ -11894,7 +13104,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.35"
+          "gpa": "2.36"
         },
         {
           "code": "POLS 104",
@@ -11906,7 +13116,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.77"
+          "gpa": "2.78"
         },
         {
           "code": "POLS 201",
@@ -11946,7 +13156,7 @@
         },
         {
           "code": "POLS 303",
-          "name": "Comparative Politics I",
+          "name": "Comparative Politics of Advanced Industrialized Countries",
           "sections": [
             {
               "number": "1",
@@ -11963,7 +13173,7 @@
         },
         {
           "code": "POLS 304",
-          "name": "Comparative Politics II",
+          "name": "Comparative Politics of Developing Countries",
           "sections": [
             {
               "number": "1",
@@ -12418,7 +13628,7 @@
         },
         {
           "code": "PSYC 101",
-          "name": "Introduction to Psychology I / Cognitive and Biological",
+          "name": "Introduction to Psychology/Cognitive and Biological",
           "sections": [
             {
               "number": "1",
@@ -12467,7 +13677,7 @@
         },
         {
           "code": "PSYC 103",
-          "name": "Introduction to Psychology II / Social and Developmental",
+          "name": "Introduction to Psychology/Social and Developmental",
           "sections": [
             {
               "number": "1",
@@ -12496,7 +13706,7 @@
         },
         {
           "code": "PSYC 203",
-          "name": "Statistics I",
+          "name": "Statistical Methods in Pyschological Science I",
           "sections": [
             {
               "number": "1",
@@ -12513,7 +13723,7 @@
         },
         {
           "code": "PSYC 204",
-          "name": "Research Methods I",
+          "name": "Research Methods in Psychological Science I",
           "sections": [
             {
               "number": "1",
@@ -12530,7 +13740,7 @@
         },
         {
           "code": "PSYC 205",
-          "name": "Statistics II",
+          "name": "Statistical Methods in Psychological Science II",
           "sections": [
             {
               "number": "1",
@@ -12542,7 +13752,7 @@
         },
         {
           "code": "PSYC 206",
-          "name": "Research Methods II",
+          "name": "Research Methods in Psychological Science II",
           "sections": [
             {
               "number": "1",
@@ -12612,7 +13822,7 @@
         },
         {
           "code": "PSYC 340",
-          "name": "Learning, Remembering, and Thinking",
+          "name": "Learning and Memory",
           "sections": [
             {
               "number": "1",
@@ -12624,7 +13834,7 @@
         },
         {
           "code": "PSYC 350",
-          "name": "Cognitive and Social Development",
+          "name": "Advanced Cognitive and Social Development",
           "sections": [
             {
               "number": "1",
@@ -12847,6 +14057,17 @@
             }
           ],
           "gpa": "3.80"
+        },
+        {
+          "code": "PSYC 560",
+          "name": "Developmental Intergroup Processes",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "PSYC 575",
