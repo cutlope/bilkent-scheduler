@@ -96,7 +96,7 @@ export default function Home() {
       <NextSeo
         title={title}
         description="The Bilkent Scheduler makes it easy for Bilkent students to find the perfect schedule for courses during registration with upto date semester offerings."
-        canonical="https://www.thebilkentscheduler.com"
+        canonical="https://bilkent-scheduler.vercel.app/"
       />
       <section className="relative  py-4 leading-6 text-gray-900 lg:pb-12 lg:pt-6">
         <div className="flex flex-wrap">

@@ -3,7 +3,7 @@
 
 [![Next][next.js]][next-url] [![React][react.js]][react-url] [![Python][python]][python-url] [![GitHub Actions][github actions]][github actions-url] [![Vercel][vercel]][vercel-url]
 
-[![Product Name Screen Shot][product-screenshot]](https://thebilkentscheduler.com)
+[![Product Name Screen Shot][product-screenshot]](https://bilkent-scheduler.vercel.app/)
 
 ## Description
 

@@ -40,7 +40,7 @@ export default function GPA() {
       <NextSeo
         title={title}
         description="The Bilkent Scheduler compiles the average GPA of courses offered by Bilkent University to make the course selections for students more easier."
-        canonical="https://www.thebilkentscheduler.com/courses"
+        canonical="https://bilkent-scheduler.vercel.app//courses"
       />
       <CarouselJsonLd
         ofType="course"

@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
         openGraph={{
           type: "website",
           locale: "en_US",
-          url: "https://www.thebilkentscheduler.com",
+          url: "https://bilkent-scheduler.vercel.app/",
           site_name: "The Bilkent Scheduler",
           title: "The Bilkent Scheduler",
           description: "Schedule Your Courses in a Hassle-Free Way",

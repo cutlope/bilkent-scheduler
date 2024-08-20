@@ -165,7 +165,7 @@ function generateStructData(courses) {
         courseName: `${course.code} : ${course.name}`,
         description: `The Average GPA of ${course.code} is ${course.gpa ? processGpa(course.gpa) : "N/A"} and a letter grade of ${calculateGrade(course.gpa)}`,
         providerName: `Bilkent University`,
-        url: `https://www.thebilkentscheduler.com/courses#${stringForm(course.code)}`,
+        url: `https://bilkent-scheduler.vercel.app/courses#${stringForm(course.code)}`,
       })
     )
   );
