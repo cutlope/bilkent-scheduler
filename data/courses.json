@@ -494,11 +494,11 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 21,
-                  "classroom": ""
+                  "classroom": "(S)"
                 },
                 {
                   "slot": 51,
@@ -900,7 +900,7 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 22,
@@ -912,7 +912,7 @@
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -11029,19 +11029,19 @@
               "schedule": [
                 {
                   "slot": 0,
-                  "classroom": "(S)"
+                  "classroom": "G-254(S)"
                 },
                 {
                   "slot": 7,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 37,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 44,
-                  "classroom": ""
+                  "classroom": "G-254"
                 }
               ]
             }
@@ -11057,19 +11057,19 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 22,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 52,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "G-254"
                 }
               ]
             }
@@ -16704,6 +16704,17 @@
           ]
         },
         {
+          "code": "GE 420",
+          "name": "Applied Sustainable Business Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Keens",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "GE 510",
           "name": "Fundamentals of Social Research Design",
           "sections": [
@@ -19896,6 +19907,34 @@
           ]
         },
         {
+          "code": "HIST 533",
+          "name": "Religion: East and West (1350-1850)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "HIST 534",
           "name": "Themes in the History of American Radicalism",
           "sections": [
@@ -20101,6 +20140,62 @@
                 },
                 {
                   "slot": 45,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HIST 5512",
+          "name": "The History and Cultural Heritage of Non-Muslim Populutions(1839-1923)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HIST 5520",
+          "name": "History of Emotions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
                   "classroom": ""
                 }
               ]
@@ -28291,19 +28386,19 @@
               "instructor": "Staff",
               "schedule": [
                 {
-                  "slot": 4,
+                  "slot": 3,
                   "classroom": ""
                 },
                 {
-                  "slot": 11,
+                  "slot": 10,
                   "classroom": ""
                 },
                 {
-                  "slot": 36,
+                  "slot": 35,
                   "classroom": ""
                 },
                 {
-                  "slot": 43,
+                  "slot": 42,
                   "classroom": ""
                 }
               ]
@@ -28951,6 +29046,17 @@
                   "classroom": ""
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 333",
+          "name": "Marketing Principles",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -37511,7 +37617,7 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 23,
@@ -37523,7 +37629,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -38014,7 +38120,7 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 23,
@@ -38026,7 +38132,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -38049,22 +38155,22 @@
             },
             {
               "number": "2",
-              "instructor": "Selin Salman Engin",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Kaan Kerman",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Kaan Kerman",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Kaan Kerman",
+              "instructor": "Staff",
               "schedule": []
             },
             {
@@ -38154,12 +38260,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Kaan Kerman",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Kaan Kerman",
               "schedule": []
             }
           ]
@@ -38170,7 +38276,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Miri Besken",
+              "instructor": "Selin Salman Engin",
               "schedule": []
             },
             {
@@ -38208,7 +38314,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Timothea Toulopoulou",
+              "instructor": "Kaan Kerman",
               "schedule": []
             }
           ]
@@ -38262,6 +38368,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Miri Besken",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Miri Besken",
               "schedule": []
             }
@@ -38377,6 +38488,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Timothea Toulopoulou",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Timothea Toulopoulou",
               "schedule": []
             }
@@ -38557,7 +38673,7 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 24,
@@ -38569,7 +38685,7 @@
                 },
                 {
                   "slot": 56,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             },
