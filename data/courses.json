@@ -3533,6 +3533,50 @@
                   "classroom": "CE-104"
                 }
               ]
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -3998,17 +4042,6 @@
           ]
         },
         {
-          "code": "COMD 513",
-          "name": "Film and Genre",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Colleen Bevin Kennedy Karpat",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "COMD 517",
           "name": "Topics in Media Studies",
           "sections": [
@@ -4031,6 +4064,34 @@
                 {
                   "slot": 44,
                   "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "COMD 538",
+          "name": "Adaptation in Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Colleen Bevin Kennedy Karpat",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "FB-110(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "FB-110"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "FB-110"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "FB-110"
                 }
               ]
             }
@@ -20427,7 +20488,7 @@
         },
         {
           "code": "HIST 5512",
-          "name": "The History and Cultural Heritage of Non-Muslim Populutions(1839-1923)",
+          "name": "The History and Cultural Heritage of Non-Muslim Populations(1839-1923)",
           "sections": [
             {
               "number": "1",
@@ -22627,6 +22688,28 @@
                 {
                   "slot": 44,
                   "classroom": "FF-106"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
                 }
               ]
             }
@@ -31241,7 +31324,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": [
                 {
                   "slot": 16,
@@ -31263,7 +31346,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": [
                 {
                   "slot": 0,
@@ -31285,7 +31368,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": [
                 {
                   "slot": 17,
@@ -31613,7 +31696,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": [
                 {
                   "slot": 17,
@@ -31635,7 +31718,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": [
                 {
                   "slot": 1,
@@ -31657,7 +31740,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": [
                 {
                   "slot": 15,
@@ -33416,6 +33499,34 @@
           ]
         },
         {
+          "code": "ME 471",
+          "name": "Advanced System Modeling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "ME 481",
           "name": "Mechanical Engineering Design I",
           "sections": [
@@ -33858,6 +33969,28 @@
                 },
                 {
                   "slot": 56,
+                  "classroom": "FC-Z13"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Aylin Yılmaz",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "FC-Z13(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "FC-Z13"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "FC-Z13"
+                },
+                {
+                  "slot": 57,
                   "classroom": "FC-Z13"
                 }
               ]
@@ -34470,7 +34603,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Juliana Katherine Snapper",
+              "instructor": "Jennifer Leigh Tipton",
               "schedule": [
                 {
                   "slot": 2,
@@ -34489,11 +34622,6 @@
                   "classroom": "P-249"
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -34596,23 +34724,40 @@
           ]
         },
         {
+          "code": "MSC 315",
+          "name": "Score Reading I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "MSC 321",
           "name": "Tonal Counterpoint",
           "sections": [
             {
               "number": "1",
               "instructor": "Yiğit Aydın",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 322",
-          "name": "Post - Tonal Theory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Tahsin Tolga Yayalar",
               "schedule": []
             }
           ]
@@ -34717,9 +34862,26 @@
           "name": "Pedagogy I : Anatomy of the Voice",
           "sections": [
             {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
+              "number": "2",
+              "instructor": "Jennifer Leigh Tipton",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "P-248(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "P-248"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "P-248"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "P-248"
+                }
+              ]
             }
           ]
         },
@@ -34811,6 +34973,54 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 453",
+          "name": "Bilkent Chorale VII ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MSC 487",
+          "name": "Introduction to Electroacoustic Music",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tahsin Tolga Yayalar",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "P-341"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "P-341"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "P-341"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "P-341"
+                }
+              ]
             }
           ]
         },
@@ -39594,7 +39804,7 @@
         },
         {
           "code": "TEFL 556",
-          "name": "Seminar in TEFL",
+          "name": "Trends and Developments İn Applied Linguistics",
           "sections": [
             {
               "number": "1",
@@ -41170,7 +41380,7 @@
         },
         {
           "code": "TRIN 468",
-          "name": "Conference Interpreting ",
+          "name": "Advanced Consecutive Interpreting ",
           "sections": [
             {
               "number": "1",

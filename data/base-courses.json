@@ -1249,6 +1249,16 @@
               "number": "12",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -1408,23 +1418,23 @@
           ]
         },
         {
-          "code": "COMD 513",
-          "name": "Film and Genre",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Colleen Bevin Kennedy Karpat",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "COMD 517",
           "name": "Topics in Media Studies",
           "sections": [
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "COMD 538",
+          "name": "Adaptation in Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Colleen Bevin Kennedy Karpat",
               "schedule": []
             }
           ]
@@ -6355,7 +6365,7 @@
         },
         {
           "code": "HIST 5512",
-          "name": "The History and Cultural Heritage of Non-Muslim Populutions(1839-1923)",
+          "name": "The History and Cultural Heritage of Non-Muslim Populations(1839-1923)",
           "sections": [
             {
               "number": "1",
@@ -6842,6 +6852,11 @@
             },
             {
               "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
               "instructor": "Staff",
               "schedule": []
             }
@@ -9859,17 +9874,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": []
             }
           ]
@@ -9976,17 +9991,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             }
           ]
@@ -10700,6 +10715,17 @@
           ]
         },
         {
+          "code": "ME 471",
+          "name": "Advanced System Modeling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ME 481",
           "name": "Mechanical Engineering Design I",
           "sections": [
@@ -10913,6 +10939,11 @@
             },
             {
               "number": "3",
+              "instructor": "Aylin Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "4",
               "instructor": "Aylin Yılmaz",
               "schedule": []
             }
@@ -11349,12 +11380,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Juliana Katherine Snapper",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
+              "instructor": "Jennifer Leigh Tipton",
               "schedule": []
             }
           ]
@@ -11415,23 +11441,23 @@
           ]
         },
         {
+          "code": "MSC 315",
+          "name": "Score Reading I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 321",
           "name": "Tonal Counterpoint",
           "sections": [
             {
               "number": "1",
               "instructor": "Yiğit Aydın",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 322",
-          "name": "Post - Tonal Theory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Tahsin Tolga Yayalar",
               "schedule": []
             }
           ]
@@ -11510,8 +11536,8 @@
           "name": "Pedagogy I : Anatomy of the Voice",
           "sections": [
             {
-              "number": "1",
-              "instructor": "Staff",
+              "number": "2",
+              "instructor": "Jennifer Leigh Tipton",
               "schedule": []
             }
           ]
@@ -11603,6 +11629,28 @@
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 453",
+          "name": "Bilkent Chorale VII ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 487",
+          "name": "Introduction to Electroacoustic Music",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tahsin Tolga Yayalar",
               "schedule": []
             }
           ]
@@ -13506,7 +13554,7 @@
         },
         {
           "code": "TEFL 556",
-          "name": "Seminar in TEFL",
+          "name": "Trends and Developments İn Applied Linguistics",
           "sections": [
             {
               "number": "1",
@@ -14191,7 +14239,7 @@
         },
         {
           "code": "TRIN 468",
-          "name": "Conference Interpreting ",
+          "name": "Advanced Consecutive Interpreting ",
           "sections": [
             {
               "number": "1",
