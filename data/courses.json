@@ -605,11 +605,11 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "G-231(S)"
+                  "classroom": "G-231"
                 },
                 {
                   "slot": 24,
-                  "classroom": "G-231"
+                  "classroom": "G-231(S)"
                 },
                 {
                   "slot": 49,
@@ -927,7 +927,7 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "G-Z54(S)"
+                  "classroom": "G-Z54"
                 },
                 {
                   "slot": 21,
@@ -939,7 +939,7 @@
                 },
                 {
                   "slot": 58,
-                  "classroom": "G-Z54"
+                  "classroom": "G-Z54(S)"
                 }
               ]
             }
@@ -3841,19 +3841,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "FB-110(S)"
+                  "classroom": "FF-B11(S)"
                 },
                 {
                   "slot": 11,
-                  "classroom": "FB-110"
+                  "classroom": "FF-B11"
                 },
                 {
                   "slot": 18,
-                  "classroom": "FB-110"
+                  "classroom": "FF-B11"
                 },
                 {
                   "slot": 25,
-                  "classroom": "FB-110"
+                  "classroom": "FF-B11"
                 }
               ]
             }
@@ -6494,7 +6494,7 @@
               "schedule": [
                 {
                   "slot": 3,
-                  "classroom": "CE-106"
+                  "classroom": "CE-106(S)"
                 },
                 {
                   "slot": 10,
@@ -6502,7 +6502,7 @@
                 },
                 {
                   "slot": 35,
-                  "classroom": "CE-106(S)"
+                  "classroom": "CE-106"
                 },
                 {
                   "slot": 42,
@@ -7372,7 +7372,7 @@
                 },
                 {
                   "slot": 21,
-                  "classroom": ""
+                  "classroom": "MA-206"
                 },
                 {
                   "slot": 35,
@@ -8650,19 +8650,19 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "H-334(S)"
+                  "classroom": "T-268(S)"
                 },
                 {
                   "slot": 22,
-                  "classroom": "H-334"
+                  "classroom": "T-268"
                 },
                 {
                   "slot": 52,
-                  "classroom": "H-334"
+                  "classroom": "T-268"
                 },
                 {
                   "slot": 59,
-                  "classroom": "H-334"
+                  "classroom": "T-268"
                 }
               ]
             }
@@ -10138,24 +10138,7 @@
             {
               "number": "1",
               "instructor": "Volkan Kurşun",
-              "schedule": [
-                {
-                  "slot": 17,
-                  "classroom": "EE-214(S)"
-                },
-                {
-                  "slot": 24,
-                  "classroom": "EE-214"
-                },
-                {
-                  "slot": 49,
-                  "classroom": "EB-204"
-                },
-                {
-                  "slot": 56,
-                  "classroom": "EB-204"
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -10579,24 +10562,7 @@
             {
               "number": "1",
               "instructor": "Volkan Kurşun",
-              "schedule": [
-                {
-                  "slot": 17,
-                  "classroom": "EE-214(S)"
-                },
-                {
-                  "slot": 24,
-                  "classroom": "EE-214"
-                },
-                {
-                  "slot": 49,
-                  "classroom": "EB-204"
-                },
-                {
-                  "slot": 56,
-                  "classroom": "EB-204"
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -12285,11 +12251,11 @@
                 },
                 {
                   "slot": 53,
-                  "classroom": "SB-Z11"
+                  "classroom": "SA-Z04"
                 },
                 {
                   "slot": 60,
-                  "classroom": "SB-Z11(S)"
+                  "classroom": "SA-Z04(S)"
                 }
               ]
             },
@@ -12479,7 +12445,7 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "G-132"
+                  "classroom": "G-132(S)"
                 },
                 {
                   "slot": 8,
@@ -12499,7 +12465,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": "G-132(S)"
+                  "classroom": "G-132"
                 }
               ]
             },
@@ -14525,7 +14491,7 @@
               "schedule": [
                 {
                   "slot": 0,
-                  "classroom": "H-133A"
+                  "classroom": "H-133A(S)"
                 },
                 {
                   "slot": 7,
@@ -14545,7 +14511,7 @@
                 },
                 {
                   "slot": 59,
-                  "classroom": "H-133A(S)"
+                  "classroom": "H-133A"
                 }
               ]
             },
@@ -14702,32 +14668,7 @@
             {
               "number": "17",
               "instructor": "Robert McNamara Loomis",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "SB-Z04"
-                },
-                {
-                  "slot": 9,
-                  "classroom": "SB-Z04"
-                },
-                {
-                  "slot": 39,
-                  "classroom": "SB-Z04"
-                },
-                {
-                  "slot": 46,
-                  "classroom": "SB-Z04(S)"
-                },
-                {
-                  "slot": 49,
-                  "classroom": "SB-Z04"
-                },
-                {
-                  "slot": 56,
-                  "classroom": "SB-Z04"
-                }
-              ]
+              "schedule": []
             },
             {
               "number": "18",
@@ -14795,7 +14736,7 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "H-133B"
+                  "classroom": "H-133B(S)"
                 },
                 {
                   "slot": 9,
@@ -14815,7 +14756,7 @@
                 },
                 {
                   "slot": 56,
-                  "classroom": "H-133B(S)"
+                  "classroom": "H-133B"
                 }
               ]
             },
@@ -15275,7 +15216,7 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "B-204"
+                  "classroom": "B-204(S)"
                 },
                 {
                   "slot": 9,
@@ -15295,7 +15236,7 @@
                 },
                 {
                   "slot": 56,
-                  "classroom": "B-204(S)"
+                  "classroom": "B-204"
                 }
               ]
             },
@@ -15305,11 +15246,11 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "G-Z06(S)"
+                  "classroom": "A-230(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": "G-Z06"
+                  "classroom": "A-230"
                 },
                 {
                   "slot": 17,
@@ -20051,24 +19992,7 @@
             {
               "number": "1",
               "instructor": "Scott Allen Kennedy",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "G-107(S)"
-                },
-                {
-                  "slot": 9,
-                  "classroom": "G-107"
-                },
-                {
-                  "slot": 39,
-                  "classroom": "G-107"
-                },
-                {
-                  "slot": 46,
-                  "classroom": "G-107"
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -20247,24 +20171,7 @@
             {
               "number": "1",
               "instructor": "Scott Allen Kennedy",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "G-107(S)"
-                },
-                {
-                  "slot": 9,
-                  "classroom": "G-107"
-                },
-                {
-                  "slot": 39,
-                  "classroom": "G-107"
-                },
-                {
-                  "slot": 46,
-                  "classroom": "G-107"
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -20504,7 +20411,7 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "MA-Z03(S)"
+                  "classroom": "MA-Z03"
                 },
                 {
                   "slot": 22,
@@ -20516,7 +20423,7 @@
                 },
                 {
                   "slot": 59,
-                  "classroom": "MA-Z03"
+                  "classroom": "MA-Z03(S)"
                 }
               ]
             },
@@ -20592,7 +20499,7 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "MA-Z03(S)"
+                  "classroom": "MA-Z03"
                 },
                 {
                   "slot": 25,
@@ -20604,7 +20511,7 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": "MA-Z03"
+                  "classroom": "MA-Z03(S)"
                 }
               ]
             },
@@ -21050,7 +20957,7 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "MA-105(S)"
+                  "classroom": "MA-105"
                 },
                 {
                   "slot": 22,
@@ -21062,7 +20969,7 @@
                 },
                 {
                   "slot": 59,
-                  "classroom": "MA-105"
+                  "classroom": "MA-105(S)"
                 }
               ]
             },
@@ -21472,7 +21379,7 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "MA-Z06(S)"
+                  "classroom": "MA-Z06"
                 },
                 {
                   "slot": 25,
@@ -21484,7 +21391,7 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": "MA-Z06"
+                  "classroom": "MA-Z06(S)"
                 }
               ]
             }
@@ -27216,7 +27123,7 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "B-104(S)"
+                  "classroom": "B-104"
                 },
                 {
                   "slot": 24,
@@ -27228,7 +27135,7 @@
                 },
                 {
                   "slot": 56,
-                  "classroom": "B-104"
+                  "classroom": "B-104(S)"
                 }
               ]
             }
@@ -28467,19 +28374,19 @@
               "schedule": [
                 {
                   "slot": 3,
-                  "classroom": "G-254"
+                  "classroom": "G-106"
                 },
                 {
                   "slot": 10,
-                  "classroom": "G-254"
+                  "classroom": "G-106"
                 },
                 {
                   "slot": 35,
-                  "classroom": "G-254"
+                  "classroom": "G-106"
                 },
                 {
                   "slot": 42,
-                  "classroom": "G-254"
+                  "classroom": "G-106"
                 }
               ]
             },
@@ -28489,19 +28396,19 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "G-254"
+                  "classroom": "G-Z55"
                 },
                 {
                   "slot": 21,
-                  "classroom": "G-254"
+                  "classroom": "G-Z55"
                 },
                 {
                   "slot": 51,
-                  "classroom": "G-254"
+                  "classroom": "G-Z55"
                 },
                 {
                   "slot": 58,
-                  "classroom": "G-254"
+                  "classroom": "G-Z55"
                 }
               ]
             },
@@ -28539,19 +28446,19 @@
               "schedule": [
                 {
                   "slot": 0,
-                  "classroom": "G-255"
+                  "classroom": "G-109"
                 },
                 {
                   "slot": 7,
-                  "classroom": "G-255"
+                  "classroom": "G-109"
                 },
                 {
                   "slot": 37,
-                  "classroom": "G-255"
+                  "classroom": "G-109"
                 },
                 {
                   "slot": 44,
-                  "classroom": "G-255"
+                  "classroom": "G-109"
                 }
               ]
             }
@@ -28814,24 +28721,7 @@
             {
               "number": "2",
               "instructor": "Derya Çelik Işık",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "G-209"
-                },
-                {
-                  "slot": 9,
-                  "classroom": "G-209"
-                },
-                {
-                  "slot": 39,
-                  "classroom": "G-209"
-                },
-                {
-                  "slot": 46,
-                  "classroom": "G-209"
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -29175,11 +29065,11 @@
                 },
                 {
                   "slot": 52,
-                  "classroom": "B-302"
+                  "classroom": "B-307"
                 },
                 {
                   "slot": 59,
-                  "classroom": "B-302"
+                  "classroom": "B-307"
                 }
               ]
             }
@@ -31266,11 +31156,11 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "SA-Z01(S)"
+                  "classroom": "SA-Z01"
                 },
                 {
                   "slot": 25,
-                  "classroom": "SA-Z01"
+                  "classroom": "SA-Z01(S)"
                 },
                 {
                   "slot": 50,
@@ -31932,11 +31822,11 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "A-229(S)"
+                  "classroom": "A-229"
                 },
                 {
                   "slot": 8,
-                  "classroom": "A-229"
+                  "classroom": "A-229(S)"
                 },
                 {
                   "slot": 38,
@@ -34604,11 +34494,11 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "G-140(S)"
+                  "classroom": "G-140"
                 },
                 {
                   "slot": 24,
-                  "classroom": "G-140"
+                  "classroom": "G-140(S)"
                 },
                 {
                   "slot": 49,
@@ -34626,11 +34516,11 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "G-136(S)"
+                  "classroom": "G-136"
                 },
                 {
                   "slot": 25,
-                  "classroom": "G-136"
+                  "classroom": "G-136(S)"
                 },
                 {
                   "slot": 50,
@@ -36123,24 +36013,7 @@
             {
               "number": "1",
               "instructor": "Amirhoushang Bahrami",
-              "schedule": [
-                {
-                  "slot": 14,
-                  "classroom": "SU-01(S)"
-                },
-                {
-                  "slot": 21,
-                  "classroom": "SU-01"
-                },
-                {
-                  "slot": 51,
-                  "classroom": "SU-01"
-                },
-                {
-                  "slot": 58,
-                  "classroom": "SU-01"
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -38066,7 +37939,7 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "B-105(S)"
+                  "classroom": "B-105"
                 },
                 {
                   "slot": 9,
@@ -38086,7 +37959,7 @@
                 },
                 {
                   "slot": 46,
-                  "classroom": "B-105"
+                  "classroom": "B-105(S)"
                 },
                 {
                   "slot": 52,
@@ -41509,7 +41382,7 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "MA-103(S)"
+                  "classroom": "MA-103"
                 },
                 {
                   "slot": 25,
@@ -41521,7 +41394,7 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": "MA-103"
+                  "classroom": "MA-103(S)"
                 }
               ]
             },
@@ -41531,7 +41404,7 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "MA-Z06(S)"
+                  "classroom": "MA-Z06"
                 },
                 {
                   "slot": 21,
@@ -41543,7 +41416,7 @@
                 },
                 {
                   "slot": 58,
-                  "classroom": "MA-Z06"
+                  "classroom": "MA-Z06(S)"
                 }
               ]
             }
@@ -42327,7 +42200,7 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "LB-104(S)"
+                  "classroom": "LB-104"
                 },
                 {
                   "slot": 21,
@@ -42339,7 +42212,7 @@
                 },
                 {
                   "slot": 58,
-                  "classroom": "LB-104"
+                  "classroom": "LB-104(S)"
                 }
               ]
             }
