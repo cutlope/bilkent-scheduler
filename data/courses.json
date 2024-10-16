@@ -3837,7 +3837,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Emre Yalgın",
+              "instructor": "Andreas Treske",
               "schedule": [
                 {
                   "slot": 4,
@@ -3865,7 +3865,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Emre Yalgın",
+              "instructor": "Andreas Treske",
               "schedule": [
                 {
                   "slot": 39,
@@ -4958,6 +4958,2557 @@
             {
               "number": "1",
               "instructor": "Emel Özdora",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "CS": {
+      "courses": [
+        {
+          "code": "CS 101",
+          "name": "Algorithms and Programming I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Doğrusöz",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 4,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-517"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Uğur Doğrusöz",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EE-412(S)"
+                },
+                {
+                  "slot": 3,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-412"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Lori Rae Russell Dağ",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 14,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 15,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-Z02(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 102",
+          "name": "Algorithms and Programming II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Güdükbay",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-Z06(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 115",
+          "name": "Introduction to Programming in Python",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İpek Sözen",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 1,
+                  "classroom": "EE-214(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 14,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-214"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "İpek Sözen",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-109(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-201"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "İpek Sözen",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-109(S)"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-201"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "İpek Sözen",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-Z03(S)"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "İpek Sözen",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 4,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 16,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-203"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Aynur Dayanık",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 18,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-05(S)"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Aynur Dayanık",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 18,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EE-05(S)"
+                }
+              ]
+            },
+            {
+              "number": "8",
+              "instructor": "Aynur Dayanık",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "B-201"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "B-201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 121",
+          "name": "Introduction to Computer Applications and Programming",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sibel Uğurlubilek",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ayışığı Başak Sevdik Çallı",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Rabia Üşenmez",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Rabia Üşenmez",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Sibel Uğurlubilek",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Nur Sağlam",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Sibel Uğurlubilek",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "8",
+              "instructor": "Sibel Uğurlubilek",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "9",
+              "instructor": "Nur Sağlam",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "FF-207"
+                }
+              ]
+            },
+            {
+              "number": "10",
+              "instructor": "Ayışığı Başak Sevdik Çallı",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-302"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-302"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-302"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-302"
+                }
+              ]
+            },
+            {
+              "number": "11",
+              "instructor": "Rabia Üşenmez",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "FF-207"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 125",
+          "name": "Introduction to Data Analysis for Social Sciences",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Semra Mumcu",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "B-307"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşe Semra Mumcu",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "B-307"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Lori Rae Russell Dağ",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "EA-Z01"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Lori Rae Russell Dağ",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-103"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-103"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Ayışığı Başak Sevdik Çallı",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-305"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Ayışığı Başak Sevdik Çallı",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-303"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Lori Rae Russell Dağ",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-103"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-103"
+                }
+              ]
+            },
+            {
+              "number": "8",
+              "instructor": "Rabia Üşenmez",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-303"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EA-Z01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 154",
+          "name": "Introduction to Web Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Serdar Bilici",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "FF-211(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "FF-211"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "FF-211"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "FF-211"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Serdar Bilici",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-307(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 18,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-307"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 155",
+          "name": "Interactive Media Design and Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Atahan Karaman",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "FF-211(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "FF-211"
+                },
+                {
+                  "slot": 15,
+                  "classroom": "FF-211"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "FF-211"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 201",
+          "name": "Fundamental Structures of Computer Science I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Abdullah Ercüment Çiçek",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-206(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-206"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Selim Aksoy",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EA-Z03(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EA-Z03"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Abdullah Ercüment Çiçek",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-206(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-206"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 202",
+          "name": "Fundamental Structures of Computer Science II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Can Alkan",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EE-04(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EE-04"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 223",
+          "name": "Digital Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sinem Sav",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": ""
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
+                  "classroom": ""
+                },
+                {
+                  "slot": 17,
+                  "classroom": "EE-04(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-04"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Sinem Sav",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": ""
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 17,
+                  "classroom": "EE-04(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-04"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Sinem Sav",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": ""
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 15,
+                  "classroom": "EE-412(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-412"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Sinem Sav",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EE-412(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-412"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Shervin Rahimzadeh Arashloo",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 16,
+                  "classroom": "EA-Z03(S)"
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EA-Z03"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Shervin Rahimzadeh Arashloo",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EA-Z03(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EA-Z03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 224",
+          "name": "Computer Organization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fazlı Can",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-03(S)"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Fazlı Can",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-03(S)"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Alper Sarıkan",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": ""
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 17,
+                  "classroom": ""
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EB-204(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EB-204"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Alper Sarıkan",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EB-204(S)"
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 281",
+          "name": "Computers and Data Organization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Semra Güleç",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-Z08(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-211"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Semra Güleç",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-206(S)"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-211"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 299",
+          "name": "Summer Training I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Shervin Rahimzadeh Arashloo & Özgür Salih Öğüz",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CS 315",
+          "name": "Programming Languages",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "H. Altay Güvenir",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "EB-102(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EB-102"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EB-102"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EB-102"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Aynur Dayanık",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-05(S)"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Ertuğrul Kartal Tabak",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "B-104(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "B-104"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "B-104"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "B-104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 319",
+          "name": "Object-Oriented Software Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Eray Tüzün",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-412(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Anıl Koyuncu",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EB-203(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EB-203"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Anıl Koyuncu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EA-Z01(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EA-Z01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 342",
+          "name": "Operating Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İbrahim Körpeoğlu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-214(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 353",
+          "name": "Database Systems ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Ulusoy",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EB-204(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EB-204"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EB-204"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Özgür Ulusoy",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "EB-104"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EB-104(S)"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EB-104"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EB-104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 390",
+          "name": "Individual Research Study",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selim Aksoy",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CS 399",
+          "name": "Summer Training II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Shervin Rahimzadeh Arashloo & Özgür Salih Öğüz",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CS 411",
+          "name": "Software Architecture Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haluk Altunel",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EB-101(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EB-101"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Haluk Altunel",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EB-101(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EB-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 421",
+          "name": "Computer Networks",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cem Tekin",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-412"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ezhan Karaşan",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "EE-05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 433",
+          "name": "Information Retrieval Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fazlı Can",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EE-03(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EE-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 442",
+          "name": "Distributed Systems and Algorithms",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İbrahim Körpeoğlu",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-517(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 449",
+          "name": "Learning for Robotics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Salih Öğüz",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-03(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 461",
+          "name": "Artificial Intelligence",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Salih Öğüz",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EE-03(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 464",
+          "name": "Introduction to Machine Learning",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşegül Dündar Boral",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EA-Z03(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşegül Dündar Boral",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EA-Z03(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 465",
+          "name": "Computer Graphics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Güdükbay",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-Z06(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 473",
+          "name": "Algorithms I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cevdet Aykanat",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-203"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Cevdet Aykanat",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 476",
+          "name": "Automata Theory and Formal Languages",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Can Alkan",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EE-04(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-04"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 484",
+          "name": "Introduction to Computer Vision",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Shervin Rahimzadeh Arashloo",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EA-Z03(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EA-Z03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 489",
+          "name": "Teaching Project in Computer Engineering ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selim Aksoy",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CS 490",
+          "name": "Senior Research Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selim Aksoy",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CS 491",
+          "name": "Senior Design Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Abdullah Ercüment Çiçek & Sinem Sav & Mert Bıçakçı & Atakan Erdem",
+              "schedule": [
+                {
+                  "slot": 64,
+                  "classroom": "MCORUH"
+                },
+                {
+                  "slot": 71,
+                  "classroom": "MCORUH"
+                },
+                {
+                  "slot": 78,
+                  "classroom": "MCORUH"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 533",
+          "name": "Information Retrieval Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fazlı Can",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EE-03(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EE-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 549",
+          "name": "Learning for Robotics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Salih Öğüz",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-03(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 554",
+          "name": "Computer Vision",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hamdi Dibeklioğlu",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EB-101(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EB-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 555",
+          "name": "Introduction to Computer Vision",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Shervin Rahimzadeh Arashloo",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EA-Z03(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EA-Z03"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EA-Z03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 559",
+          "name": "Deep Learning",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hamdi Dibeklioğlu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EB-101(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EB-101"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EB-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 573",
+          "name": "Algorithms I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cevdet Aykanat",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-203"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Cevdet Aykanat",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 575",
+          "name": "Computer Graphics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Güdükbay",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-Z06"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-Z06(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 588",
+          "name": "Data Science for Software Engineering ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Eray Tüzün",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-517(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 590",
+          "name": "Research Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fazlı Can & Uğur Doğrusöz",
+              "schedule": [
+                {
+                  "slot": 49,
+                  "classroom": "EA-502"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EA-502"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CS 690",
+          "name": "Research Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fazlı Can & Uğur Doğrusöz",
+              "schedule": [
+                {
+                  "slot": 49,
+                  "classroom": "EA-502"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EA-502"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CS 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -9440,7 +11991,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Cem Tekin",
+              "instructor": "Mustafa Sanlı",
               "schedule": [
                 {
                   "slot": 0,
@@ -21782,6 +24333,1124 @@
     }
   },
   {
+    "HUM": {
+      "courses": [
+        {
+          "code": "HUM 111",
+          "name": "Cultures Civilizations and Ideas I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aurelia Cojocaru",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-Z07(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-Z07"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Kory Spencer Sorrell",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-228(S)"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Dragan Ilic",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-109"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-109(S)"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-109"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-109"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Matthew Thomas Stoltz",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-154"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-154(S)"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-154"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-154"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Victor Lenthe",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-110(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-110"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-110"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-110"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Dragan Ilic",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-207(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-207"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Thomas Wayne Howard",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-Z35(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-Z35"
+                }
+              ]
+            },
+            {
+              "number": "8",
+              "instructor": "Andrew Jonathan Ploeg",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-Z36(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-Z36"
+                }
+              ]
+            },
+            {
+              "number": "9",
+              "instructor": "Brian David McPhee",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-106(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-106"
+                }
+              ]
+            },
+            {
+              "number": "10",
+              "instructor": "Marjan Mohammadi",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-228(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-228"
+                }
+              ]
+            },
+            {
+              "number": "11",
+              "instructor": "Thomas Wayne Howard",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-209"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-209(S)"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-209"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-209"
+                }
+              ]
+            },
+            {
+              "number": "12",
+              "instructor": "Brian David McPhee",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-232(S)"
+                }
+              ]
+            },
+            {
+              "number": "13",
+              "instructor": "Victor Lenthe",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-Z10(S)"
+                }
+              ]
+            },
+            {
+              "number": "14",
+              "instructor": "Dragan Ilic",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-154"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-154(S)"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-154"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-154"
+                }
+              ]
+            },
+            {
+              "number": "15",
+              "instructor": "Dragan Ilic",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "G-Z35(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "G-Z35"
+                }
+              ]
+            },
+            {
+              "number": "16",
+              "instructor": "Kory Spencer Sorrell",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "G-Z36(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "G-Z36"
+                }
+              ]
+            },
+            {
+              "number": "17",
+              "instructor": "Scott Allen Kennedy",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-136(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-136"
+                }
+              ]
+            },
+            {
+              "number": "18",
+              "instructor": "Costantino Costantini",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-Z10(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-Z10"
+                }
+              ]
+            },
+            {
+              "number": "19",
+              "instructor": "Marjan Mohammadi",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-140(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-140"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-140"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-140"
+                }
+              ]
+            },
+            {
+              "number": "20",
+              "instructor": "Matthew Thomas Stoltz",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-106(S)"
+                }
+              ]
+            },
+            {
+              "number": "21",
+              "instructor": "Rachel Bruzzone",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-252"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-252"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-252"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-252(S)"
+                }
+              ]
+            },
+            {
+              "number": "22",
+              "instructor": "Marjan Mohammadi",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-Z06(S)"
+                }
+              ]
+            },
+            {
+              "number": "23",
+              "instructor": "Rachel Bruzzone",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-252"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-252"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-252"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-252(S)"
+                }
+              ]
+            },
+            {
+              "number": "24",
+              "instructor": "Victor Lenthe",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-B07(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-B07"
+                }
+              ]
+            },
+            {
+              "number": "25",
+              "instructor": "Mustafa Nakeeb",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-107(S)"
+                }
+              ]
+            },
+            {
+              "number": "26",
+              "instructor": "Mustafa Nakeeb",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-Z35(S)"
+                }
+              ]
+            },
+            {
+              "number": "27",
+              "instructor": "Matthew Thomas Stoltz",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "G-229(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "G-229"
+                }
+              ]
+            },
+            {
+              "number": "28",
+              "instructor": "Paul Elliot Kimball",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-255(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-255"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-255"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-255"
+                }
+              ]
+            },
+            {
+              "number": "29",
+              "instructor": "Aurelia Cojocaru",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-107(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-107"
+                }
+              ]
+            },
+            {
+              "number": "30",
+              "instructor": "Paul Elliot Kimball",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-229(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-229"
+                }
+              ]
+            },
+            {
+              "number": "31",
+              "instructor": "Kory Spencer Sorrell",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-Z35(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-Z35"
+                }
+              ]
+            },
+            {
+              "number": "32",
+              "instructor": "Paul Elliot Kimball",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-154"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-154"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-154"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-154(S)"
+                }
+              ]
+            },
+            {
+              "number": "33",
+              "instructor": "Scott Allen Kennedy",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-136(S)"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-136"
+                }
+              ]
+            },
+            {
+              "number": "34",
+              "instructor": "Costantino Costantini",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "G-107(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "G-107"
+                }
+              ]
+            },
+            {
+              "number": "35",
+              "instructor": "Andrew Jonathan Ploeg",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z06(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z06"
+                }
+              ]
+            },
+            {
+              "number": "36",
+              "instructor": "Paul Elliot Kimball",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-207(S)"
+                }
+              ]
+            },
+            {
+              "number": "37",
+              "instructor": "Mustafa Nakeeb",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-Z06(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-Z06"
+                }
+              ]
+            },
+            {
+              "number": "38",
+              "instructor": "Andrew Jonathan Ploeg",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-136(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-136"
+                }
+              ]
+            },
+            {
+              "number": "39",
+              "instructor": "Mustafa Nakeeb",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-228(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HUM 112",
+          "name": "Cultures Civilizations and Ideas II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mihaela P. Harper",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-Z35(S)"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-Z35"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Mihaela P. Harper",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-255"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-255"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-255"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-255(S)"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Aslı Menevşe",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-107"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-107(S)"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Mihaela P. Harper",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-140(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-140"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-140"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-140"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Buffy Ann Turner",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z07(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z07"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Aslı Menevşe",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-232(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-232"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Buffy Ann Turner",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-232(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-232"
+                }
+              ]
+            },
+            {
+              "number": "8",
+              "instructor": "Costantino Costantini",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "G-Z06(S)"
+                }
+              ]
+            },
+            {
+              "number": "9",
+              "instructor": "Buffy Ann Turner",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "G-Z36(S)"
+                }
+              ]
+            },
+            {
+              "number": "10",
+              "instructor": "Costantino Costantini",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-229(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-229"
+                }
+              ]
+            },
+            {
+              "number": "11",
+              "instructor": "Buffy Ann Turner",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-140"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-140"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-140"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-140(S)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "IAED": {
       "courses": [
         {
@@ -22720,11 +26389,6 @@
                   "classroom": "FF-106"
                 }
               ]
-            },
-            {
-              "number": "3",
-              "instructor": "Pelin Meriç Gezginer Gezirgen",
-              "schedule": []
             },
             {
               "number": "4",
@@ -40360,6 +44024,1341 @@
     }
   },
   {
+    "PSYC": {
+      "courses": [
+        {
+          "code": "PSYC 100",
+          "name": "Introduction to Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selin Salman Engin",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-Z03(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-Z03"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Süeda Eker",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "H-132(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "H-132"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Süeda Eker",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "H-132(S)"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Sultan Rengin Dalkıran",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "H-233(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "H-233"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Sultan Rengin Dalkıran",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "H-132(S)"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Narin Ilgım Ardıç Avcı",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "H-132(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 101",
+          "name": "Introduction to Psychology/Cognitive and Biological",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Michelle Marie Adams",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "B-Z02(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "B-Z02"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Michelle Marie Adams",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "B-Z05"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-Z05(S)"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "B-Z05"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "B-Z05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 102",
+          "name": "Introduction to Social Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Ulaşan Özgüle",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "H-132(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "H-132"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Emine Ulaşan Özgüle",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "A-229(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "A-229"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "A-229"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "A-229"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Emine Ulaşan Özgüle",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "A-Z27"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "A-Z27"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "A-Z27"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "A-Z27(S)"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Selin Salman Engin",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-Z03(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-Z03"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Selin Salman Engin",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-Z03(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 103",
+          "name": "Introduction to Psychology/Social and Developmental",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jedediah Wilfred Papas Allen",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "H-233(S)"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "H-233"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 200",
+          "name": "Cognitive Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ausaf Ahmed Farooqui",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-109(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-109"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ausaf Ahmed Farooqui",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-109(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 203",
+          "name": "Statistical Methods in Pyschological Science I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kaan Kerman",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "B-204(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "B-204"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "B-204"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "B-204"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Kaan Kerman",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "B-Z02(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 204",
+          "name": "Research Methods in Psychological Science I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selin Salman Engin",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-204"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-204"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-204"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-204(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Demet Özer",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "G-232(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "G-232"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 205",
+          "name": "Statistical Methods in Psychological Science II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zahide Pamir Karatok",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "H-133A(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "H-133A"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "H-133A"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "H-133A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 206",
+          "name": "Research Methods in Psychological Science II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kaan Kerman",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-B40"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-B40"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-B40"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-B40(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 220",
+          "name": "Brain and Behavior",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kaan Kerman",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-236(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-236"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-236"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-236"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 230",
+          "name": "Social Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ezgi Sakman",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "H-233(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "H-233"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ezgi Sakman",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "H-233(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 240",
+          "name": "Developmental Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "B-Z05(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "B-Z05"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "B-Z05"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "B-Z05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 310",
+          "name": "Perception, Attention, and Action",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Ayşen Ürgen",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "B-Z03(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "B-Z03"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hüseyin Boyacı",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "H-132(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "H-132"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 340",
+          "name": "Learning and Memory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Miri Besken",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "B-Z03"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "B-Z03(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Miri Besken",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "B-Z02(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "B-Z02"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 350",
+          "name": "Advanced Cognitive and Social Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hande Ilgaz",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-Z02(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-Z02"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-Z02"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hande Ilgaz",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "B-Z01"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "B-Z01"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-Z01"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-Z01(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 360",
+          "name": "Individual Differences and Personality",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ezgi Sakman",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "H-233(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "H-233"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 391",
+          "name": "Directed Research in Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hande Ilgaz",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 399",
+          "name": "Summer Training",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Ulaşan Özgüle",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 406",
+          "name": "Introduction to Electroencephalography (EEG)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Ayşen Ürgen",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "B-109(S)"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "B-109"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 420",
+          "name": "Selected Topics in Cognitive Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tan Arda Gedik",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "H-233(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 423",
+          "name": "Selected Topics in Cognitive Science",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jedediah Wilfred Papas Allen",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "H-233(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "H-233"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 430",
+          "name": "Clinical Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayesha Zia",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-106(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-106"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-106"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-106"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 431",
+          "name": "Psychological Testing and Measurement",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ezgi Tunçel",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "H-233(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "H-233"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 433",
+          "name": "Abnormal Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Timothea Toulopoulou",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-Z05(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-Z05"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-Z05"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-Z05"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Timothea Toulopoulou",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-108(S)"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-108"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 434",
+          "name": "Child and Adolescent Psychopathology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayesha Zia",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-107(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-107"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-107"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-107"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 435",
+          "name": "Industrial and Organizational Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Ulaşan Özgüle",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "H-132(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 444",
+          "name": "Human Bonding",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ezgi Sakman",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "H-233"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "H-233(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 449",
+          "name": "Clinical Interview Skills and Techniques",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayesha Zia",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "H-332(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "H-332"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "H-332"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "H-332"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ayesha Zia",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "H-133A(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "H-133A"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "H-133A"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "H-133A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 482",
+          "name": "Mind in Evolution",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Robert Ian Bowers",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-104(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-104"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-104"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 498",
+          "name": "Senior Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 499",
+          "name": "Senior Project II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 506",
+          "name": "Introduction to Electroencephalography (EEG)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Ayşen Ürgen",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "B-109(S)"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "B-109"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 560",
+          "name": "Developmental Intergroup Processes",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "B-207(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-207"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "B-207"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "B-207"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PSYC 575",
+          "name": "Advanced Training in Psychological Research I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 591",
+          "name": "Pro-Thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 599",
+          "name": "M.A. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 691",
+          "name": "Pro-Thesis Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "SOC": {
       "courses": [
         {
@@ -43063,42 +48062,42 @@
             },
             {
               "number": "43",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
               "number": "44",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
               "number": "45",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
               "number": "46",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
               "number": "47",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
               "number": "48",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
               "number": "49",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
               "number": "50",
-              "instructor": "Saba Özdemir",
+              "instructor": "Saba Özdemir Sevin",
               "schedule": []
             },
             {
