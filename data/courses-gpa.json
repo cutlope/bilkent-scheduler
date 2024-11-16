@@ -7561,6 +7561,24 @@
     }
   },
   {
+    "IELTS": {
+      "courses": [
+        {
+          "code": "IELTS 100",
+          "name": "International English Language Testing System",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
     "IR": {
       "courses": [
         {
@@ -9684,12 +9702,12 @@
             },
             {
               "number": "12",
-              "instructor": "Natalia Zheltukhina",
+              "instructor": "Konstantinos Maronikolakis",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Naci Saldı",
+              "instructor": "Konstantinos Maronikolakis",
               "schedule": []
             },
             {
@@ -14951,7 +14969,7 @@
               "schedule": []
             }
           ],
-          "gpa": "3.29"
+          "gpa": "3.95"
         }
       ]
     }
