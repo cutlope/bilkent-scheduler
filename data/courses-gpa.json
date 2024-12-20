@@ -1455,6 +1455,18 @@
           "gpa": "2.59"
         },
         {
+          "code": "COMD 433",
+          "name": "Gender and Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.70"
+        },
+        {
           "code": "COMD 434",
           "name": "Special Topics in Journalism",
           "sections": [
@@ -3021,22 +3033,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
+              "instructor": "Ali Hakan Kara",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
+              "instructor": "Ali Hakan Kara",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
+              "instructor": "Ali Hakan Kara",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
+              "instructor": "Ali Hakan Kara",
               "schedule": []
             },
             {
@@ -3484,6 +3496,17 @@
           "gpa": "3.23"
         },
         {
+          "code": "ECON 438",
+          "name": "Economics of Competition",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ECON 439",
           "name": "Game Theory I",
           "sections": [
@@ -3530,6 +3553,17 @@
             }
           ],
           "gpa": "2.67"
+        },
+        {
+          "code": "ECON 467",
+          "name": "Behavioral Policymaking and Impact Evaluation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şule Alan Crossley",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "ECON 492",
@@ -4860,6 +4894,18 @@
           "gpa": "3.46"
         },
         {
+          "code": "FA 214",
+          "name": "Introduction to Printmaking II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.59"
+        },
+        {
           "code": "FA 215",
           "name": "Introduction to Sculpture I",
           "sections": [
@@ -5496,6 +5542,17 @@
           "gpa": "3.13"
         },
         {
+          "code": "GRA 315",
+          "name": "Information Design and Data Visualization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "GRA 316",
           "name": "Interface Design Studio",
           "sections": [
@@ -5576,7 +5633,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Arda Bülben Yazıcı",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -7860,6 +7917,17 @@
           "gpa": "0.00"
         },
         {
+          "code": "IR 434",
+          "name": "Selected Topics in International Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "IR 439",
           "name": "Turkish Foreign Policy ",
           "sections": [
@@ -9196,11 +9264,6 @@
               "number": "2",
               "instructor": "Masumi Hiratsuka",
               "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Masumi Hiratsuka",
-              "schedule": []
             }
           ],
           "gpa": "3.20"
@@ -10106,11 +10169,6 @@
               "number": "4",
               "instructor": "Staff",
               "schedule": []
-            },
-            {
-              "number": "5",
-              "instructor": "Staff",
-              "schedule": []
             }
           ],
           "gpa": "1.89"
@@ -10167,12 +10225,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tolga Çukur",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Yiğitcan Eryaman",
               "schedule": []
             }
           ],
@@ -10184,12 +10242,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Arif Bülent Özgüler",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Orhan Arıkan",
               "schedule": []
             },
             {
@@ -10230,12 +10288,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Süleyman Serdar Kozat",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Süleyman Serdar Kozat",
               "schedule": []
             }
           ],
@@ -10247,7 +10305,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Dilek Köksal",
+              "instructor": "Eyüp Yalçınkaya",
               "schedule": []
             },
             {
@@ -10257,7 +10315,7 @@
             },
             {
               "number": "3",
-              "instructor": "Eyüp Yalçınkaya",
+              "instructor": "Dilek Köksal",
               "schedule": []
             }
           ],
@@ -11210,6 +11268,96 @@
     }
   },
   {
+    "MSC": {
+      "courses": [
+        {
+          "code": "MSC 122",
+          "name": "Fundamentals of Musicianship II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "MSC 172",
+          "name": "Theory II: Harmony and Voice Leading",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.87"
+        },
+        {
+          "code": "MSC 174",
+          "name": "Opera and Instrumental Music in the Baroque Period",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.90"
+        },
+        {
+          "code": "MSC 274",
+          "name": "19th Century Music and Modernity",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.19"
+        },
+        {
+          "code": "MSC 521",
+          "name": "Master's Lecture Recital",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.71"
+        },
+        {
+          "code": "MSC 541",
+          "name": "Master's Final Concert",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.20"
+        },
+        {
+          "code": "MSC 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
     "MSN": {
       "courses": [
         {
@@ -11235,6 +11383,72 @@
             }
           ],
           "gpa": "3.67"
+        }
+      ]
+    }
+  },
+  {
+    "NSC": {
+      "courses": [
+        {
+          "code": "NSC 510",
+          "name": "Sensory and Motor Systems Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hüseyin Boyacı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.50"
+        },
+        {
+          "code": "NSC 591",
+          "name": "Pro-thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hilal İrem Baştürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "NSC 599",
+          "name": "Neuroscience Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hüseyin Boyacı",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "NSC 691",
+          "name": "Pro-thesis Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hilal İrem Baştürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "NSC 699",
+          "name": "Neuroscience Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hüseyin Boyacı",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -11765,7 +11979,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -11777,7 +11991,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ],
@@ -11789,7 +12003,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -11801,7 +12015,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             }
           ],
@@ -11813,7 +12027,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Şahin Büyükdağlı",
               "schedule": []
             }
           ],
@@ -11825,7 +12039,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -11837,7 +12051,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -11849,7 +12063,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             }
           ],
@@ -11861,12 +12075,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -11878,11 +12092,35 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ],
           "gpa": "3.62"
+        },
+        {
+          "code": "PHYS 542",
+          "name": "Electromagnetic Theory II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilal Tanatar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.10"
+        },
+        {
+          "code": "PHYS 544",
+          "name": "Advanced Quantum Mechanics II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Özgür Oktel",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.42"
         }
       ]
     }
@@ -13103,6 +13341,192 @@
     }
   },
   {
+    "THR": {
+      "courses": [
+        {
+          "code": "THR 102",
+          "name": "Fundamentals of Acting II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.18"
+        },
+        {
+          "code": "THR 104",
+          "name": "Voice and Speech II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.15"
+        },
+        {
+          "code": "THR 106",
+          "name": "Movement and Combat II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.38"
+        },
+        {
+          "code": "THR 108",
+          "name": "Dance II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.63"
+        },
+        {
+          "code": "THR 112",
+          "name": "Phonetics II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.61"
+        },
+        {
+          "code": "THR 202",
+          "name": "Acting II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.04"
+        },
+        {
+          "code": "THR 204",
+          "name": "Voice and Speech IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.70"
+        },
+        {
+          "code": "THR 206",
+          "name": "Movement and Combat IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.27"
+        },
+        {
+          "code": "THR 228",
+          "name": "History of Theater II: Renaissance to 20th Century",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.20"
+        },
+        {
+          "code": "THR 302",
+          "name": "Acting IV ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.71"
+        },
+        {
+          "code": "THR 332",
+          "name": "Textual Interpretation and Analysis II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.18"
+        },
+        {
+          "code": "THR 333",
+          "name": "On Camera Acting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.63"
+        },
+        {
+          "code": "THR 339",
+          "name": "Playwriting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.30"
+        },
+        {
+          "code": "THR 428",
+          "name": "History of Turkish Theater",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.86"
+        },
+        {
+          "code": "THR 452",
+          "name": "Senior Project II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.76"
+        }
+      ]
+    }
+  },
+  {
     "TRIN": {
       "courses": [
         {
@@ -13111,12 +13535,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Emine Esra Özbay",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Emine Esra Özbay",
               "schedule": []
             }
           ],
@@ -13196,12 +13620,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Cahide Ekiz",
+              "instructor": "Cahide Ekiz & Eyüp Özgür Özen",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Cahide Ekiz",
+              "instructor": "Cahide Ekiz & Eyüp Özgür Özen",
               "schedule": []
             }
           ],
@@ -13318,7 +13742,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Büşra Kurt Uçar",
+              "instructor": "Safiye Bal Kuzucu",
               "schedule": []
             }
           ]
