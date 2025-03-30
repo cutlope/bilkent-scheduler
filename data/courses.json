@@ -31304,19 +31304,19 @@
               "schedule": [
                 {
                   "slot": 3,
-                  "classroom": "G-Z38"
+                  "classroom": "G-Z39"
                 },
                 {
                   "slot": 10,
-                  "classroom": "G-Z38"
+                  "classroom": "G-Z39"
                 },
                 {
                   "slot": 35,
-                  "classroom": "G-Z38"
+                  "classroom": "G-Z39"
                 },
                 {
                   "slot": 42,
-                  "classroom": "G-Z38"
+                  "classroom": "G-Z39"
                 }
               ]
             }
@@ -46680,6 +46680,23 @@
                   "classroom": ""
                 }
               ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "TOEFL": {
+      "courses": [
+        {
+          "code": "TOEFL 100",
+          "name": "Test of English as a Foreign Language",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         }
