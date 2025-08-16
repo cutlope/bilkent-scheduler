@@ -1542,6 +1542,18 @@
           "gpa": "3.44"
         },
         {
+          "code": "COMD 513",
+          "name": "Film and Genre",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Colleen Bevin Kennedy Karpat",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.55"
+        },
+        {
           "code": "COMD 514",
           "name": "Identity Space and Image",
           "sections": [
@@ -1575,18 +1587,6 @@
             }
           ],
           "gpa": "3.74"
-        },
-        {
-          "code": "COMD 538",
-          "name": "Adaptation in Media",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Colleen Bevin Kennedy Karpat",
-              "schedule": []
-            }
-          ],
-          "gpa": "3.71"
         },
         {
           "code": "COMD 590",
@@ -1838,17 +1838,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selim Aksoy",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Abdullah Ercüment Çiçek",
               "schedule": []
             },
             {
-              "number": "3",
+              "number": "2",
               "instructor": "Selim Aksoy",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Abdullah Ercüment Çiçek",
               "schedule": []
             }
           ],
@@ -2141,14 +2141,32 @@
               "number": "2",
               "instructor": "Ayşegül Dündar Boral",
               "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Abdullah Ercüment Çiçek",
-              "schedule": []
             }
           ],
           "gpa": "2.50"
+        },
+        {
+          "code": "CS 465",
+          "name": "Computer Graphics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Güdükbay",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.49"
+        },
+        {
+          "code": "CS 470",
+          "name": "Introduction to Applied Cryptography",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "CS 473",
@@ -2250,6 +2268,17 @@
           "gpa": "3.73"
         },
         {
+          "code": "CS 519",
+          "name": "Introduction to Applied Cryptography",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "CS 533",
           "name": "Information Retrieval Systems",
           "sections": [
@@ -2337,6 +2366,18 @@
           "gpa": "2.26"
         },
         {
+          "code": "CS 575",
+          "name": "Computer Graphics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Güdükbay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.38"
+        },
+        {
           "code": "CS 585",
           "name": "Deep Generative Networks",
           "sections": [
@@ -2366,7 +2407,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Özgür Ulusoy & Selim Aksoy",
+              "instructor": "Özgür Ulusoy & Uğur Güdükbay",
               "schedule": []
             }
           ],
@@ -2390,7 +2431,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Özgür Ulusoy & Selim Aksoy",
+              "instructor": "Özgür Ulusoy & Uğur Güdükbay",
               "schedule": []
             }
           ],
@@ -2420,42 +2461,42 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Serpil Tın",
               "schedule": []
             }
           ],
@@ -2467,12 +2508,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burcu Liman",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Burcu Liman",
               "schedule": []
             }
           ],
@@ -2484,17 +2525,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Satılmış Topcu",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Satılmış Topcu",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Satılmış Topcu",
               "schedule": []
             }
           ],
@@ -2506,7 +2547,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Satılmış Topcu",
               "schedule": []
             }
           ],
@@ -2518,17 +2559,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Erkan Uçar",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Erkan Uçar",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Erkan Uçar",
               "schedule": []
             }
           ],
@@ -2552,22 +2593,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burcu Liman",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Burcu Liman",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Leyla Sezer",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Leyla Sezer",
               "schedule": []
             }
           ],
@@ -2579,22 +2620,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Serkan Genç",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Serkan Genç",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Serkan Genç",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Serkan Genç",
               "schedule": []
             }
           ],
@@ -2606,12 +2647,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Neşe Şahin Özçelik",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Neşe Şahin Özçelik",
               "schedule": []
             }
           ],
@@ -2623,22 +2664,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             }
           ],
@@ -2650,17 +2691,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Seyid Amjad Ali",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Hamdi Murat Yıldırım",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Hamdi Murat Yıldırım",
               "schedule": []
             }
           ],
@@ -2696,12 +2737,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             }
           ],
@@ -2713,17 +2754,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burcu Liman",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Serkan Genç",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             }
           ],
@@ -2735,17 +2776,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cüneyt Sevgi",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Cüneyt Sevgi",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Cüneyt Sevgi",
               "schedule": []
             }
           ],
@@ -2757,17 +2798,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Seyid Amjad Ali",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Seyid Amjad Ali",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Seyid Amjad Ali",
               "schedule": []
             }
           ],
@@ -2779,17 +2820,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oumout Chousein Oglou",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Oumout Chousein Oglou",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Oumout Chousein Oglou",
               "schedule": []
             }
           ],
@@ -2801,7 +2842,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cüneyt Sevgi",
               "schedule": []
             }
           ],
@@ -2813,11 +2854,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Çağıl Alsaç",
               "schedule": []
             }
           ],
           "gpa": "3.73"
+        },
+        {
+          "code": "CTIS 466",
+          "name": "Business Process Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oumout Chousein Oglou",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "CTIS 471",
@@ -2825,7 +2877,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burak Akdemir",
               "schedule": []
             }
           ],
@@ -2837,7 +2889,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Çağıl Alsaç",
               "schedule": []
             }
           ],
@@ -2849,7 +2901,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Seyid Amjad Ali",
               "schedule": []
             }
           ],
@@ -2861,17 +2913,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Neşe Şahin Özçelik",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Neşe Şahin Özçelik",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Leyla Sezer",
               "schedule": []
             }
           ],
@@ -2883,7 +2935,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Kadir Herkiloğlu",
               "schedule": []
             }
           ],
@@ -2895,12 +2947,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hamdi Murat Yıldırım",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Hamdi Murat Yıldırım",
               "schedule": []
             }
           ],
@@ -2914,7 +2966,7 @@
       "courses": [
         {
           "code": "ECON 101",
-          "name": "Introduction to Economics I",
+          "name": "Introduction to Microeconomics",
           "sections": [
             {
               "number": "1",
@@ -2991,7 +3043,7 @@
         },
         {
           "code": "ECON 102",
-          "name": "Introduction to Economics II",
+          "name": "Introduction to Macroeconomics",
           "sections": [
             {
               "number": "1",
@@ -3064,12 +3116,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Çağla Ökten",
+              "instructor": "Hakan Berument",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Hakan Berument",
+              "instructor": "Çağla Ökten",
               "schedule": []
             },
             {
@@ -3134,7 +3186,7 @@
         },
         {
           "code": "ECON 203",
-          "name": "Microeconomic Theory I",
+          "name": "Microeconomics: Competitive Markets",
           "sections": [
             {
               "number": "1",
@@ -3151,7 +3203,7 @@
         },
         {
           "code": "ECON 204",
-          "name": "Microeconomic Theory II",
+          "name": "Microeconomics: Strategic Interactions",
           "sections": [
             {
               "number": "1",
@@ -3167,35 +3219,8 @@
           "gpa": "2.34"
         },
         {
-          "code": "ECON 205",
-          "name": "Macroeconomic Theory I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.04"
-        },
-        {
           "code": "ECON 206",
-          "name": "Macroeconomic Theory II",
+          "name": "Macroeconomics: Growth",
           "sections": [
             {
               "number": "1",
@@ -3234,7 +3259,7 @@
         },
         {
           "code": "ECON 221",
-          "name": "Introduction to Probability and Statistics I",
+          "name": "Probability and Statistical Distributions",
           "sections": [
             {
               "number": "1",
@@ -3291,7 +3316,7 @@
         },
         {
           "code": "ECON 222",
-          "name": "Introduction to Probability and Statistics II",
+          "name": "Statistical Estimation and Inference",
           "sections": [
             {
               "number": "1",
@@ -3317,6 +3342,11 @@
               "number": "5",
               "instructor": "Mustafa Eray Yücel",
               "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
             }
           ],
           "gpa": "2.13"
@@ -3340,7 +3370,7 @@
         },
         {
           "code": "ECON 301",
-          "name": "Econometrics I",
+          "name": "Econometrics ",
           "sections": [
             {
               "number": "1",
@@ -3359,6 +3389,18 @@
             }
           ],
           "gpa": "1.79"
+        },
+        {
+          "code": "ECON 321",
+          "name": "Financial Institutions and Markets",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçin Kısacıkoğlu",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.43"
         },
         {
           "code": "ECON 322",
@@ -3386,7 +3428,7 @@
         },
         {
           "code": "ECON 363",
-          "name": "History of Economic Thought",
+          "name": "Development of Economic Thought",
           "sections": [
             {
               "number": "1",
@@ -3402,8 +3444,20 @@
           "gpa": "2.22"
         },
         {
+          "code": "ECON 399",
+          "name": "Summer Training ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
           "code": "ECON 409",
-          "name": "Contemporary Issues in Turkish Economy I",
+          "name": "Contemporary Issues in Turkish Economy ",
           "sections": [
             {
               "number": "1",
@@ -3415,7 +3469,7 @@
         },
         {
           "code": "ECON 432",
-          "name": "Turkish and World Economy in the 20th Century",
+          "name": "Turkish and World Economy Between Industrial Revolution and 1950",
           "sections": [
             {
               "number": "1",
@@ -3427,7 +3481,7 @@
         },
         {
           "code": "ECON 433",
-          "name": "Industrial Economics I",
+          "name": "Industrial Organization",
           "sections": [
             {
               "number": "1",
@@ -3451,7 +3505,7 @@
         },
         {
           "code": "ECON 439",
-          "name": "Game Theory I",
+          "name": "Game Theory ",
           "sections": [
             {
               "number": "1",
@@ -3720,7 +3774,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İlker Kalender",
               "schedule": []
             }
           ]
@@ -3737,7 +3791,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Mustafa Sanlı",
+              "instructor": "Süleyman Serdar Kozat",
               "schedule": []
             },
             {
@@ -3960,11 +4014,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Sinan Gezici",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Tolga Mete Duman",
               "schedule": []
             }
@@ -3994,6 +4043,18 @@
             }
           ],
           "gpa": "2.09"
+        },
+        {
+          "code": "EEE 452",
+          "name": "Antenna Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Vakur Behçet Ertürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.05"
         },
         {
           "code": "EEE 474",
@@ -4179,6 +4240,18 @@
             }
           ],
           "gpa": "3.54"
+        },
+        {
+          "code": "EEE 552",
+          "name": "Antenna Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Vakur Behçet Ertürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.35"
         },
         {
           "code": "EEE 574",
@@ -4665,7 +4738,7 @@
         },
         {
           "code": "ENG 206",
-          "name": "Business Communications",
+          "name": "Business Communication",
           "sections": [
             {
               "number": "1",
@@ -4972,12 +5045,12 @@
             },
             {
               "number": "9",
-              "instructor": "Burcu Baykan",
+              "instructor": "Yasemin Gümüş Ağca",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Yasemin Gümüş Ağca",
+              "instructor": "Burcu Baykan",
               "schedule": []
             },
             {
@@ -5841,7 +5914,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Luca Zavagno",
               "schedule": []
             }
           ],
@@ -6243,7 +6316,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
@@ -6258,12 +6331,12 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6273,12 +6346,12 @@
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6288,7 +6361,7 @@
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6313,12 +6386,12 @@
             },
             {
               "number": "21",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
               "number": "22",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             }
           ],
@@ -6632,82 +6705,82 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Andrew Jonathan Ploeg",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Kory Spencer Sorrell",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Matthew Thomas Stoltz",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Andrew Jonathan Ploeg",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Victor Andersen Lenthe",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Rachel Bruzzone",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Aurelia Cojocaru",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Mustafa Nakeeb",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Victor Andersen Lenthe",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Marjan Mohammadi",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Thomas Wayne Howard",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Aurelia Cojocaru",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Thomas Wayne Howard",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Victor Andersen Lenthe",
               "schedule": []
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Matthew Thomas Stoltz",
               "schedule": []
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Kory Spencer Sorrell",
               "schedule": []
             },
             {
@@ -6717,37 +6790,37 @@
             },
             {
               "number": "18",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
               "number": "19",
-              "instructor": "Staff",
+              "instructor": "Marjan Mohammadi",
               "schedule": []
             },
             {
               "number": "20",
-              "instructor": "Staff",
+              "instructor": "Aslı Menevşe",
               "schedule": []
             },
             {
               "number": "21",
-              "instructor": "Staff",
+              "instructor": "Marjan Mohammadi",
               "schedule": []
             },
             {
               "number": "22",
-              "instructor": "Staff",
+              "instructor": "Aurelia Cojocaru",
               "schedule": []
             },
             {
               "number": "23",
-              "instructor": "Staff",
+              "instructor": "Aslı Menevşe",
               "schedule": []
             },
             {
               "number": "24",
-              "instructor": "Staff",
+              "instructor": "Rachel Bruzzone",
               "schedule": []
             },
             {
@@ -6757,72 +6830,72 @@
             },
             {
               "number": "26",
-              "instructor": "Staff",
+              "instructor": "Aslı Menevşe",
               "schedule": []
             },
             {
               "number": "27",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
               "number": "28",
-              "instructor": "Staff",
+              "instructor": "Mustafa Nakeeb",
               "schedule": []
             },
             {
               "number": "29",
-              "instructor": "Staff",
+              "instructor": "William Norman Coker",
               "schedule": []
             },
             {
               "number": "30",
-              "instructor": "Staff",
+              "instructor": "Matthew Thomas Stoltz",
               "schedule": []
             },
             {
               "number": "31",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
               "number": "32",
-              "instructor": "Staff",
+              "instructor": "William Norman Coker",
               "schedule": []
             },
             {
               "number": "33",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
               "number": "34",
-              "instructor": "Staff",
+              "instructor": "Kory Spencer Sorrell",
               "schedule": []
             },
             {
               "number": "35",
-              "instructor": "Staff",
+              "instructor": "Nathan Paul Leidholm",
               "schedule": []
             },
             {
               "number": "36",
-              "instructor": "Staff",
+              "instructor": "Scott Allen Kennedy",
               "schedule": []
             },
             {
               "number": "37",
-              "instructor": "Staff",
+              "instructor": "Brian David McPhee",
               "schedule": []
             },
             {
               "number": "38",
-              "instructor": "Staff",
+              "instructor": "Andrew Jonathan Ploeg",
               "schedule": []
             },
             {
               "number": "39",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
@@ -6832,22 +6905,22 @@
             },
             {
               "number": "41",
-              "instructor": "Staff",
+              "instructor": "Scott Allen Kennedy",
               "schedule": []
             },
             {
               "number": "42",
-              "instructor": "Staff",
+              "instructor": "William Norman Coker",
               "schedule": []
             },
             {
               "number": "43",
-              "instructor": "Staff",
+              "instructor": "Nathan Paul Leidholm",
               "schedule": []
             },
             {
               "number": "44",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
@@ -6857,17 +6930,17 @@
             },
             {
               "number": "46",
-              "instructor": "Staff",
+              "instructor": "Brian David McPhee",
               "schedule": []
             },
             {
               "number": "47",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
               "number": "48",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
@@ -6882,12 +6955,12 @@
             },
             {
               "number": "51",
-              "instructor": "Staff",
+              "instructor": "Brian David McPhee",
               "schedule": []
             },
             {
               "number": "52",
-              "instructor": "Staff",
+              "instructor": "Mustafa Nakeeb",
               "schedule": []
             }
           ],
@@ -6899,32 +6972,32 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mihaela P. Harper",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Mihaela P. Harper",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Mihaela P. Harper",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             },
             {
@@ -6934,17 +7007,17 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
@@ -6954,12 +7027,12 @@
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             }
           ],
@@ -7915,6 +7988,11 @@
               "number": "9",
               "instructor": "Rodica Eliza Gheorghe",
               "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Rodica Eliza Gheorghe",
+              "schedule": []
             }
           ],
           "gpa": "2.30"
@@ -8243,6 +8321,17 @@
           "gpa": "0.00"
         },
         {
+          "code": "IR 4101",
+          "name": "Global Authoritarianism",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "IR 4127",
           "name": "Citizenship and Identity in the European Union",
           "sections": [
@@ -8253,6 +8342,17 @@
             }
           ],
           "gpa": "2.74"
+        },
+        {
+          "code": "IR 4135",
+          "name": "China in the Global Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağla Demir",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "IR 4142",
@@ -9074,11 +9174,6 @@
               "number": "1",
               "instructor": "Betül Bostan",
               "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ],
           "gpa": "2.61"
@@ -9266,6 +9361,11 @@
               "number": "3",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "2.76"
@@ -9341,11 +9441,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Derya Çelik Işık",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Derya Çelik Işık",
               "schedule": []
             }
@@ -9593,6 +9688,18 @@
           "gpa": "2.24"
         },
         {
+          "code": "MAN 333",
+          "name": "Marketing Principles",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ceren Aydoğmuş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.71"
+        },
+        {
           "code": "MAN 335",
           "name": "Fundamentals of Marketing",
           "sections": [
@@ -9714,7 +9821,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Selcen Erdem",
               "schedule": []
             }
           ],
@@ -9738,7 +9845,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Özgür Kıbrıs",
               "schedule": []
             }
           ]
@@ -9813,6 +9920,17 @@
             }
           ],
           "gpa": "3.09"
+        },
+        {
+          "code": "MAN 478",
+          "name": "Decentralized Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "MAN 485",
@@ -10501,6 +10619,17 @@
           "gpa": "2.70"
         },
         {
+          "code": "MATH 429",
+          "name": "Finite Group Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Muhammet Yasir Kızmaz",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MATH 490",
           "name": "Project in Mathematics",
           "sections": [
@@ -11039,6 +11168,17 @@
           "gpa": "2.60"
         },
         {
+          "code": "ME 103",
+          "name": "Introduction to Computer-Aided Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orçun Koray Çelebi",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ME 211",
           "name": "Thermo-Fluids Engineering I",
           "sections": [
@@ -11120,6 +11260,23 @@
             }
           ],
           "gpa": "1.97"
+        },
+        {
+          "code": "ME 384",
+          "name": "Mechatronic Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.69"
         },
         {
           "code": "ME 399",
@@ -11269,6 +11426,28 @@
           "gpa": "3.03"
         },
         {
+          "code": "ME 505",
+          "name": "Machine Learning for Mechanical Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orçun Koray Çelebi",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 518",
+          "name": "Data-Based Control Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ME 534",
           "name": "Advanced Engineering Thermodynamics",
           "sections": [
@@ -11291,6 +11470,17 @@
             }
           ],
           "gpa": "4.00"
+        },
+        {
+          "code": "ME 556",
+          "name": "Advanced Manufacturing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "ME 571",
@@ -12090,6 +12280,18 @@
           "gpa": "1.45"
         },
         {
+          "code": "MSC 433",
+          "name": "Chamber Music VII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.99"
+        },
+        {
           "code": "MSC 453",
           "name": "Bilkent Chorale VII ",
           "sections": [
@@ -12183,6 +12385,120 @@
             }
           ],
           "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
+    "MSN": {
+      "courses": [
+        {
+          "code": "MSN 500",
+          "name": "Concepts in Materials Science",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Engin Durgun",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.19"
+        },
+        {
+          "code": "MSN 507",
+          "name": "Electrical, Optical and Magnetic Properties of Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Yılmaz",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.41"
+        },
+        {
+          "code": "MSN 511",
+          "name": "Surface Science and Spectroscopy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sezin Galioğlu Özaltuğ",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.46"
+        },
+        {
+          "code": "MSN 517",
+          "name": "Nanoscience and Nanotechnology I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seymur Jahangirov",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.81"
+        },
+        {
+          "code": "MSN 519",
+          "name": "Applications of Microfluidics and Nanofluidics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gürkan Yeşilöz",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.80"
+        },
+        {
+          "code": "MSN 528",
+          "name": "Polymer Physics in Nanotechnology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aykut Erbaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.65"
+        },
+        {
+          "code": "MSN 531",
+          "name": "Magnetic Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cüneyt Şahin",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.73"
+        },
+        {
+          "code": "MSN 555",
+          "name": "Laser Physics: from Principles to Applications for Materials Science",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Abdullah Demir",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.36"
+        },
+        {
+          "code": "MSN 556",
+          "name": "Optical Fibers",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Ordu",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.58"
         }
       ]
     }
@@ -12635,7 +12951,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             },
             {
@@ -12645,7 +12961,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             },
             {
@@ -12660,12 +12976,12 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             },
             {
@@ -12675,12 +12991,12 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Ekmel Özbay",
               "schedule": []
             },
             {
@@ -12695,7 +13011,7 @@
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ],
@@ -12707,7 +13023,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Şahin Büyükdağlı",
               "schedule": []
             },
             {
@@ -12717,7 +13033,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Şahin Büyükdağlı",
               "schedule": []
             },
             {
@@ -12727,7 +13043,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Aydın Cem Keser",
               "schedule": []
             }
           ],
@@ -12739,7 +13055,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -12751,17 +13067,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ceyhun Bulutay",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ],
@@ -12773,7 +13089,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -12797,7 +13113,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -12809,7 +13125,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -12821,11 +13137,23 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
           "gpa": "2.65"
+        },
+        {
+          "code": "PHYS 333",
+          "name": "Classical Thermodynamics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
         },
         {
           "code": "PHYS 371",
@@ -12833,7 +13161,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             }
           ],
@@ -12857,11 +13185,35 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ],
           "gpa": "3.23"
+        },
+        {
+          "code": "PHYS 491",
+          "name": "Senior Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şahin Büyükdağlı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.44"
+        },
+        {
+          "code": "PHYS 492",
+          "name": "Senior Project II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şahin Büyükdağlı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.34"
         },
         {
           "code": "PHYS 541",
@@ -12869,7 +13221,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             }
           ],
@@ -12881,7 +13233,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             }
           ],
@@ -12893,7 +13245,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             }
           ]
@@ -13735,7 +14087,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selin Salman Engin & Miri Besken & Kaan Kerman",
+              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
               "schedule": []
             }
           ],
@@ -13747,7 +14099,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selin Salman Engin & Miri Besken & Kaan Kerman",
+              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
               "schedule": []
             }
           ],
@@ -13776,6 +14128,18 @@
             }
           ],
           "gpa": "3.51"
+        },
+        {
+          "code": "PSYC 542",
+          "name": "Psychology of Language",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Demet Özer",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.85"
         },
         {
           "code": "PSYC 575",
@@ -13899,6 +14263,119 @@
             }
           ],
           "gpa": "2.44"
+        }
+      ]
+    }
+  },
+  {
+    "TEFL": {
+      "courses": [
+        {
+          "code": "TEFL 503",
+          "name": "Linguistics: the Nature of Language",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tijen Akşit",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TEFL 506",
+          "name": "Sociolinguistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tijen Akşit",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.39"
+        },
+        {
+          "code": "TEFL 521",
+          "name": "EFL Methodology I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tijen Akşit",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.77"
+        },
+        {
+          "code": "TEFL 528",
+          "name": "Curriculum Development and Evaluation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Necmi Akşit",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.65"
+        },
+        {
+          "code": "TEFL 530",
+          "name": "Materials Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tijen Akşit",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.46"
+        },
+        {
+          "code": "TEFL 532",
+          "name": "Research Methods in Linguistics II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Necmi Akşit",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.54"
+        },
+        {
+          "code": "TEFL 550",
+          "name": "Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "TEFL 554",
+          "name": "Thesis Writing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "TEFL 556",
+          "name": "Trends and Developments in Applied Linguistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Necmi Akşit",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.43"
         }
       ]
     }
@@ -14291,6 +14768,18 @@
           "gpa": "3.26"
         },
         {
+          "code": "THR 227",
+          "name": "History of Theater I: Origins to Renaissance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.37"
+        },
+        {
           "code": "THR 301",
           "name": "Acting III",
           "sections": [
@@ -14303,6 +14792,18 @@
           "gpa": "3.63"
         },
         {
+          "code": "THR 327",
+          "name": "History of Theater III: 20th Century",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.25"
+        },
+        {
           "code": "THR 331",
           "name": "Textual Interpretation and Analysis I",
           "sections": [
@@ -14313,6 +14814,18 @@
             }
           ],
           "gpa": "3.26"
+        },
+        {
+          "code": "THR 399",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         },
         {
           "code": "THR 451",
