@@ -2941,7 +2941,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Hakan Berument",
+              "instructor": "Eda Gürel",
               "schedule": []
             },
             {
@@ -2956,7 +2956,7 @@
             },
             {
               "number": "4",
-              "instructor": "Eda Gürel",
+              "instructor": "Hakan Berument",
               "schedule": []
             },
             {
@@ -3316,6 +3316,17 @@
             {
               "number": "1",
               "instructor": "Nuh Aygün Dalkıran",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 449",
+          "name": "Data Science with Economic Applications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -4410,7 +4421,7 @@
             },
             {
               "number": "51",
-              "instructor": "Staff",
+              "instructor": "Robert McNamara Loomis",
               "schedule": []
             },
             {
@@ -4436,32 +4447,32 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Lorna Yeşilkaya",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "John Paul Alff",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Matthew Lloyd Gorman",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Lorna Yeşilkaya",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "John Paul Alff",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Lorna Yeşilkaya",
               "schedule": []
             }
           ]
@@ -4472,12 +4483,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Zeynep Özek",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Hümeyra Başol Çetin",
               "schedule": []
             }
           ]
@@ -4488,82 +4499,82 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Elif Çotuksöken",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Pınar Demir Kalender",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Elif Çotuksöken",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Melanie Ann Kincl",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Melanie Ann Kincl",
               "schedule": []
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Semra Akbaş",
               "schedule": []
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": []
             }
           ]
@@ -9350,28 +9361,6 @@
           ]
         },
         {
-          "code": "MAN 446",
-          "name": "Supply Chain Management",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MAN 456",
-          "name": "Business Analytics",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Fehmi Tanrısever",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "MAN 478",
           "name": "Decentralized Finance",
           "sections": [
@@ -11712,6 +11701,17 @@
           ]
         },
         {
+          "code": "MSN 510",
+          "name": "Imaging Techniques in Materials Science and Nanotechnology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İbrahim Sarpkaya",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSN 511",
           "name": "Surface Science and Spectroscopy",
           "sections": [
@@ -11767,23 +11767,73 @@
           ]
         },
         {
-          "code": "MSN 555",
-          "name": "Laser Physics: from Principles to Applications for Materials Science",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Abdullah Demir",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "MSN 556",
           "name": "Optical Fibers",
           "sections": [
             {
               "number": "1",
               "instructor": "Mustafa Ordu",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "NSC": {
+      "courses": [
+        {
+          "code": "NSC 511",
+          "name": "Cellular, Molecular and Developmental Neuroscience ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Turgay Dalkara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 512",
+          "name": "Research Methods in Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ronny Rosner",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 546",
+          "name": "Computing for Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 591",
+          "name": "Pro-thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hilal İrem Baştürk",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 691",
+          "name": "Pro-thesis Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hilal İrem Baştürk",
               "schedule": []
             }
           ]
@@ -11864,7 +11914,7 @@
             },
             {
               "number": "2",
-              "instructor": "Jonathan Payton",
+              "instructor": "Matthew Lloyd Gorman & Jonathan Payton",
               "schedule": []
             },
             {
@@ -11879,7 +11929,7 @@
             },
             {
               "number": "5",
-              "instructor": "James Kinkaid III",
+              "instructor": "Elif Hande Özer & James Kinkaid III",
               "schedule": []
             },
             {
@@ -11904,7 +11954,7 @@
             },
             {
               "number": "10",
-              "instructor": "James Kinkaid III",
+              "instructor": "Elif Hande Özer & James Kinkaid III",
               "schedule": []
             },
             {
@@ -11919,12 +11969,12 @@
             },
             {
               "number": "13",
-              "instructor": "Jonathan Payton",
+              "instructor": "Matthew Lloyd Gorman & Jonathan Payton",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Matthew Lloyd Gorman & Adriana Monica Solomon",
+              "instructor": "Elif Hande Özer & Adriana Monica Solomon",
               "schedule": []
             },
             {
@@ -13704,7 +13754,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Eda Gürel",
+              "instructor": "Jamel Ben Chafra",
               "schedule": []
             }
           ]
