@@ -3508,12 +3508,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Seda Uyanık Tanrıverdi",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Adem Gergöy",
               "schedule": []
             }
           ]
@@ -3524,7 +3524,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Kalpaklı",
               "schedule": []
             }
           ]
@@ -4322,6 +4322,89 @@
     }
   },
   {
+    "EMBA": {
+      "courses": [
+        {
+          "code": "EMBA 514",
+          "name": "Foundations of Organizational Management I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aydın Örsan Örge",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 515",
+          "name": "Foundations of Organizational Management II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aydın Örsan Örge",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 525",
+          "name": "Managing Systems Effectively",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fehmi Tanrısever",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 534",
+          "name": "Quantitative Methods",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 535",
+          "name": "Financial Reporting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 546",
+          "name": "Strategic Financial Management ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Başak Tanyeri Günsür",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 547",
+          "name": "Decision Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fehmi Tanrısever",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "ENG": {
       "courses": [
         {
@@ -4457,7 +4540,7 @@
             },
             {
               "number": "3",
-              "instructor": "Matthew Lloyd Gorman",
+              "instructor": "Lorna Yeşilkaya",
               "schedule": []
             },
             {
@@ -4472,7 +4555,7 @@
             },
             {
               "number": "6",
-              "instructor": "Lorna Yeşilkaya",
+              "instructor": "John Paul Alff",
               "schedule": []
             }
           ]
@@ -4529,7 +4612,7 @@
             },
             {
               "number": "7",
-              "instructor": "Jason Lee William Mosier",
+              "instructor": "Bengü Yurtseven",
               "schedule": []
             },
             {
@@ -4554,7 +4637,7 @@
             },
             {
               "number": "12",
-              "instructor": "Melanie Ann Kincl",
+              "instructor": "Jason Lee William Mosier",
               "schedule": []
             },
             {
@@ -4569,7 +4652,7 @@
             },
             {
               "number": "15",
-              "instructor": "Semra Akbaş",
+              "instructor": "Melanie Ann Kincl",
               "schedule": []
             },
             {
@@ -4890,6 +4973,16 @@
               "number": "1",
               "instructor": "Elvan Serin",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -5123,32 +5216,32 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Ioannis N. Grigoriadis",
+              "instructor": "Ioannis N. Grigoriadis & Katherine Halley Willcox Özsarı",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Rodica Eliza Gheorghe",
+              "instructor": "Bengü Yurtseven & Rodica Eliza Gheorghe",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Mustafa Eray Yücel",
+              "instructor": "Mustafa Eray Yücel & Katherine Halley Willcox Özsarı",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Esra İşsever Ekinci",
+              "instructor": "Bengü Yurtseven & Esra İşsever Ekinci",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Çağla Demir",
+              "instructor": "Bengü Yurtseven & Çağla Demir",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Türkan Mine Kara",
+              "instructor": "Türkan Mine Kara & Katherine Halley Willcox Özsarı",
               "schedule": []
             }
           ]
@@ -5274,12 +5367,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Can İzzet Birand",
+              "instructor": "Çavlan Başarır",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Çavlan Başarır",
+              "instructor": "Can İzzet Birand",
               "schedule": []
             }
           ]
@@ -6148,6 +6241,17 @@
             {
               "number": "1",
               "instructor": "Berke Torunoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HIST 447",
+          "name": "Renaissance Studies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Filip Malesevic",
               "schedule": []
             }
           ]
@@ -8814,6 +8918,11 @@
               "number": "2",
               "instructor": "Gülnara Tanrıkulu",
               "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Gülnara Tanrıkulu",
+              "schedule": []
             }
           ]
         },
@@ -9878,7 +9987,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Vakur Behçet Ertürk",
               "schedule": []
             }
           ]
@@ -9936,7 +10045,7 @@
             },
             {
               "number": "3",
-              "instructor": "Süleyman Serdar Kozat",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -10122,7 +10231,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Fehmi Tanrısever",
               "schedule": []
             }
           ]
@@ -11828,6 +11937,17 @@
           ]
         },
         {
+          "code": "NSC 612",
+          "name": "Selected Topics in Neuroscience I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Timothea Toulopoulou",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "NSC 691",
           "name": "Pro-thesis Seminar II",
           "sections": [
@@ -11914,12 +12034,12 @@
             },
             {
               "number": "2",
-              "instructor": "Matthew Lloyd Gorman & Jonathan Payton",
+              "instructor": "Iain Board & Jonathan Payton",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Jennifer Lyn Schroeder",
+              "instructor": "Elif Hande Özer",
               "schedule": []
             },
             {
@@ -11939,12 +12059,12 @@
             },
             {
               "number": "7",
-              "instructor": "Matthew Lloyd Gorman",
+              "instructor": "Iain Board",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Jennifer Lyn Schroeder",
+              "instructor": "Elif Hande Özer",
               "schedule": []
             },
             {
@@ -11959,7 +12079,7 @@
             },
             {
               "number": "11",
-              "instructor": "Matthew Lloyd Gorman",
+              "instructor": "Iain Board",
               "schedule": []
             },
             {
@@ -11969,7 +12089,7 @@
             },
             {
               "number": "13",
-              "instructor": "Matthew Lloyd Gorman & Jonathan Payton",
+              "instructor": "Iain Board & Jonathan Payton",
               "schedule": []
             },
             {
@@ -11984,7 +12104,7 @@
             },
             {
               "number": "16",
-              "instructor": "Elif Hande Özer",
+              "instructor": "Iain Board",
               "schedule": []
             }
           ]
@@ -12710,8 +12830,19 @@
           "name": "Contemporary Turkish Politics",
           "sections": [
             {
-              "number": "2",
+              "number": "1",
               "instructor": "Zeki Sarıgil",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 312",
+          "name": "Health, Society and Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             }
           ]
@@ -12732,7 +12863,7 @@
           "name": "Governance and Public Policy ",
           "sections": [
             {
-              "number": "2",
+              "number": "1",
               "instructor": "Onur Özgöde",
               "schedule": []
             }
@@ -13314,11 +13445,6 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -13886,7 +14012,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Faysal Can Dakni",
               "schedule": []
             }
           ]
@@ -13897,7 +14023,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Deniz Ertürk",
               "schedule": []
             }
           ]
@@ -13925,12 +14051,48 @@
               "number": "4",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Gizem Gürer",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Gizem Gürer",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
         {
           "code": "THR 111",
           "name": "Phonetics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "THR 201",
+          "name": "Acting I",
           "sections": [
             {
               "number": "1",
@@ -13956,7 +14118,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Faysal Can Dakni",
               "schedule": []
             }
           ]
@@ -13978,7 +14140,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": []
             }
           ]
@@ -14022,7 +14184,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale & Faysal Can Dakni",
               "schedule": []
             }
           ]
