@@ -105,7 +105,7 @@ const prepareSchedules = (selectedCourses, filteredInstructors, filteredSections
     }
   });
 
-  return result;
+  return result.sort((a, b) => calculateScheduleGapScore(a) - calculateScheduleGapScore(b));
 };
 
 function displayCourses(dept, selectedDepartment) {
@@ -172,4 +172,84 @@ function generateStructData(courses) {
   return jsonld;
 }
 
-export { prepareSchedules, displayCourses, generateStructData, stringForm, processGpa, calculateGrade };
+const calculateScheduleGapScore = (schedule) => {
+  if (!schedule.timeslots || Object.keys(schedule.timeslots).length === 0) {
+    return Infinity; 
+  }
+
+  const occupiedSlots = Object.values(schedule.timeslots)
+    .map(timeslot => timeslot.classroom.slot)
+    .sort((a, b) => a - b);
+
+  if (occupiedSlots.length <= 1) {
+    return 0;
+  }
+
+  
+  const DAYS_PER_WEEK = 7;
+  const slotsByDay = {};
+  
+  occupiedSlots.forEach(slot => {
+    const day = slot % DAYS_PER_WEEK; 
+    const timePeriod = Math.floor(slot / DAYS_PER_WEEK); 
+    
+    if (!slotsByDay[day]) {
+      slotsByDay[day] = [];
+    }
+    slotsByDay[day].push(timePeriod);
+  });
+
+  let totalGapPenalty = 0;
+  let totalDays = Object.keys(slotsByDay).length;
+
+  Object.values(slotsByDay).forEach(dayTimeSlots => {
+    dayTimeSlots.sort((a, b) => a - b);
+    
+    for (let i = 1; i < dayTimeSlots.length; i++) {
+      const gap = dayTimeSlots[i] - dayTimeSlots[i-1] - 1; // Gap size (0 = consecutive time periods)
+      if (gap > 0) {
+        // Exponential penalty for larger gaps between time periods
+        totalGapPenalty += Math.pow(gap, 2);
+      }
+    }
+  });
+
+  const daySpreadPenalty = totalDays > 4 ? (totalDays - 4) * 10 : 0;
+  
+  return totalGapPenalty + daySpreadPenalty;
+};
+
+const findOptimalSchedule = (schedules) => {
+  if (!schedules || schedules.length === 0) {
+    return null;
+  }
+
+  if (schedules.length === 1) {
+    return schedules[0];
+  }
+
+  
+  const schedulesWithScores = schedules.map(schedule => ({
+    schedule,
+    gapScore: calculateScheduleGapScore(schedule)
+  }));
+
+  schedulesWithScores.sort((a, b) => a.gapScore - b.gapScore);
+  
+  return schedulesWithScores[0].schedule;
+};
+
+export { prepareSchedules, displayCourses, generateStructData, stringForm, processGpa, calculateGrade, calculateScheduleGapScore, findOptimalSchedule };
+
+
+/*        Mon Tue Wed Thu Fri Sat Sun
+  8:30    0   1   2   3   4   5   6
+  9:30    7   8   9  10  11  12  13
+  10:30  14  15  16  17  18  19  20
+  11:30  21  22  23  24  25  26  27
+  12:30  28  29  30  31  32  33  34
+  13:30  35  36  37  38  39  40  41
+  14:30  42  43  44  45  46  47  48
+  15:30  49  50  51  52  53  54  55
+  16:30  56  57  58  59  60  61  62
+  */
