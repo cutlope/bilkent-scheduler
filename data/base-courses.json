@@ -765,6 +765,17 @@
           ]
         },
         {
+          "code": "CHEM 399",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilge Baytekin",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "CHEM 450",
           "name": "Applied Quantum Chemistry",
           "sections": [
@@ -1515,17 +1526,6 @@
           ]
         },
         {
-          "code": "COMD 514",
-          "name": "Identity Space and Image",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burcu Baykan",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "COMD 517",
           "name": "Topics in Media Studies",
           "sections": [
@@ -2048,6 +2048,696 @@
             {
               "number": "2",
               "instructor": "Hamdi Murat Yıldırım",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ECON": {
+      "courses": [
+        {
+          "code": "ECON 101",
+          "name": "Introduction to Microeconomics",
+          "sections": [
+            {
+              "number": "2",
+              "instructor": "Tarık Kara",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Tarık Kara",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Tarık Kara",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Tarık Kara",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Tarık Kara",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Arda Gitmez",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Arda Gitmez",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Arda Gitmez",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Arda Gitmez",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Arda Gitmez",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 102",
+          "name": "Introduction to Macroeconomics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fatma Taşkın",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Fatma Taşkın",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Fatma Taşkın",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Fatma Taşkın",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Fatma Taşkın",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Fatma Taşkın",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Fatma Taşkın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 103",
+          "name": "Principles of Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Güneş Karamullaoğlu",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Nazende Özkaramete Coşkun",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Nazende Özkaramete Coşkun",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Fatma Sıla Erikci",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 107",
+          "name": "Principles of Microeconomics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Eda Gürel",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Çağla Ökten",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Kevin Edward Hasker",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Hakan Berument",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Bahar Onar",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Nazende Özkaramete Coşkun",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Nazende Özkaramete Coşkun",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 108",
+          "name": "Principles of Macroeconomics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilin Neyaptı",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Türkan Mine Kara",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Bahar Onar",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Bahar Onar",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Bahar Onar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 203",
+          "name": "Microeconomics: Competitive Markets",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tarık Kara",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Changwoo Park",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 204",
+          "name": "Microeconomics: Strategic Interactions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kemal Yıldız",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Nuh Aygün Dalkıran",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 206",
+          "name": "Macroeconomics: Growth",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hüseyin Çağrı Sağlam",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Özlem Kına",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 207",
+          "name": "Economic Theory for Engineers",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hakan Berument",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Talat Şenocak",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Mehmet Özer",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 221",
+          "name": "Probability and Statistical Distributions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 222",
+          "name": "Statistical Estimation and Inference",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 225",
+          "name": "Mathematics for Economists",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Talat Şenocak",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Talat Şenocak",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 301",
+          "name": "Econometrics ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Taner Yiğit",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Taner Yiğit",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Seda Meyveci Doğanay",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 321",
+          "name": "Financial Institutions and Markets",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçin Kısacıkoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 322",
+          "name": "Monetary Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ali Hakan Kara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 331",
+          "name": "International Trade",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fitnat Banu Demir",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 363",
+          "name": "Development of Economic Thought",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Türkan Mine Kara",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Türkan Mine Kara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 399",
+          "name": "Summer Training ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 409",
+          "name": "Contemporary Issues in Turkish Economy ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ali Hakan Kara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 432",
+          "name": "Turkish and World Economy Between Industrial Revolution and 1950",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Ferhat Emil",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 433",
+          "name": "Industrial Organization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kevin Edward Hasker",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 437",
+          "name": "Political Economy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Arda Gitmez",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 439",
+          "name": "Game Theory ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nuh Aygün Dalkıran",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 449",
+          "name": "Data Science with Economic Applications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Doğa Demirhan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 455",
+          "name": "Institutions and Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilin Neyaptı",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 458",
+          "name": "Labor Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağla Ökten",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 465",
+          "name": "Economic Regulation and Competition in Digital Markets",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Ömür Paşaoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 503",
+          "name": "Microeconomic Theory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emin Karagözoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 505",
+          "name": "Macroeconomic Theory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hüseyin Çağrı Sağlam",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 509",
+          "name": "Probability and Statistics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tarık Kara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 515",
+          "name": "Mathematics for Economists I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Talat Şenocak",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 569",
+          "name": "Behavioral Policymaking and Impact Evaluation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şule Alan Crossley",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 575",
+          "name": "Monetary Economics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçin Kısacıkoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 591",
+          "name": "Masters Pre-Thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 595",
+          "name": "Research Paper I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 691",
+          "name": "Ph.D. Pre-Thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 695",
+          "name": "Research Methods in Economics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -3251,12 +3941,12 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Sercan Filiz",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Sercan Filiz",
               "schedule": []
             }
           ]
@@ -3527,7 +4217,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "H. Altay Güvenir & Yiğit Karpat & Mehmet Alper Kutay",
+              "instructor": "Özgür Tolga Baycan & Jülide Akşiyote Görür & Yiğit Karpat & Mehmet Alper Kutay",
               "schedule": []
             }
           ]
@@ -4012,28 +4702,6 @@
           ]
         },
         {
-          "code": "HART 333",
-          "name": "Ancient Greek III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 343",
-          "name": "Latin III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "HART 372",
           "name": "Hittite I",
           "sections": [
@@ -4166,34 +4834,12 @@
           ]
         },
         {
-          "code": "HART 553",
-          "name": "Ancient Greek III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "HART 563",
           "name": "Latin I",
           "sections": [
             {
               "number": "1",
               "instructor": "N. İlgi Gerçek",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 583",
-          "name": "Latin III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -4272,7 +4918,7 @@
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Mustafa Özgür Elmacıoğlu",
               "schedule": []
             },
             {
@@ -5501,6 +6147,455 @@
     }
   },
   {
+    "IE": {
+      "courses": [
+        {
+          "code": "IE 102",
+          "name": "A Process Outlook for Industrial Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Selin Kocaman",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşe Selin Kocaman",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 202",
+          "name": "Introduction to Modeling and Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oya Karaşan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Oya Karaşan",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Oya Karaşan",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Oya Karaşan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 272",
+          "name": "Manufacturing Processes and Operations Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat & Meriç Ekiciler",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Yiğit Karpat & Meriç Ekiciler",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 299",
+          "name": "Summer Training I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 303",
+          "name": "Modeling and Methods in Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşenur Karagöz",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 324",
+          "name": "Simulation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emre Uzun",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 325",
+          "name": "Stochastic Models",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ülkü Gürler",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ülkü Gürler",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Özlem Çavuş İyigün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 342",
+          "name": "Engineering Economic Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Deniz Akkaya",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Deniz Akkaya",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "İbrahim Akgün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 375",
+          "name": "Production Planning",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nesim Kohen Erkip",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Nesim Kohen Erkip",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 376",
+          "name": "Production Information Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Selim Aktürk",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Selim Aktürk",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 399",
+          "name": "Summer Training II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Çavuş İyigün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 400",
+          "name": "Principles of Engineering Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 424",
+          "name": "Introduction to the Concepts and Dynamics of Innovation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bora Dilik",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 432",
+          "name": "Quantitative Risk Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Çavuş İyigün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 440",
+          "name": "Introduction to Financial Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağın Ararat",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 448",
+          "name": "Financial Issues in Engineering Projects",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Semih Ergür",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Hasan Semih Ergür",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 451",
+          "name": "Applied Data Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Savaş Dayanık",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 457",
+          "name": "Sustainable Operations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emre Nadar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 467",
+          "name": "Emerging Trends in Manufacturing ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 468",
+          "name": "Pricing and Revenue Optimization ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Alper Şen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 469",
+          "name": "Industrial Applications of Operations Research",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emre Uzun",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 477",
+          "name": "Systems Design - Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Savaş Dayanık",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Emre Nadar",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Emre Uzun",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 479",
+          "name": "Distribution Logistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bahar Yetiş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 490",
+          "name": "Introduction to Research in IE and OR I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 491",
+          "name": "Introduction to Research in IE and OR II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 500",
+          "name": "Mathematics of Operations Research",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 505",
+          "name": "Mathematical Programming ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Çelebi Pınar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 515",
+          "name": "Convex Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 523",
+          "name": "Probabilistic Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağın Ararat",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 590",
+          "name": "Research Topics in IE and OR",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 690",
+          "name": "Advanced Research Topics in IE and OR",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "IR": {
       "courses": [
         {
@@ -5804,17 +6899,6 @@
           ]
         },
         {
-          "code": "IR 509",
-          "name": "Pre-thesis Seminar",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "IR 513",
           "name": "Game Theory and International Politics",
           "sections": [
@@ -5828,17 +6912,6 @@
         {
           "code": "IR 599",
           "name": "Master's Thesis",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "IR 690",
-          "name": "Pre-Thesis Seminar",
           "sections": [
             {
               "number": "1",
@@ -5882,7 +6955,7 @@
         },
         {
           "code": "IR 4135",
-          "name": "China in the Global Politics",
+          "name": "China in Global Politics",
           "sections": [
             {
               "number": "1",
@@ -6471,6 +7544,17 @@
           ]
         },
         {
+          "code": "LAW 448",
+          "name": "Moot Court II ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Dicle Ergin",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "LAW 512",
           "name": "Medical Law (in Turkish)",
           "sections": [
@@ -6685,13 +7769,8 @@
               "schedule": []
             },
             {
-              "number": "3",
-              "instructor": "Betül Bostan",
-              "schedule": []
-            },
-            {
               "number": "4",
-              "instructor": "Asena Çağığan",
+              "instructor": "Betül Bostan",
               "schedule": []
             },
             {
@@ -6749,12 +7828,12 @@
             },
             {
               "number": "5",
-              "instructor": "Tuba Demirhan",
+              "instructor": "İlknur Garbioğlu",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Çağla Keskin",
+              "instructor": "Pierre Yves Vandermeersch",
               "schedule": []
             }
           ]
@@ -6763,11 +7842,6 @@
           "code": "LNG 132",
           "name": "German II",
           "sections": [
-            {
-              "number": "1",
-              "instructor": "Pierre Yves Vandermeersch",
-              "schedule": []
-            },
             {
               "number": "2",
               "instructor": "Pierre Yves Vandermeersch",
@@ -6778,17 +7852,6 @@
         {
           "code": "LNG 133",
           "name": "German III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "İlknur Garbioğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 134",
-          "name": "Intermediate German I",
           "sections": [
             {
               "number": "1",
@@ -6862,17 +7925,6 @@
           ]
         },
         {
-          "code": "LNG 163",
-          "name": "Russian III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Gülnara Tanrıkulu",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "LNG 171",
           "name": "Turkish I",
           "sections": [
@@ -6921,17 +7973,6 @@
           ]
         },
         {
-          "code": "LNG 174",
-          "name": "Intermediate Turkish I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nurbanu Aydın",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "LNG 178",
           "name": "Advanced Turkish I",
           "sections": [
@@ -6959,28 +8000,6 @@
           ]
         },
         {
-          "code": "LNG 231",
-          "name": "Korean I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Derya Çelik Işık",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 232",
-          "name": "Korean II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Derya Çelik Işık",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "LNG 241",
           "name": "Japanese I",
           "sections": [
@@ -6996,17 +8015,6 @@
             },
             {
               "number": "3",
-              "instructor": "Masumi Hiratsuka",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 242",
-          "name": "Japanese II",
-          "sections": [
-            {
-              "number": "1",
               "instructor": "Masumi Hiratsuka",
               "schedule": []
             }
@@ -8278,6 +9286,11 @@
               "number": "12",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -8729,6 +9742,11 @@
               "number": "2",
               "instructor": "Greta Adalheid Feeney",
               "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Greta Adalheid Feeney",
+              "schedule": []
             }
           ]
         },
@@ -8820,6 +9838,11 @@
             },
             {
               "number": "2",
+              "instructor": "Onur Türkmen",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Onur Türkmen",
               "schedule": []
             }
@@ -9047,6 +10070,17 @@
           ]
         },
         {
+          "code": "MSC 426",
+          "name": "Conducting III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Onur Erdem",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 431",
           "name": "Instrument VII",
           "sections": [
@@ -9149,7 +10183,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burak Onur Erdem",
               "schedule": []
             }
           ]
@@ -9288,17 +10322,6 @@
             {
               "number": "1",
               "instructor": "Aykut Erbaş",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSN 530",
-          "name": "Biomolecular Modeling and Simulation",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Amirhoushang Bahrami",
               "schedule": []
             }
           ]
@@ -10970,7 +11993,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
+              "instructor": "Kaan Kerman & Demet Özer & Nilsu Atılgan",
               "schedule": []
             }
           ]
@@ -10981,7 +12004,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
+              "instructor": "Kaan Kerman & Demet Özer & Nilsu Atılgan",
               "schedule": []
             }
           ]
@@ -11327,6 +12350,11 @@
               "number": "1",
               "instructor": "Elif Denizci",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -11511,7 +12539,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Jason Edward Hale",
+              "instructor": "Ahmet Sinan Pekinton & Jason Edward Hale & Berkay Şekerci",
               "schedule": []
             }
           ]
@@ -11639,7 +12667,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Faysal Can Dakni",
+              "instructor": "Halim Şener & Faysal Can Dakni",
               "schedule": []
             }
           ]
@@ -11786,7 +12814,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Büşra Kurt Uçar",
+              "instructor": "Büşra Kurt Uçar & Barışcan Yılmaz",
               "schedule": []
             },
             {
