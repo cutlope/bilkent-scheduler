@@ -2649,17 +2649,6 @@
           ]
         },
         {
-          "code": "CHEM 521",
-          "name": "Surface Chemistry I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Şefik Süzer",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "CHEM 537",
           "name": "Supramolecular Chemistry",
           "sections": [
@@ -26216,7 +26205,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Zeynep Önder",
+              "instructor": "Zeynep Önder & Gözde Esen",
               "schedule": []
             }
           ]
@@ -28421,18 +28410,8 @@
               "schedule": []
             },
             {
-              "number": "2",
-              "instructor": "Adelya Azikeyeva Ateşoğlu",
-              "schedule": []
-            },
-            {
               "number": "3",
               "instructor": "Adelya Azikeyeva Ateşoğlu",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -28474,28 +28453,6 @@
                   "classroom": "P-242"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "MSC 154",
-          "name": "Bilkent Chorale II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burak Onur Erdem",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 155",
-          "name": "Diction for Singers: English and Italian",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Greta Adalheid Feeney",
-              "schedule": []
             }
           ]
         },
@@ -28628,17 +28585,6 @@
                   "classroom": ""
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "MSC 204",
-          "name": "Symphony Orchestra IV",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Işın Metin",
-              "schedule": []
             }
           ]
         },
@@ -28865,17 +28811,6 @@
           ]
         },
         {
-          "code": "MSC 254",
-          "name": "Bilkent Chorale IV",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burak Onur Erdem",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "MSC 271",
           "name": "Theory III: Modal Counterpoint",
           "sections": [
@@ -29021,27 +28956,6 @@
           ]
         },
         {
-          "code": "MSC 312",
-          "name": "Composition VI",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Onur Türkmen",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Onur Yıldırım",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "MSC 315",
           "name": "Score Reading I",
           "sections": [
@@ -29141,11 +29055,6 @@
             {
               "number": "1",
               "instructor": "Noriyoshi Murakami",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Süleyman İlham Oğlu Babakishizada",
               "schedule": []
             },
             {
@@ -29434,17 +29343,6 @@
                   "classroom": ""
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "MSC 454",
-          "name": "Bilkent Chorale VIII",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burak Onur Erdem",
-              "schedule": []
             }
           ]
         },
@@ -33641,6 +33539,472 @@
     }
   },
   {
+    "PREP": {
+      "courses": [
+        {
+          "code": "PREP 111",
+          "name": "Elementary ",
+          "sections": [
+            {
+              "number": "101",
+              "instructor": "Dilek Bilgiç & Zeynep Saçan",
+              "schedule": []
+            },
+            {
+              "number": "102",
+              "instructor": "Sema Kaya & Cemre Ece Kırcalı",
+              "schedule": []
+            },
+            {
+              "number": "103",
+              "instructor": "Merve Ersoy & Joseph Henry Louis Smith",
+              "schedule": []
+            },
+            {
+              "number": "104",
+              "instructor": "Zeynep Saçan & Ramsey David Klassen",
+              "schedule": []
+            },
+            {
+              "number": "105",
+              "instructor": "Sema Kaya & Ozan Ekici",
+              "schedule": []
+            },
+            {
+              "number": "106",
+              "instructor": "Alena Iriskulova & Joseph Henry Louis Smith",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 121",
+          "name": "Pre-intermediate",
+          "sections": [
+            {
+              "number": "101",
+              "instructor": "Zeynep Eken Kaptan & Merve Gürel",
+              "schedule": []
+            },
+            {
+              "number": "102",
+              "instructor": "Bilge Çöllüoğlu Yakar & Ramsey David Klassen",
+              "schedule": []
+            },
+            {
+              "number": "103",
+              "instructor": "Alena Iriskulova & Zafer Ali Ahmed",
+              "schedule": []
+            },
+            {
+              "number": "104",
+              "instructor": "Sema Kaya & Carlos Lopez Santamaria",
+              "schedule": []
+            },
+            {
+              "number": "105",
+              "instructor": "Ayşe Özmen Özdemir & Neşe Ayşe Çelik",
+              "schedule": []
+            },
+            {
+              "number": "106",
+              "instructor": "Özben Bozkaya & Yeşim Yeloğlu",
+              "schedule": []
+            },
+            {
+              "number": "107",
+              "instructor": "Neşe Ayşe Çelik & Seçil Chousein Oglu Canbaz",
+              "schedule": []
+            },
+            {
+              "number": "108",
+              "instructor": "Canan Suyolcu & Bilge Işıl Yazıcı",
+              "schedule": []
+            },
+            {
+              "number": "109",
+              "instructor": "Ümran Ölmez Board & Bilge Işıl Yazıcı",
+              "schedule": []
+            },
+            {
+              "number": "110",
+              "instructor": "Sibel Meryem Dilsiz & Duygu Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "111",
+              "instructor": "Ümran Ölmez Board & Sibel Meryem Dilsiz",
+              "schedule": []
+            },
+            {
+              "number": "112",
+              "instructor": "Neşe Ayşe Çelik & Halime Kural",
+              "schedule": []
+            },
+            {
+              "number": "113",
+              "instructor": "Özben Bozkaya & Fidan Bahar Altaş",
+              "schedule": []
+            },
+            {
+              "number": "114",
+              "instructor": "Yeşim Yeloğlu & Arlene Patricia Lahey",
+              "schedule": []
+            },
+            {
+              "number": "115",
+              "instructor": "Özben Bozkaya & Anthony James Scott",
+              "schedule": []
+            },
+            {
+              "number": "116",
+              "instructor": "Neşe Ayşe Çelik & Teresa Lynn Campbell",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 131",
+          "name": "Intermediate ",
+          "sections": [
+            {
+              "number": "101",
+              "instructor": "Nurdan Yeşil & Annelie Yvonne Johnson",
+              "schedule": []
+            },
+            {
+              "number": "102",
+              "instructor": "Sevda Çelik Barut & Annelie Yvonne Johnson",
+              "schedule": []
+            },
+            {
+              "number": "103",
+              "instructor": "Nazmiye Aslı Sağ & Özlem Sydney Turgut",
+              "schedule": []
+            },
+            {
+              "number": "104",
+              "instructor": "Funda Kamanlı & Nazmiye Aslı Sağ",
+              "schedule": []
+            },
+            {
+              "number": "105",
+              "instructor": "Elif Kantarcıoğlu & Esra Tünay",
+              "schedule": []
+            },
+            {
+              "number": "106",
+              "instructor": "Gamze Güner & Kamile Özkartal",
+              "schedule": []
+            },
+            {
+              "number": "107",
+              "instructor": "Gamze Güner & Neslihan Erbil",
+              "schedule": []
+            },
+            {
+              "number": "108",
+              "instructor": "Hande Işıl Işık & Mehvar Ergün Türkkan",
+              "schedule": []
+            },
+            {
+              "number": "109",
+              "instructor": "Merve Gürel & Cameron Justin Lee Timothy Beale",
+              "schedule": []
+            },
+            {
+              "number": "110",
+              "instructor": "Özlem Boztepe Ovayurt & Joseph Salvatore Aversano",
+              "schedule": []
+            },
+            {
+              "number": "111",
+              "instructor": "Ayşe Funda Gökçe & Zeliha Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "112",
+              "instructor": "Müge Dağlı & Zeliha Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "113",
+              "instructor": "Seda Özdoğan & Çiğdem Fıçıcı",
+              "schedule": []
+            },
+            {
+              "number": "114",
+              "instructor": "Emine Ebru Ecer & Samime Çelik Aktaş",
+              "schedule": []
+            },
+            {
+              "number": "115",
+              "instructor": "Ayşegül Utku & Katelyn Nicole Thomas",
+              "schedule": []
+            },
+            {
+              "number": "116",
+              "instructor": "Zeliha Yılmaz & Bilal İnci",
+              "schedule": []
+            },
+            {
+              "number": "117",
+              "instructor": "Ecem İşbilir & Kaan Cahit Dewan",
+              "schedule": []
+            },
+            {
+              "number": "118",
+              "instructor": "Ayşegül Utku & Matthew Christopher Payne",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 141",
+          "name": "Upper-intermediate",
+          "sections": [
+            {
+              "number": "101",
+              "instructor": "Nihal Kurtay & Pınar Demir Kalender",
+              "schedule": []
+            },
+            {
+              "number": "102",
+              "instructor": "Füsun Taşkesen & Pınar Demir Kalender",
+              "schedule": []
+            },
+            {
+              "number": "103",
+              "instructor": "Seda Özdoğan & Pınar Demir Kalender",
+              "schedule": []
+            },
+            {
+              "number": "104",
+              "instructor": "Nazan Aktürk & Efe Burak Yakar",
+              "schedule": []
+            },
+            {
+              "number": "105",
+              "instructor": "Mutlu Işıl Ergun & Sabriye Gür",
+              "schedule": []
+            },
+            {
+              "number": "106",
+              "instructor": "Pınar Demir Kalender & Micaela Kim Richter",
+              "schedule": []
+            },
+            {
+              "number": "107",
+              "instructor": "Özlem Mert Akkaya & Carey Jane Bohnenkamp",
+              "schedule": []
+            },
+            {
+              "number": "108",
+              "instructor": "Özlem Mert Akkaya & Nihan Kılıç",
+              "schedule": []
+            },
+            {
+              "number": "109",
+              "instructor": "Özlem Mert Akkaya & Serhan Bulanık",
+              "schedule": []
+            },
+            {
+              "number": "110",
+              "instructor": "Nazan Aktürk & James Dean Tressler",
+              "schedule": []
+            },
+            {
+              "number": "111",
+              "instructor": "Hatice İlknur Halıcı Yılmaz & Simon James Harvey Brunker",
+              "schedule": []
+            },
+            {
+              "number": "112",
+              "instructor": "Elif Şen & Kaan Cahit Dewan",
+              "schedule": []
+            },
+            {
+              "number": "113",
+              "instructor": "Hatice İlknur Halıcı Yılmaz & Daniele Perezin Mizuta",
+              "schedule": []
+            },
+            {
+              "number": "114",
+              "instructor": "Müge Erten & Özgür Taşkesen",
+              "schedule": []
+            },
+            {
+              "number": "115",
+              "instructor": "Seçil Koçal & Fatma Efser Civelekoğlu",
+              "schedule": []
+            },
+            {
+              "number": "116",
+              "instructor": "Fatma Gül Yıldırım & Adrian Liberty Crawford",
+              "schedule": []
+            },
+            {
+              "number": "117",
+              "instructor": "Fatma Efser Civelekoğlu & Steven Hobson",
+              "schedule": []
+            },
+            {
+              "number": "118",
+              "instructor": "Saliha Gürbüzdal & Görkem Aydın",
+              "schedule": []
+            },
+            {
+              "number": "119",
+              "instructor": "Emine Geçgil & Elif Eren",
+              "schedule": []
+            },
+            {
+              "number": "120",
+              "instructor": "Hollie Jade Şahin & Görkem Aydın",
+              "schedule": []
+            },
+            {
+              "number": "121",
+              "instructor": "Özgür Taşkesen & Bengü Cilalı",
+              "schedule": []
+            },
+            {
+              "number": "122",
+              "instructor": "Emine Geçgil & Elif Eren",
+              "schedule": []
+            },
+            {
+              "number": "123",
+              "instructor": "Gökçen Çolak & Adrian Liberty Crawford",
+              "schedule": []
+            },
+            {
+              "number": "124",
+              "instructor": "Gökçen Işık & Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "125",
+              "instructor": "Sevil Kultufan Kılıç & Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "126",
+              "instructor": "Elif Kaya & Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "127",
+              "instructor": "Ebru Atakurt & Barış Arpaç",
+              "schedule": []
+            },
+            {
+              "number": "128",
+              "instructor": "Hülya Akansel & Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "129",
+              "instructor": "Gökşen Çetin & Patrick Himmelspach",
+              "schedule": []
+            },
+            {
+              "number": "130",
+              "instructor": "Şule Şenel & Patrick Himmelspach",
+              "schedule": []
+            },
+            {
+              "number": "131",
+              "instructor": "Elif Kaya & Hülya Akansel & Travis Brent Dingler",
+              "schedule": []
+            },
+            {
+              "number": "132",
+              "instructor": "Gökşen Çetin & Katelyn Nicole Thomas",
+              "schedule": []
+            },
+            {
+              "number": "133",
+              "instructor": "Azra Uslu & Ecem Merve Pamuk",
+              "schedule": []
+            },
+            {
+              "number": "134",
+              "instructor": "Sevil Kultufan Kılıç & Ecem Merve Pamuk",
+              "schedule": []
+            },
+            {
+              "number": "135",
+              "instructor": "Şule Şenel & Elif Düşünceli Keleş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 155",
+          "name": "Pre-faculty ",
+          "sections": [
+            {
+              "number": "101",
+              "instructor": "Hilal Atlı & Buket Meryumoğlu",
+              "schedule": []
+            },
+            {
+              "number": "102",
+              "instructor": "Emine Ebru Ecer & Emine Zafer Nizam",
+              "schedule": []
+            },
+            {
+              "number": "103",
+              "instructor": "Pelin Yetkin & Joseph Henry Louis Smith",
+              "schedule": []
+            },
+            {
+              "number": "104",
+              "instructor": "Gülcan Kuyumcu & Harun Dislioğlu",
+              "schedule": []
+            },
+            {
+              "number": "105",
+              "instructor": "Hülya Can & İpek Hüyüklü",
+              "schedule": []
+            },
+            {
+              "number": "106",
+              "instructor": "İpek Hüyüklü & Kayla Marie Etherton",
+              "schedule": []
+            },
+            {
+              "number": "107",
+              "instructor": "Gülcan Kuyumcu & Harun Dislioğlu",
+              "schedule": []
+            },
+            {
+              "number": "108",
+              "instructor": "Clare Yalçın & Pelin Yetkin",
+              "schedule": []
+            },
+            {
+              "number": "109",
+              "instructor": "Hülya Can & Kayla Marie Etherton",
+              "schedule": []
+            },
+            {
+              "number": "110",
+              "instructor": "Hilal Atlı & Buket Meryumoğlu",
+              "schedule": []
+            },
+            {
+              "number": "111",
+              "instructor": "Emine Zafer Nizam & Barış Arpaç",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "PSYC": {
       "courses": [
         {
@@ -35684,7 +36048,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Barış Ak",
               "schedule": [
                 {
                   "slot": 1,
