@@ -4,9 +4,7 @@ on:
   schedule:
     - cron: 0 0 1 * *
     - cron: 0 0 10 * *
-    - cron: 0 0 16 * *
     - cron: 0 0 20 * *
-    - cron: 0 0 25 * *
     - cron: 0 0 30 * *
 
   workflow_dispatch: {}
@@ -15,6 +13,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Check out the repo
@@ -42,8 +42,6 @@ jobs:
         uses: nanzm/get-time-action@v1.1
         with:
           format: "DD-MM-YYYY"
-      - name: Pull Remote Changes
-        run: git pull
       - name: Commit Back Changed Data
         uses: stefanzweifel/git-auto-commit-action@master
         with:
