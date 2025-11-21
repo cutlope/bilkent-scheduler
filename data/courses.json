@@ -1238,6 +1238,42 @@
           ]
         },
         {
+          "code": "ARCH 252",
+          "name": "Construction and Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 16,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "ARCH 290",
           "name": "Summer Practice I",
           "sections": [
@@ -1465,6 +1501,50 @@
                 {
                   "slot": 60,
                   "classroom": "FF-Z10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "ARCH 302",
+          "name": "Architectural Design Studio IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
                 }
               ]
             }
@@ -3701,19 +3781,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "FF-217"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 9,
-                  "classroom": "FF-217"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 39,
-                  "classroom": "FF-217"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 46,
-                  "classroom": "FF-217(S)"
+                  "classroom": "FF-114(S)"
                 }
               ]
             },
@@ -3723,19 +3803,19 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "FF-217"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 23,
-                  "classroom": "FF-217"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 53,
-                  "classroom": "FF-217"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 60,
-                  "classroom": "FF-217(S)"
+                  "classroom": "FF-114(S)"
                 }
               ]
             }
@@ -4538,11 +4618,11 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "(S)"
+                  "classroom": "FF-114(S)"
                 },
                 {
                   "slot": 22,
-                  "classroom": ""
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 52,
@@ -6431,11 +6511,11 @@
                 },
                 {
                   "slot": 50,
-                  "classroom": "EE-214(S)"
+                  "classroom": "EE-214"
                 },
                 {
                   "slot": 57,
-                  "classroom": "EE-214"
+                  "classroom": "EE-214(S)"
                 }
               ]
             }
@@ -15382,7 +15462,7 @@
             },
             {
               "number": "58",
-              "instructor": "Setenay Tuncer",
+              "instructor": "Ayça Üner & Melanie Ann Kincl & Setenay Tuncer",
               "schedule": [
                 {
                   "slot": 3,
@@ -19086,19 +19166,19 @@
               "schedule": [
                 {
                   "slot": 0,
-                  "classroom": "FA-118"
+                  "classroom": "FB-310"
                 },
                 {
                   "slot": 7,
-                  "classroom": "FA-118"
+                  "classroom": "FB-310"
                 },
                 {
                   "slot": 37,
-                  "classroom": "FA-118(S)"
+                  "classroom": "FB-310(S)"
                 },
                 {
                   "slot": 44,
-                  "classroom": "FA-118"
+                  "classroom": "FB-310"
                 }
               ]
             },
@@ -19108,19 +19188,19 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "FA-118"
+                  "classroom": "FB-310"
                 },
                 {
                   "slot": 21,
-                  "classroom": "FA-118"
+                  "classroom": "FB-310"
                 },
                 {
                   "slot": 51,
-                  "classroom": "FA-118"
+                  "classroom": "FB-310"
                 },
                 {
                   "slot": 58,
-                  "classroom": "FA-118(S)"
+                  "classroom": "FB-310(S)"
                 }
               ]
             },
@@ -29853,7 +29933,7 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "H-132"
+                  "classroom": "H-132(S)"
                 },
                 {
                   "slot": 23,
@@ -29865,7 +29945,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": "H-132(S)"
+                  "classroom": "H-132"
                 }
               ]
             }
@@ -35545,15 +35625,15 @@
               "schedule": [
                 {
                   "slot": 71,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 78,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 85,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 }
               ]
             }
@@ -35593,15 +35673,15 @@
               "schedule": [
                 {
                   "slot": 73,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 80,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 87,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 }
               ]
             }
@@ -40492,7 +40572,7 @@
             },
             {
               "number": "16",
-              "instructor": "Iain Board & Alexander Paul Moran",
+              "instructor": "Iain Board & John Woods III & Alexander Paul Moran",
               "schedule": [
                 {
                   "slot": 14,
@@ -40931,7 +41011,7 @@
             },
             {
               "number": "3",
-              "instructor": "Alexander Paul Moran",
+              "instructor": "John Woods III & Alexander Paul Moran",
               "schedule": [
                 {
                   "slot": 1,
