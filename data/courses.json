@@ -9124,19 +9124,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "CE-106(S)"
+                  "classroom": "C-CTISL2(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": "CE-106"
+                  "classroom": "C-CTISL2"
                 },
                 {
                   "slot": 38,
-                  "classroom": "CE-106"
+                  "classroom": "C-CTISL2"
                 },
                 {
                   "slot": 45,
-                  "classroom": "CE-106"
+                  "classroom": "C-CTISL2"
                 }
               ]
             }
@@ -27910,6 +27910,23 @@
             {
               "number": "1",
               "instructor": "Yiğit Karpat",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "IELTS": {
+      "courses": [
+        {
+          "code": "IELTS 100",
+          "name": "International English Language Testing System",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
