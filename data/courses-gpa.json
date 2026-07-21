@@ -247,6 +247,438 @@
     }
   },
   {
+    "ARCH": {
+      "courses": [
+        {
+          "code": "ARCH 201",
+          "name": "Architectural Design Studio I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Segah Sak",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.99"
+        }
+      ]
+    }
+  },
+  {
+    "CHEM": {
+      "courses": [
+        {
+          "code": "CHEM 101",
+          "name": "Principles of Chemistry I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fahri Alkan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ferdi Karadaş",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Halil İbrahim Okur",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.58"
+        },
+        {
+          "code": "CHEM 111",
+          "name": "Chemistry for the Society and Planet",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Todd James Cowen",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Todd James Cowen",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Halil İbrahim Okur",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.85"
+        },
+        {
+          "code": "CHEM 201",
+          "name": "Materials Science and Technology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilge Baytekin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Burak Aktekin",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Bilge Baytekin",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.39"
+        },
+        {
+          "code": "CHEM 211",
+          "name": "Analytical Chemistry I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Dağ",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.11"
+        },
+        {
+          "code": "CHEM 214",
+          "name": "Analytical Chemistry Laboratory II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.33"
+        },
+        {
+          "code": "CHEM 231",
+          "name": "Organic Chemistry I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilge Baytekin",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.13"
+        },
+        {
+          "code": "CHEM 233",
+          "name": "Principles of Organic Chemistry I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Engin Umut Akkaya",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.74"
+        },
+        {
+          "code": "CHEM 235",
+          "name": "Organic Chemistry Laboratory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilge Baytekin",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.90"
+        },
+        {
+          "code": "CHEM 323",
+          "name": "Physical Chemistry I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emrah Özensoy",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.77"
+        },
+        {
+          "code": "CHEM 341",
+          "name": "Inorganic Chemistry I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ferdi Karadaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.40"
+        },
+        {
+          "code": "CHEM 399",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilge Baytekin",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "CHEM 450",
+          "name": "Applied Quantum Chemistry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fahri Alkan",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.68"
+        },
+        {
+          "code": "CHEM 461",
+          "name": "Fundamentals of Biochemistry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Halil İbrahim Okur",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.58"
+        },
+        {
+          "code": "CHEM 491",
+          "name": "Senior Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.07"
+        },
+        {
+          "code": "CHEM 493",
+          "name": "Capstone Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.60"
+        },
+        {
+          "code": "CHEM 504",
+          "name": "Group Theory and its Chemical Applications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Dağ",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.36"
+        },
+        {
+          "code": "CHEM 537",
+          "name": "Supramolecular Chemistry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Engin Umut Akkaya",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.65"
+        },
+        {
+          "code": "CHEM 555",
+          "name": "Applied Quantum Chemistry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fahri Alkan",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.50"
+        },
+        {
+          "code": "CHEM 586",
+          "name": "Electrochemistry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.43"
+        },
+        {
+          "code": "CHEM 591",
+          "name": "Graduate Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "CHEM 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "CHEM 691",
+          "name": "Advanced Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "CHEM 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Ülgüt",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
+    "CI": {
+      "courses": [
+        {
+          "code": "CI 513",
+          "name": "Statistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sezai Kocabaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.57"
+        },
+        {
+          "code": "CI 514",
+          "name": "Curriculum Development and Evaluation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elanur Yılmaz Na",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.90"
+        },
+        {
+          "code": "CI 532",
+          "name": "Written Academic Discourse ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Sak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.73"
+        },
+        {
+          "code": "CI 542",
+          "name": "Principles of Instructional Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Armağan Ateşkan",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.74"
+        },
+        {
+          "code": "CI 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "CI 602",
+          "name": "Curriculum: Perspectives and Practice ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Alipaşa Ayas",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.95"
+        },
+        {
+          "code": "CI 605",
+          "name": "Educational Research Methods ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Alipaşa Ayas",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.71"
+        },
+        {
+          "code": "CI 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
     "COMD": {
       "courses": [
         {
@@ -314,26 +746,11 @@
             },
             {
               "number": "2",
-              "instructor": "Özen Baş",
+              "instructor": "Burak Özçetin",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Burak Özçetin",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Burak Özçetin",
-              "schedule": []
-            },
-            {
-              "number": "5",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "6",
               "instructor": "Staff",
               "schedule": []
             }
@@ -407,7 +824,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ufuk Önen",
               "schedule": []
             }
           ],
@@ -509,12 +926,12 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Deniz Erbil",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Deniz Erbil",
               "schedule": []
             },
             {
@@ -524,7 +941,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Deniz Erbil",
               "schedule": []
             },
             {
@@ -549,6 +966,11 @@
             },
             {
               "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
               "instructor": "Staff",
               "schedule": []
             }
@@ -617,7 +1039,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ufuk Önen",
               "schedule": []
             }
           ],
@@ -658,12 +1080,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Ayşenur Dal Tokdemir",
+              "instructor": "Deniz Erbil",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Emel Özdora",
+              "instructor": "Staff",
               "schedule": []
             },
             {
@@ -690,18 +1112,6 @@
             }
           ],
           "gpa": "3.45"
-        },
-        {
-          "code": "COMD 513",
-          "name": "Film and Genre",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Colleen Bevin Kennedy-Karpat",
-              "schedule": []
-            }
-          ],
-          "gpa": "3.62"
         },
         {
           "code": "COMD 517",
@@ -738,6 +1148,30 @@
             }
           ],
           "gpa": "3.73"
+        },
+        {
+          "code": "COMD 590",
+          "name": "Seminar in Research Topics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özen Baş",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "COMD 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özen Baş",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -929,6 +1363,23 @@
             }
           ],
           "gpa": "2.34"
+        },
+        {
+          "code": "CS 154",
+          "name": "Introduction to Web Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Serdar Bilici",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.70"
         },
         {
           "code": "CS 211",
@@ -1694,6 +2145,539 @@
     }
   },
   {
+    "ECON": {
+      "courses": [
+        {
+          "code": "ECON 101",
+          "name": "Introduction to Microeconomics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.27"
+        },
+        {
+          "code": "ECON 102",
+          "name": "Introduction to Macroeconomics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.95"
+        },
+        {
+          "code": "ECON 103",
+          "name": "Principles of Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.25"
+        },
+        {
+          "code": "ECON 107",
+          "name": "Principles of Microeconomics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.54"
+        },
+        {
+          "code": "ECON 108",
+          "name": "Principles of Macroeconomics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.39"
+        },
+        {
+          "code": "ECON 203",
+          "name": "Microeconomics: Competitive Markets",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.15"
+        },
+        {
+          "code": "ECON 204",
+          "name": "Microeconomics: Strategic Interactions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.36"
+        },
+        {
+          "code": "ECON 205",
+          "name": "Macroeconomics: Business Cycles",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.01"
+        },
+        {
+          "code": "ECON 206",
+          "name": "Macroeconomics: Growth",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.24"
+        },
+        {
+          "code": "ECON 207",
+          "name": "Economic Theory for Engineers",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.62"
+        },
+        {
+          "code": "ECON 221",
+          "name": "Probability and Statistical Distributions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.18"
+        },
+        {
+          "code": "ECON 222",
+          "name": "Statistical Estimation and Inference",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.21"
+        },
+        {
+          "code": "ECON 225",
+          "name": "Mathematics for Economists",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.07"
+        },
+        {
+          "code": "ECON 301",
+          "name": "Econometrics ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.73"
+        },
+        {
+          "code": "ECON 322",
+          "name": "Monetary Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.39"
+        },
+        {
+          "code": "ECON 331",
+          "name": "International Trade",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.56"
+        },
+        {
+          "code": "ECON 363",
+          "name": "Development of Economic Thought",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.25"
+        },
+        {
+          "code": "ECON 399",
+          "name": "Summer Training ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ECON 409",
+          "name": "Contemporary Issues in Turkish Economy ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.87"
+        },
+        {
+          "code": "ECON 432",
+          "name": "Turkish and World Economy Between Industrial Revolution and 1950",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.66"
+        },
+        {
+          "code": "ECON 455",
+          "name": "Institutions and Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.57"
+        },
+        {
+          "code": "ECON 458",
+          "name": "Labor Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.89"
+        },
+        {
+          "code": "ECON 477",
+          "name": "Economics of Disruptive Technologies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.17"
+        },
+        {
+          "code": "ECON 503",
+          "name": "Microeconomic Theory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.10"
+        },
+        {
+          "code": "ECON 505",
+          "name": "Macroeconomic Theory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.08"
+        },
+        {
+          "code": "ECON 509",
+          "name": "Probability and Statistics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.87"
+        },
+        {
+          "code": "ECON 515",
+          "name": "Mathematics for Economists I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.97"
+        },
+        {
+          "code": "ECON 575",
+          "name": "Monetary Economics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.75"
+        },
+        {
+          "code": "ECON 591",
+          "name": "Masters Pre-Thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ECON 595",
+          "name": "Research Paper I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ECON 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ECON 691",
+          "name": "Ph.D. Pre-Thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ECON 695",
+          "name": "Research Methods in Economics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.33"
+        },
+        {
+          "code": "ECON 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
+    "EDEB": {
+      "courses": [
+        {
+          "code": "EDEB 201",
+          "name": "Introduction to Turkish Fiction",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Kalpaklı",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Seda Uyanık Tanrıverdi",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.43"
+        }
+      ]
+    }
+  },
+  {
+    "EDU": {
+      "courses": [
+        {
+          "code": "EDU 101",
+          "name": "Educational Foundations I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elanur Yılmaz Na",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.80"
+        },
+        {
+          "code": "EDU 113",
+          "name": "Türkiye Geography, Geopolitics and History",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "4.00"
+        },
+        {
+          "code": "EDU 214",
+          "name": "Drama, Game and Physical Activities Education",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EDU 216",
+          "name": "Teaching Turkish (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EDU 221",
+          "name": "Community Service Practices",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sezai Kocabaş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EDU 305",
+          "name": "School Experience I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Armağan Ateşkan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EDU 313",
+          "name": "Teaching Mathematics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sezai Kocabaş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EDU 315",
+          "name": "Teaching Science and Environment",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elanur Yılmaz Na",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "EEE": {
       "courses": [
         {
@@ -2227,6 +3211,550 @@
     }
   },
   {
+    "ELIT": {
+      "courses": [
+        {
+          "code": "ELIT 139",
+          "name": "Introduction to Literary Studies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jonathan Coleman Williams",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Jonathan Coleman Williams",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.62"
+        },
+        {
+          "code": "ELIT 143",
+          "name": "Literature in its Contexts",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ceylan Köşker Bevington",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ceylan Köşker Bevington",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.63"
+        },
+        {
+          "code": "ELIT 227",
+          "name": "Poetry and Poetics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Apala Das",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Apala Das",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.29"
+        },
+        {
+          "code": "ELIT 273",
+          "name": "Medieval and Renaissance Literature",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ivana Bicak",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ivana Bicak",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.79"
+        },
+        {
+          "code": "ELIT 290",
+          "name": "Summer Training I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jonathan Coleman Williams",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ELIT 316",
+          "name": "Classical and Religious Backgrounds to English Literature",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ivana Bicak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.02"
+        },
+        {
+          "code": "ELIT 345",
+          "name": "The Nineteenth-Century British Novel",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ceylan Köşker Bevington",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.92"
+        },
+        {
+          "code": "ELIT 359",
+          "name": "Shakespeare",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.09"
+        },
+        {
+          "code": "ELIT 377",
+          "name": "Romantic Literature",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Çelikkol",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşe Çelikkol",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.99"
+        },
+        {
+          "code": "ELIT 390",
+          "name": "Summer Training II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jonathan Coleman Williams",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ELIT 395",
+          "name": "Literary Visions of Freedom ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Timothy Sean Wright",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.01"
+        },
+        {
+          "code": "ELIT 421",
+          "name": "Literature and Modernity",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Madeleine Erica Read",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Madeleine Erica Read",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.92"
+        },
+        {
+          "code": "ELIT 460",
+          "name": "Melancholic Life, Aristotle to Keats",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jonathan Coleman Williams",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.14"
+        },
+        {
+          "code": "ELIT 463",
+          "name": "Postcolonial Literature",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Timothy Sean Wright",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Timothy Sean Wright",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.09"
+        },
+        {
+          "code": "ELIT 480",
+          "name": "Literature and Psychology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Apala Das",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.56"
+        }
+      ]
+    }
+  },
+  {
+    "GE": {
+      "courses": [
+        {
+          "code": "GE 400",
+          "name": "Transdisciplinary Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.76"
+        }
+      ]
+    }
+  },
+  {
+    "GRA": {
+      "courses": [
+        {
+          "code": "GRA 131",
+          "name": "Design Tools and Techniques",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Atıl Kurttekin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Atıl Kurttekin",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Oğuz Akın",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.88"
+        },
+        {
+          "code": "GRA 201",
+          "name": "Graphic Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Marek Brzozowski",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Çağatay Alpay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.18"
+        },
+        {
+          "code": "GRA 207",
+          "name": "Conceptual Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çavlan Başarır",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.12"
+        },
+        {
+          "code": "GRA 209",
+          "name": "Graphic Design for Non-Majors",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Birsu Semra Çeltek",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.41"
+        },
+        {
+          "code": "GRA 211",
+          "name": "Typography I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Can İzzet Birand",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Erhan Tunalı",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Can İzzet Birand",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.85"
+        },
+        {
+          "code": "GRA 215",
+          "name": "Computer Graphics for Film and Television I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oğuz Akın",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.88"
+        },
+        {
+          "code": "GRA 217",
+          "name": "Motion Graphics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oğuz Akın",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Oğuz Akın",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.88"
+        },
+        {
+          "code": "GRA 218",
+          "name": "Essentials of Photography",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.56"
+        },
+        {
+          "code": "GRA 225",
+          "name": "Introduction to Visual Techniques",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağatay Alpay",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Çağatay Alpay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.01"
+        },
+        {
+          "code": "GRA 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çavlan Başarır",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "GRA 301",
+          "name": "Graphic Design III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Atıl Kurttekin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Çavlan Başarır",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.14"
+        },
+        {
+          "code": "GRA 335",
+          "name": "Computational Design Methods",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Efe Alpay",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.99"
+        },
+        {
+          "code": "GRA 337",
+          "name": "Visual Narrative",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çavlan Başarır",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.02"
+        },
+        {
+          "code": "GRA 341",
+          "name": "History of Graphic Art",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Birsu Semra Çeltek",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.04"
+        },
+        {
+          "code": "GRA 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Atıl Kurttekin",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "GRA 401",
+          "name": "Graphic Design V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erhan Tunalı",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Efe Alpay",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.96"
+        },
+        {
+          "code": "GRA 421",
+          "name": "Illustration I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Birsu Semra Çeltek",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Marek Brzozowski",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Marek Brzozowski",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.19"
+        }
+      ]
+    }
+  },
+  {
     "HART": {
       "courses": [
         {
@@ -2353,18 +3881,6 @@
           "gpa": "2.77"
         },
         {
-          "code": "HART 239",
-          "name": "Latin I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nebahat İlgi Gerçek",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.73"
-        },
-        {
           "code": "HART 305",
           "name": "Byzantine and Islamic Art and Archaeology",
           "sections": [
@@ -2395,6 +3911,17 @@
             {
               "number": "1",
               "instructor": "Benjamin Titus Irvine",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HART 357",
+          "name": "Akkadian I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nebahat İlgi Gerçek",
               "schedule": []
             }
           ]
@@ -2508,6 +4035,17 @@
           "gpa": "2.45"
         },
         {
+          "code": "HART 546",
+          "name": "Akkadian I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nebahat İlgi Gerçek",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "HART 551",
           "name": "Ancient Greek I",
           "sections": [
@@ -2518,18 +4056,6 @@
             }
           ],
           "gpa": "2.30"
-        },
-        {
-          "code": "HART 563",
-          "name": "Latin I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nebahat İlgi Gerçek",
-              "schedule": []
-            }
-          ],
-          "gpa": "1.53"
         },
         {
           "code": "HART 590",
@@ -2892,16 +4418,385 @@
     "IAED": {
       "courses": [
         {
-          "code": "IAED 396",
-          "name": "Architectural Photography ",
+          "code": "IAED 201",
+          "name": "Interior Design Studio I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Alper Küçük",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Meltem Al",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.67"
+        },
+        {
+          "code": "IAED 211",
+          "name": "Media for Representation ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekin Bayrak",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.61"
+        },
+        {
+          "code": "IAED 221",
+          "name": "Human Factors",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.52"
+        },
+        {
+          "code": "IAED 251",
+          "name": "Construction and Materials I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Merve Öner",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.26"
+        },
+        {
+          "code": "IAED 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekin Bayrak",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IAED 301",
+          "name": "Interior Design Studio III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nuri Cihan Kayaçetin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Pınar Sezginalp",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.82"
+        },
+        {
+          "code": "IAED 341",
+          "name": "Architectural Acoustics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Merve Öner",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.72"
+        },
+        {
+          "code": "IAED 351",
+          "name": "Detailing Studio",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Murat Özdamar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.89"
+        },
+        {
+          "code": "IAED 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekin Bayrak",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IAED 391",
+          "name": "Special Topics in Interior Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Egel",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.08"
+        },
+        {
+          "code": "IAED 401",
+          "name": "Interior Design Studio V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Murat Özdamar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Cem Dedekargınoğlu",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.90"
+        },
+        {
+          "code": "IAED 463",
+          "name": "History of Furniture",
           "sections": [
             {
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
-          "gpa": "2.78"
+          "gpa": "2.56"
+        },
+        {
+          "code": "IAED 464",
+          "name": "Issues and Themes in Industrial Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Murat Özdamar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IAED 481",
+          "name": "Product Detailing Studio",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.09"
+        },
+        {
+          "code": "IAED 501",
+          "name": "Graduate Studio I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yasemin Afacan",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.54"
+        },
+        {
+          "code": "IAED 511",
+          "name": "Research Methods I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.48"
+        },
+        {
+          "code": "IAED 524",
+          "name": "Construction of Design as a Social Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.73"
+        },
+        {
+          "code": "IAED 590",
+          "name": "Seminar in Research Topics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IAED 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IAED 690",
+          "name": "Seminar in Advanced Research Topics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IAED 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -3364,6 +5259,478 @@
             }
           ],
           "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
+    "IR": {
+      "courses": [
+        {
+          "code": "IR 101",
+          "name": "Introduction to World Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Eliza Gheorghe",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Eliza Gheorghe",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.25"
+        },
+        {
+          "code": "IR 205",
+          "name": "Diplomatic History ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Samuel John Hirst",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.24"
+        },
+        {
+          "code": "IR 214",
+          "name": "Global Environmental Issues",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tore Fougner",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.59"
+        },
+        {
+          "code": "IR 227",
+          "name": "Research Methods in International Relations ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Zarplı",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ekrem Taha Başer",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.28"
+        },
+        {
+          "code": "IR 236",
+          "name": "20th Century World Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.43"
+        },
+        {
+          "code": "IR 303",
+          "name": "International Law ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tuğba  Bayar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Can Öztaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.02"
+        },
+        {
+          "code": "IR 305",
+          "name": "International Organizations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tuğba  Bayar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Tuğba  Bayar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.08"
+        },
+        {
+          "code": "IR 333",
+          "name": "Foreign Policy Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Esra Çuhadar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.69"
+        },
+        {
+          "code": "IR 335",
+          "name": "International Relations Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Crystal Marie Whetstone",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.66"
+        },
+        {
+          "code": "IR 338",
+          "name": "International Political Economy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tore Fougner",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Seçkin Köstem",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Chae Eun Cho",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.36"
+        },
+        {
+          "code": "IR 350",
+          "name": "Negotiation and Mediation in Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Esra Çuhadar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.08"
+        },
+        {
+          "code": "IR 358",
+          "name": "International Security",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tudor Andrei Onea",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.82"
+        },
+        {
+          "code": "IR 399",
+          "name": "Summer Training",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekrem Taha Başer",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IR 413",
+          "name": "Game Theory and International Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekrem Taha Başer",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.68"
+        },
+        {
+          "code": "IR 434",
+          "name": "Selected Topics in International Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Can Öztaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.73"
+        },
+        {
+          "code": "IR 439",
+          "name": "Turkish Foreign Policy ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Can Öztaş",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Can Öztaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.76"
+        },
+        {
+          "code": "IR 464",
+          "name": "History of the Cold War",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Samuel John Hirst",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.13"
+        },
+        {
+          "code": "IR 501",
+          "name": "International Relations Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Crystal Marie Whetstone",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.66"
+        },
+        {
+          "code": "IR 509",
+          "name": "Pre-thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Crystal Marie Whetstone",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IR 513",
+          "name": "Game Theory and International Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekrem Taha Başer",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.79"
+        },
+        {
+          "code": "IR 522",
+          "name": "Foreign Policy Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Özdamar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IR 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Crystal Marie Whetstone",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IR 621",
+          "name": "Current Debates in International Relations Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Crystal Marie Whetstone",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.76"
+        },
+        {
+          "code": "IR 690",
+          "name": "Pre-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Crystal Marie Whetstone",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IR 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Crystal Marie Whetstone",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "IR 4101",
+          "name": "Global Authoritarianism",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Dain Yoo",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.96"
+        },
+        {
+          "code": "IR 4115",
+          "name": "Turkey's International Relations and the Middle East",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tuğba  Bayar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IR 4127",
+          "name": "Citizenship and Identity in the European Union",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.63"
+        },
+        {
+          "code": "IR 4132",
+          "name": "Grand Strategy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tudor Andrei Onea",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.03"
+        },
+        {
+          "code": "IR 4135",
+          "name": "China in Global Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağla Demir",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.54"
+        },
+        {
+          "code": "IR 4136",
+          "name": "Data Analysis and International Relations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Chae Eun Cho",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IR 5120",
+          "name": "Topics in International Security",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Zarplı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.80"
         }
       ]
     }
@@ -4019,12 +6386,12 @@
             },
             {
               "number": "12",
-              "instructor": "Deniz Yılmaz",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Deniz Yılmaz",
               "schedule": []
             },
             {
@@ -4456,27 +6823,64 @@
     "MBG": {
       "courses": [
         {
+          "code": "MBG 101",
+          "name": "Biology I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Volkan Yazar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.85"
+        },
+        {
           "code": "MBG 110",
           "name": "Introduction to Modern Biology",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ergül Dilan Çelebi",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Pınar Önal",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Ergül Dilan Çelebi",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Volkan Yazar",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Fulya Türker",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "İlyas Chachoua",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Ergül Dilan Çelebi",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Ergül Dilan Çelebi",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Fulya Türker",
               "schedule": []
             }
           ],
@@ -4494,7 +6898,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Orçun Koray Çelebi",
               "schedule": []
             },
             {
@@ -4523,6 +6927,89 @@
           "gpa": "2.74"
         },
         {
+          "code": "ME 211",
+          "name": "Thermo-Fluids Engineering I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Yegan Oyman",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Emine Yegan Oyman",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Emine Yegan Oyman",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Emine Yegan Oyman",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.88"
+        },
+        {
+          "code": "ME 231",
+          "name": "Mechanics and Materials I ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ali Javili",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ali Javili",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Ali Javili",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Ali Javili",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.55"
+        },
+        {
+          "code": "ME 299",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ME 341",
+          "name": "Dynamics and Control I ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ata Dönmez",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ata Dönmez",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.04"
+        },
+        {
           "code": "ME 362",
           "name": "Finite Elements",
           "sections": [
@@ -4533,6 +7020,255 @@
             }
           ],
           "gpa": "2.90"
+        },
+        {
+          "code": "ME 384",
+          "name": "Mechatronic Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Özcan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Onur Özcan",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.59"
+        },
+        {
+          "code": "ME 399",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ME 405",
+          "name": "Machine Learning for Mechanical Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orçun Koray Çelebi",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.40"
+        },
+        {
+          "code": "ME 432",
+          "name": "Applied Thermodynamics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Barbaros Çetin",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.63"
+        },
+        {
+          "code": "ME 442",
+          "name": "Machinery Dynamics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.73"
+        },
+        {
+          "code": "ME 443",
+          "name": "Machine Elements",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.33"
+        },
+        {
+          "code": "ME 445",
+          "name": "Multiscale Materials Modeling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlker Temizer",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ME 471",
+          "name": "Advanced System Modeling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.72"
+        },
+        {
+          "code": "ME 481",
+          "name": "Mechanical Engineering Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Barbaros Çetin",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Barbaros Çetin",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.56"
+        },
+        {
+          "code": "ME 488",
+          "name": "Systems Engineering and Product Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.37"
+        },
+        {
+          "code": "ME 490",
+          "name": "Undergraduate Research in ME",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.97"
+        },
+        {
+          "code": "ME 501",
+          "name": "Mathematical Techniques in Mechanical Engineering ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.16"
+        },
+        {
+          "code": "ME 505",
+          "name": "Machine Learning for Mechanical Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orçun Koray Çelebi",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.86"
+        },
+        {
+          "code": "ME 571",
+          "name": "Advanced System Modeling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.27"
+        },
+        {
+          "code": "ME 588",
+          "name": "Systems Engineering and Product Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.55"
+        },
+        {
+          "code": "ME 590",
+          "name": "Mechanical Engineering Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ME 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlker Temizer",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ME 657",
+          "name": "Nano/Micro Manufacturing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Yegan Oyman",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.71"
+        },
+        {
+          "code": "ME 690",
+          "name": "Mechanical Engineering Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "ME 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlker Temizer",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -4647,6 +7383,18 @@
           "gpa": "3.86"
         },
         {
+          "code": "PHYS 180",
+          "name": "Conceptual Physics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.25"
+        },
+        {
           "code": "PHYS 211",
           "name": "Waves and Optics",
           "sections": [
@@ -4657,18 +7405,6 @@
             }
           ],
           "gpa": "2.61"
-        },
-        {
-          "code": "PHYS 252",
-          "name": "Introductory Astronomy",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ],
-          "gpa": "3.11"
         },
         {
           "code": "PHYS 291",
@@ -4746,6 +7482,18 @@
             }
           ],
           "gpa": "2.76"
+        },
+        {
+          "code": "PHYS 438",
+          "name": "Atomic Molecular and Optical Physics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.34"
         },
         {
           "code": "PHYS 491",
@@ -5298,6 +8046,120 @@
     }
   },
   {
+    "TEFL": {
+      "courses": [
+        {
+          "code": "TEFL 501",
+          "name": "Second Language Acquisition",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Fatma Şafak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.70"
+        },
+        {
+          "code": "TEFL 521",
+          "name": "EFL Methodology I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Sak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.79"
+        },
+        {
+          "code": "TEFL 531",
+          "name": "Research Methods in Linguistics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Fatma Şafak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.03"
+        },
+        {
+          "code": "TEFL 532",
+          "name": "Research Methods in Linguistics II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.51"
+        },
+        {
+          "code": "TEFL 550",
+          "name": "Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "TEFL 551",
+          "name": "Research Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Fatma Şafak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.82"
+        },
+        {
+          "code": "TEFL 554",
+          "name": "Thesis Writing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "TEFL 555",
+          "name": "Written Academic Discourse",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Sak",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.31"
+        },
+        {
+          "code": "TEFL 556",
+          "name": "Trends and Developments in Applied Linguistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.53"
+        }
+      ]
+    }
+  },
+  {
     "THM": {
       "courses": [
         {
@@ -5577,7 +8439,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": []
             }
           ],
@@ -5601,7 +8463,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Faysal Can Dakni",
               "schedule": []
             }
           ],
@@ -5618,6 +8480,38 @@
             }
           ],
           "gpa": "3.82"
+        },
+        {
+          "code": "THR 110",
+          "name": "Introduction to Theatre History",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Banu Paksoy",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Emine Banu Paksoy",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Emine Banu Paksoy",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Gizem Gürer",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Gizem Gürer",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.29"
         },
         {
           "code": "THR 111",
@@ -5661,7 +8555,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Faysal Can Dakni",
               "schedule": []
             }
           ],
@@ -5673,7 +8567,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Gizem Gürer",
               "schedule": []
             }
           ],
@@ -5692,28 +8586,28 @@
           "gpa": "3.53"
         },
         {
+          "code": "THR 327",
+          "name": "History of Theater III: 20th Century",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gizem Gürer",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.30"
+        },
+        {
           "code": "THR 331",
           "name": "Textual Interpretation and Analysis I",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Emine Banu Paksoy",
               "schedule": []
             }
           ],
           "gpa": "3.26"
-        },
-        {
-          "code": "THR 431",
-          "name": "Textual Interpretation and Analysis III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ],
-          "gpa": "3.21"
         },
         {
           "code": "THR 451",
@@ -5721,7 +8615,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": []
             }
           ],
@@ -5991,6 +8885,36 @@
             }
           ],
           "gpa": "3.08"
+        }
+      ]
+    }
+  },
+  {
+    "TURK": {
+      "courses": [
+        {
+          "code": "TURK 101",
+          "name": "Turkish I",
+          "sections": [
+            {
+              "number": "100",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.31"
+        },
+        {
+          "code": "TURK 102",
+          "name": "Turkish II",
+          "sections": [
+            {
+              "number": "100",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.45"
         }
       ]
     }
