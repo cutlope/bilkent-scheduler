@@ -981,7 +981,7 @@
         },
         {
           "code": "COMD 103",
-          "name": "Integrated Visual Communication",
+          "name": "Integrated Technologies and Artificial Intelligence",
           "sections": [
             {
               "number": "1",
@@ -1881,12 +1881,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Cem Tekin",
+              "instructor": "Ezhan Karaşan",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Ezhan Karaşan",
+              "instructor": "Cem Tekin",
               "schedule": []
             }
           ],
@@ -2283,7 +2283,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.57"
+          "gpa": "2.58"
         },
         {
           "code": "CTIS 163",
@@ -2339,7 +2339,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.38"
+          "gpa": "2.40"
         },
         {
           "code": "CTIS 186",
@@ -2491,7 +2491,7 @@
               "schedule": []
             }
           ],
-          "gpa": "1.98"
+          "gpa": "2.00"
         },
         {
           "code": "CTIS 285",
@@ -2923,16 +2923,11 @@
             },
             {
               "number": "3",
-              "instructor": "Taner Yiğit",
-              "schedule": []
-            },
-            {
-              "number": "4",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "5",
+              "number": "4",
               "instructor": "Staff",
               "schedule": []
             },
@@ -2993,7 +2988,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.36"
+          "gpa": "2.25"
         },
         {
           "code": "ECON 205",
@@ -3160,7 +3155,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.07"
+          "gpa": "2.06"
         },
         {
           "code": "ECON 280",
@@ -3184,6 +3179,11 @@
             },
             {
               "number": "2",
+              "instructor": "Taner Yiğit",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Staff",
               "schedule": []
             }
@@ -3740,7 +3740,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.28"
+          "gpa": "2.26"
         },
         {
           "code": "EEE 342",
@@ -4477,6 +4477,136 @@
     }
   },
   {
+    "ENG": {
+      "courses": [
+        {
+          "code": "ENG 101",
+          "name": "English and Composition I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "20",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "35",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "49",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "60",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "73",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "87",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "93",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "101",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "115",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.74"
+        },
+        {
+          "code": "ENG 102",
+          "name": "English and Composition II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "22",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "30",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "36",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "43",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "50",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "57",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "64",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "72",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.00"
+        }
+      ]
+    }
+  },
+  {
     "FA": {
       "courses": [
         {
@@ -4715,7 +4845,7 @@
               "schedule": []
             }
           ],
-          "gpa": "3.38"
+          "gpa": "3.40"
         },
         {
           "code": "FA 212",
@@ -5023,7 +5153,7 @@
               "schedule": []
             }
           ],
-          "gpa": "3.18"
+          "gpa": "3.14"
         },
         {
           "code": "GE 400",
@@ -5073,6 +5203,18 @@
             }
           ],
           "gpa": "2.98"
+        },
+        {
+          "code": "GE 511",
+          "name": "Philosophy of Social Inquiry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Simon Drummond Wigley",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.60"
         }
       ]
     }
@@ -5203,7 +5345,7 @@
         },
         {
           "code": "GRA 225",
-          "name": "Introduction to Visual Techniques",
+          "name": "Introduction to Visual Techniques with Al Assistance",
           "sections": [
             {
               "number": "1",
@@ -5527,6 +5669,18 @@
           ]
         },
         {
+          "code": "HART 400",
+          "name": "Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Thomas Zimmermann",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.69"
+        },
+        {
           "code": "HART 409",
           "name": "Museum Practices and the Preservation of Cultural Heritage",
           "sections": [
@@ -5695,6 +5849,91 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "3.07"
@@ -5705,6 +5944,26 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
               "instructor": "Staff",
               "schedule": []
             }
@@ -5725,6 +5984,111 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "19",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "20",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "21",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "22",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "3.55"
@@ -5737,6 +6101,11 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "3.33"
@@ -5747,6 +6116,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Staff",
               "schedule": []
             }
@@ -5855,7 +6229,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Ali Çelik",
               "schedule": []
             }
           ],
@@ -5885,6 +6259,18 @@
           "gpa": "3.83"
         },
         {
+          "code": "HIST 595",
+          "name": "Seminar in American History I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kenneth Weisbrode",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.66"
+        },
+        {
           "code": "HIST 599",
           "name": "Master's Thesis",
           "sections": [
@@ -5895,6 +6281,17 @@
             }
           ],
           "gpa": "0.00"
+        },
+        {
+          "code": "HIST 643",
+          "name": "Medieval Papacy and Churches of Europe from 1000 to 1500",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Filip Malesevic",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "HIST 658",
@@ -5967,6 +6364,17 @@
             }
           ],
           "gpa": "3.91"
+        },
+        {
+          "code": "HIST 5517",
+          "name": "Transformation of Islam in the Early Modern Ottoman Empire",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Baki Tezcan",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "HIST 5525",
@@ -6366,7 +6774,7 @@
         },
         {
           "code": "IAED 211",
-          "name": "Media for Representation ",
+          "name": "Media and Artificial Intelligence for Representation",
           "sections": [
             {
               "number": "1",
@@ -6471,7 +6879,7 @@
         },
         {
           "code": "IAED 341",
-          "name": "Architectural Acoustics",
+          "name": "Architectural Acoustics and Building Safety",
           "sections": [
             {
               "number": "1",
@@ -6499,7 +6907,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.72"
+          "gpa": "2.74"
         },
         {
           "code": "IAED 351",
@@ -6516,7 +6924,7 @@
               "schedule": []
             }
           ],
-          "gpa": "1.89"
+          "gpa": "1.88"
         },
         {
           "code": "IAED 390",
@@ -6581,7 +6989,7 @@
         },
         {
           "code": "IAED 463",
-          "name": "History of Furniture",
+          "name": "History of Interior Design and Furniture",
           "sections": [
             {
               "number": "1",
@@ -6838,7 +7246,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.37"
+          "gpa": "2.35"
         },
         {
           "code": "IE 375",
@@ -7683,7 +8091,7 @@
         },
         {
           "code": "LAUD 221",
-          "name": "Introduction to Urban Concepts",
+          "name": "Introduction to Urban Design",
           "sections": [
             {
               "number": "1",
@@ -7719,7 +8127,7 @@
         },
         {
           "code": "LAUD 301",
-          "name": "Design Studio III: Small Town",
+          "name": "Design Studio III: Town Center",
           "sections": [
             {
               "number": "1",
@@ -7755,7 +8163,7 @@
         },
         {
           "code": "LAUD 401",
-          "name": "Senior Design Studio I: Open Space Network",
+          "name": "Senior Design Studio I: Urban Systems",
           "sections": [
             {
               "number": "1",
@@ -7779,7 +8187,7 @@
         },
         {
           "code": "LAUD 471",
-          "name": "Urban Sociology",
+          "name": "City, Culture and Society",
           "sections": [
             {
               "number": "1",
@@ -7791,7 +8199,7 @@
         },
         {
           "code": "LAUD 481",
-          "name": "Landscape Ecology Studio",
+          "name": "Climate Justice & Ecological Design",
           "sections": [
             {
               "number": "1",
@@ -8021,7 +8429,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.41"
+          "gpa": "2.44"
         },
         {
           "code": "LAW 307",
@@ -8087,6 +8495,17 @@
           "gpa": "2.01"
         },
         {
+          "code": "LAW 325",
+          "name": "Legal History (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "LAW 365",
           "name": "Legal Philosophy(in Turkish)",
           "sections": [
@@ -8123,6 +8542,17 @@
           "gpa": "3.25"
         },
         {
+          "code": "LAW 400",
+          "name": "Legal Research Teams",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "LAW 401",
           "name": "Law of Negotiable Instruments (in Turkish)",
           "sections": [
@@ -8154,7 +8584,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.96"
+          "gpa": "2.90"
         },
         {
           "code": "LAW 405",
@@ -8178,7 +8608,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.75"
+          "gpa": "2.82"
         },
         {
           "code": "LAW 411",
@@ -8195,7 +8625,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.45"
+          "gpa": "2.50"
         },
         {
           "code": "LAW 412",
@@ -8207,7 +8637,7 @@
               "schedule": []
             }
           ],
-          "gpa": "1.94"
+          "gpa": "1.99"
         },
         {
           "code": "LAW 413",
@@ -8350,8 +8780,8 @@
           "gpa": "0.00"
         },
         {
-          "code": "LAW 637",
-          "name": "Corporate Finance Law (in Turkish)",
+          "code": "LAW 622",
+          "name": "Preservation of Assets in Corporations (in Turkish)",
           "sections": [
             {
               "number": "1",
@@ -8359,7 +8789,7 @@
               "schedule": []
             }
           ],
-          "gpa": "3.50"
+          "gpa": "3.31"
         },
         {
           "code": "LAW 646",
@@ -8514,7 +8944,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Betül Bostan",
               "schedule": []
             }
           ],
@@ -8550,7 +8980,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.50"
+          "gpa": "2.51"
         },
         {
           "code": "LNG 132",
@@ -9112,7 +9542,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.52"
+          "gpa": "2.50"
         },
         {
           "code": "MAN 361",
@@ -9334,6 +9764,28 @@
             {
               "number": "1",
               "instructor": "Feray Tunçalp",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 556",
+          "name": "Modelling and Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 557",
+          "name": "Decision Science and Game Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Kıbrıs",
               "schedule": []
             }
           ]
@@ -9699,7 +10151,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Konstantinos Maronikolakis",
               "schedule": []
             }
           ],
@@ -9723,12 +10175,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Enis Kaya",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Enis Kaya",
               "schedule": []
             }
           ],
@@ -9781,7 +10233,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.16"
+          "gpa": "2.17"
         },
         {
           "code": "MATH 227",
@@ -9830,7 +10282,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.35"
+          "gpa": "2.36"
         },
         {
           "code": "MATH 240",
@@ -9864,7 +10316,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.10"
+          "gpa": "2.11"
         },
         {
           "code": "MATH 242",
@@ -9881,7 +10333,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.43"
+          "gpa": "2.41"
         },
         {
           "code": "MATH 250",
@@ -9942,7 +10394,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.46"
+          "gpa": "2.47"
         },
         {
           "code": "MATH 264",
@@ -9964,7 +10416,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.35"
+          "gpa": "2.34"
         },
         {
           "code": "MATH 323",
@@ -9984,7 +10436,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cihan Bahran",
               "schedule": []
             }
           ]
@@ -10018,7 +10470,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hamza Yeşilyurt",
               "schedule": []
             }
           ]
@@ -10029,7 +10481,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aleksander Degtyarev",
               "schedule": []
             }
           ],
@@ -10052,7 +10504,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Syed Waqar Ali Shah",
               "schedule": []
             }
           ],
@@ -10064,7 +10516,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Syed Waqar Ali Shah",
               "schedule": []
             }
           ],
@@ -10076,7 +10528,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Syed Waqar Ali Shah",
               "schedule": []
             }
           ],
@@ -10112,7 +10564,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Yılmaz",
               "schedule": []
             }
           ],
@@ -10124,7 +10576,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Fatihcan Atay",
               "schedule": []
             }
           ],
@@ -10311,7 +10763,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.81"
+          "gpa": "2.80"
         },
         {
           "code": "MBG 209",
@@ -12115,7 +12567,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Alireza Fatollahi",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Alireza Fatollahi",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Nazım Keven",
               "schedule": []
             }
           ],
@@ -12127,7 +12589,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tufan Kıymaz",
               "schedule": []
             }
           ],
@@ -12139,7 +12601,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel Symonds",
               "schedule": []
             }
           ],
@@ -12151,7 +12613,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Alireza Fatollahi",
               "schedule": []
             }
           ],
@@ -12163,7 +12625,82 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mary Katrina Krizan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Yan Trefor Overfield Shaw & Arash Abazari",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Yan Trefor Overfield Shaw & Arash Abazari",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Daniel Mark Wolt & Sergio Baptista Teixeira",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Yan Trefor Overfield Shaw & James Kinkaid III",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Daniel Mark Wolt & Sergio Baptista Teixeira",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Mary Katrina Krizan",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Yan Trefor Overfield Shaw & James Kinkaid III",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Elif Hande Özer & Yehezkel Symonds",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Jennifer Lyn Schroeder & Daniel Everett Ferguson",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Yehezkel  Berkovski & Elif Hande Özer",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Elif Hande Özer & Yehezkel Symonds",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Yehezkel  Berkovski & Elif Hande Özer",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Laura Elizabeth Salgın & İrem Bengü Demirtaş",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Jennifer Lyn Schroeder & Daniel Everett Ferguson",
               "schedule": []
             }
           ],
@@ -12175,7 +12712,27 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tufan Kıymaz",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Tufan Kıymaz",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Tufan Kıymaz",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Nazım Keven & Mark Daniel Biram",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Nazım Keven & Mark Daniel Biram",
               "schedule": []
             }
           ],
@@ -12187,7 +12744,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ],
@@ -12199,7 +12756,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "James Kinkaid III",
               "schedule": []
             }
           ],
@@ -12213,6 +12770,11 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "3.20"
@@ -12223,7 +12785,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ],
@@ -12235,7 +12797,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ],
@@ -12247,7 +12814,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ],
@@ -12259,7 +12826,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ],
@@ -12271,7 +12838,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ],
@@ -12283,7 +12850,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ],
@@ -12295,7 +12862,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ],
@@ -12307,7 +12874,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mary Katrina Krizan",
               "schedule": []
             }
           ],
@@ -12319,7 +12886,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ],
@@ -12331,7 +12898,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ],
@@ -12343,7 +12910,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "James Kinkaid III",
               "schedule": []
             }
           ],
@@ -12355,7 +12922,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ],
@@ -12367,7 +12934,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ],
@@ -12379,7 +12946,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ],
@@ -12391,7 +12958,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ],
@@ -12403,7 +12970,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ],
@@ -12421,76 +12988,76 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ekmel Özbay",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Bayram Tekin",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Amirhoushang Bahrami",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Sevilay Sevinçli",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Amirhoushang Bahrami",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             }
           ],
-          "gpa": "2.46"
+          "gpa": "2.45"
         },
         {
           "code": "PHYS 102",
@@ -12498,12 +13065,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aydın Cem Keser",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
@@ -12513,12 +13080,12 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Sevilay Sevinçli",
               "schedule": []
             }
           ],
@@ -12530,7 +13097,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -12547,11 +13114,16 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             },
             {
               "number": "3",
+              "instructor": "Ceyhun Bulutay",
+              "schedule": []
+            },
+            {
+              "number": "4",
               "instructor": "Staff",
               "schedule": []
             }
@@ -12564,7 +13136,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -12576,7 +13148,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -12588,7 +13160,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -12600,7 +13172,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -12612,7 +13184,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aydın Cem Keser",
               "schedule": []
             }
           ],
@@ -12624,7 +13196,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bayram Tekin",
               "schedule": []
             }
           ],
@@ -12636,7 +13208,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ],
@@ -12648,7 +13220,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ],
@@ -12684,7 +13256,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ],
@@ -12696,7 +13268,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ],
@@ -12708,7 +13280,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             }
           ],
@@ -12720,7 +13292,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             }
           ],
@@ -12732,7 +13304,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -12744,7 +13316,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ],
@@ -12756,7 +13328,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ],
@@ -12768,7 +13340,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ceyhun Bulutay",
               "schedule": []
             }
           ],
@@ -12780,7 +13352,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ceyhun Bulutay",
               "schedule": []
             }
           ],
@@ -12822,7 +13394,7 @@
               "schedule": []
             }
           ],
-          "gpa": "2.38"
+          "gpa": "2.39"
         },
         {
           "code": "POLS 104",
@@ -13132,6 +13704,17 @@
             }
           ],
           "gpa": "3.63"
+        },
+        {
+          "code": "POLS 5510",
+          "name": "Methods and Design of Political Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Efe  Tokdemir",
+              "schedule": []
+            }
+          ]
         }
       ]
     }
@@ -14418,7 +15001,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Büşra Kurt Uçar",
               "schedule": []
             }
           ],
@@ -14435,7 +15018,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Esmaeil Kalantari",
               "schedule": []
             }
           ],
