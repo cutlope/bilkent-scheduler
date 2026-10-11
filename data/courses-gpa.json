@@ -2924,6 +2924,563 @@
     }
   },
   {
+    "EEE": {
+      "courses": [
+        {
+          "code": "EEE 102",
+          "name": "Digital Logic Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süleyman Serdar Kozat",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ergin Atalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.28"
+        },
+        {
+          "code": "EEE 202",
+          "name": "Circuit Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Levent Onural",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Levent Onural",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.11"
+        },
+        {
+          "code": "EEE 211",
+          "name": "Analog Electronics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Ülkü Sarıtaş",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Melih Baştopçu",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Abdullah Atalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.49"
+        },
+        {
+          "code": "EEE 212",
+          "name": "Microcontrollers and Embedded Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aykut Koç",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Recep Can Yavaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.47"
+        },
+        {
+          "code": "EEE 299",
+          "name": "Summer Training I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EEE 313",
+          "name": "Electronic Circuit Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erdinç Tatar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Erdinç Tatar",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Erdinç Tatar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.14"
+        },
+        {
+          "code": "EEE 321",
+          "name": "Signals and Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haldun Özaktaş",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Haldun Özaktaş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.26"
+        },
+        {
+          "code": "EEE 342",
+          "name": "Feedback Control Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ömer Morgül",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.34"
+        },
+        {
+          "code": "EEE 351",
+          "name": "Engineering Electromagnetics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Vakur Ertürk",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Vakur Ertürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.19"
+        },
+        {
+          "code": "EEE 391",
+          "name": "Basics of Signals and Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Billur Barshan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Billur Barshan",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.50"
+        },
+        {
+          "code": "EEE 392",
+          "name": "Individual Research Study",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.54"
+        },
+        {
+          "code": "EEE 399",
+          "name": "Summer Training II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EEE 414",
+          "name": "Introduction to CMOS VLSI Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Abdullah Atalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
+        },
+        {
+          "code": "EEE 424",
+          "name": "Digital Signal Processing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süleyman Serdar Kozat",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.36"
+        },
+        {
+          "code": "EEE 428",
+          "name": "Optics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orhan Aytür",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.22"
+        },
+        {
+          "code": "EEE 431",
+          "name": "Digital Communications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sinan Gezici",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.48"
+        },
+        {
+          "code": "EEE 443",
+          "name": "Neural Networks",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.07"
+        },
+        {
+          "code": "EEE 444",
+          "name": "Robust Feedback Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.58"
+        },
+        {
+          "code": "EEE 474",
+          "name": "Foundations of Magnetic Resonance Imaging",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ergin Atalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.98"
+        },
+        {
+          "code": "EEE 485",
+          "name": "Statistical Learning and Data Analytics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cem Tekin",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.53"
+        },
+        {
+          "code": "EEE 486",
+          "name": "Statistical Foundations of Natural Language Processing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aykut Koç",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.41"
+        },
+        {
+          "code": "EEE 491",
+          "name": "Electrical and Electronics Engineering Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İsmail Enis Ungan",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.81"
+        },
+        {
+          "code": "EEE 492",
+          "name": "Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.93"
+        },
+        {
+          "code": "EEE 493",
+          "name": "Industrial Design Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Alper Kutay",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Alper Kutay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.73"
+        },
+        {
+          "code": "EEE 495",
+          "name": "Electrical and Electronics Engineering Design II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Alper Kutay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.48"
+        },
+        {
+          "code": "EEE 497",
+          "name": "Digital Signal Processing Laboratory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Soner",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 501",
+          "name": "Linear System Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "A. Bülent Özgüler",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.32"
+        },
+        {
+          "code": "EEE 514",
+          "name": "Introduction to CMOS VLSI Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Abdullah Atalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.23"
+        },
+        {
+          "code": "EEE 528",
+          "name": "Optics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orhan Aytür",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.11"
+        },
+        {
+          "code": "EEE 533",
+          "name": "Random Processes",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nail Akar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.40"
+        },
+        {
+          "code": "EEE 534",
+          "name": "Wireless Communications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Tuğfe Demir",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.65"
+        },
+        {
+          "code": "EEE 543",
+          "name": "Neural Networks",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.54"
+        },
+        {
+          "code": "EEE 544",
+          "name": "Robust Feedback Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.94"
+        },
+        {
+          "code": "EEE 550",
+          "name": "Nanoelectronic Devices: Physics and Technology ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekmel Özbay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.68"
+        },
+        {
+          "code": "EEE 574",
+          "name": "Foundations of Magnetic Resonance Imaging",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ergin Atalar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.17"
+        },
+        {
+          "code": "EEE 585",
+          "name": "Statistical Learning and Data Analytics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cem Tekin",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.42"
+        },
+        {
+          "code": "EEE 586",
+          "name": "Statistical Foundations of Natural Language Processing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aykut Koç",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.30"
+        },
+        {
+          "code": "EEE 591",
+          "name": "Graduate Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Tuğfe Demir",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EEE 592",
+          "name": "Graduate Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Tuğfe Demir",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EEE 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "EEE 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        }
+      ]
+    }
+  },
+  {
     "ELIT": {
       "courses": [
         {
@@ -3877,7 +4434,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Mehmet Alper Kutay",
+              "instructor": "Tolga Baycan & Jülide Akşiyote Görür & Yiğit Karpat & Mehmet Alper Kutay",
               "schedule": []
             }
           ],

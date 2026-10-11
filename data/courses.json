@@ -222,19 +222,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "FF-201(S)"
+                  "classroom": "FF-114(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": "FF-201"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 38,
-                  "classroom": "FF-201"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 45,
-                  "classroom": "FF-201"
+                  "classroom": "FF-114"
                 }
               ]
             },
@@ -3671,19 +3671,19 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "FF-201"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 25,
-                  "classroom": "FF-201"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 50,
-                  "classroom": "FF-201"
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 57,
-                  "classroom": "FF-201(S)"
+                  "classroom": "FF-114(S)"
                 }
               ]
             }
@@ -3699,19 +3699,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "FF-201(S)"
+                  "classroom": "FC-209(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": "FF-201"
+                  "classroom": "FC-209"
                 },
                 {
                   "slot": 39,
-                  "classroom": "FF-201"
+                  "classroom": "FC-209"
                 },
                 {
                   "slot": 46,
-                  "classroom": "FF-201"
+                  "classroom": "FC-209"
                 }
               ]
             },
@@ -8898,6 +8898,1530 @@
     }
   },
   {
+    "EEE": {
+      "courses": [
+        {
+          "code": "EEE 102",
+          "name": "Digital Logic Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süleyman Serdar Kozat",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EE-317"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ergin Atalar",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 202",
+          "name": "Circuit Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Levent Onural",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 14,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 15,
+                  "classroom": "EE-214(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-214"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Levent Onural",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EE-04(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-211"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 211",
+          "name": "Analog Electronics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Ülkü Sarıtaş",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Melih Baştopçu",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 3,
+                  "classroom": ""
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 17,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EE-317"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Abdullah Atalar",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-LAB101"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-LAB101"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EE-LAB101"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-LAB101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 212",
+          "name": "Microcontrollers and Embedded Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aykut Koç",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": ""
+                },
+                {
+                  "slot": 4,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 16,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-517"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Recep Can Yavaş",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 299",
+          "name": "Summer Training I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 313",
+          "name": "Electronic Circuit Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erdinç Tatar",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": ""
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 17,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-05"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Erdinç Tatar",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Erdinç Tatar",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 17,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 321",
+          "name": "Signals and Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haldun Özaktaş",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 14,
+                  "classroom": "EE-04(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EE-04"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Haldun Özaktaş",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EE-03(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 342",
+          "name": "Feedback Control Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EE-317"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ömer Morgül",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 351",
+          "name": "Engineering Electromagnetics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Vakur Ertürk",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-05"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Vakur Ertürk",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EE-214(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-214"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 391",
+          "name": "Basics of Signals and Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Billur Barshan",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-317"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Billur Barshan",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "EE-317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 392",
+          "name": "Individual Research Study",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 399",
+          "name": "Summer Training II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 414",
+          "name": "Introduction to CMOS VLSI Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Abdullah Atalar",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-517"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 424",
+          "name": "Digital Signal Processing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süleyman Serdar Kozat",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EE-03(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EE-03"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EE-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 428",
+          "name": "Optics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orhan Aytür",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EB-203(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EB-203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 431",
+          "name": "Digital Communications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sinan Gezici",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "EE-05(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 443",
+          "name": "Neural Networks",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EE-214(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-214"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 444",
+          "name": "Robust Feedback Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 474",
+          "name": "Foundations of Magnetic Resonance Imaging",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ergin Atalar",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EE-517"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 485",
+          "name": "Statistical Learning and Data Analytics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cem Tekin",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EE-412(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-412"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 486",
+          "name": "Statistical Foundations of Natural Language Processing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aykut Koç",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EE-05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 491",
+          "name": "Electrical and Electronics Engineering Design I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İsmail Enis Ungan",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "EE-04"
+                },
+                {
+                  "slot": 40,
+                  "classroom": ""
+                },
+                {
+                  "slot": 47,
+                  "classroom": ""
+                },
+                {
+                  "slot": 54,
+                  "classroom": ""
+                },
+                {
+                  "slot": 61,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 492",
+          "name": "Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 493",
+          "name": "Industrial Design Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Alper Kutay",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Alper Kutay",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 495",
+          "name": "Electrical and Electronics Engineering Design II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Alper Kutay",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 497",
+          "name": "Digital Signal Processing Laboratory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burak Soner",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "EE-211"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-211"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 501",
+          "name": "Linear System Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "A. Bülent Özgüler",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EE-412(S)"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EE-412"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 514",
+          "name": "Introduction to CMOS VLSI Design",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Abdullah Atalar",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "EE-517"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 528",
+          "name": "Optics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Orhan Aytür",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EB-203(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EB-203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 533",
+          "name": "Random Processes",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nail Akar",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "EA-Z01(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "EA-Z01"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "EA-Z01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 534",
+          "name": "Wireless Communications",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Tuğfe Demir",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "EB-203(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "EB-203"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "EB-203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 543",
+          "name": "Neural Networks",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "EE-214(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "EE-214"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "EE-214"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 544",
+          "name": "Robust Feedback Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hitay Özbay",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "EE-317"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "EE-317(S)"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "EE-317"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 550",
+          "name": "Nanoelectronic Devices: Physics and Technology ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ekmel Özbay",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "SA-Z04"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "SA-Z04(S)"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "SA-Z04"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "SA-Z04"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 574",
+          "name": "Foundations of Magnetic Resonance Imaging",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ergin Atalar",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "EE-517(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "EE-517"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 585",
+          "name": "Statistical Learning and Data Analytics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Cem Tekin",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "EE-412(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "EE-412"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "EE-412"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 586",
+          "name": "Statistical Foundations of Natural Language Processing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aykut Koç",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "EE-05(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "EE-05"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "EE-05"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 591",
+          "name": "Graduate Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Tuğfe Demir",
+              "schedule": [
+                {
+                  "slot": 53,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-517"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 592",
+          "name": "Graduate Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Tuğfe Demir",
+              "schedule": [
+                {
+                  "slot": 53,
+                  "classroom": "EE-517"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "EE-517"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "ELIT": {
       "courses": [
         {
@@ -9719,79 +11243,79 @@
               "schedule": [
                 {
                   "slot": 5,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 12,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 18,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 19,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 25,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 26,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 32,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 33,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 39,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 40,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 46,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 47,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 53,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 54,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 60,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 61,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 67,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 68,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 },
                 {
                   "slot": 74,
-                  "classroom": "MA-103"
+                  "classroom": ""
                 }
               ]
             }
@@ -12023,7 +13547,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Mehmet Alper Kutay",
+              "instructor": "Tolga Baycan & Jülide Akşiyote Görür & Yiğit Karpat & Mehmet Alper Kutay",
               "schedule": [
                 {
                   "slot": 16,
@@ -14765,19 +16289,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "T-268(S)"
+                  "classroom": "B-Z05(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": "T-268"
+                  "classroom": "B-Z05"
                 },
                 {
                   "slot": 39,
-                  "classroom": "T-268"
+                  "classroom": "B-Z05"
                 },
                 {
                   "slot": 46,
-                  "classroom": "T-268"
+                  "classroom": "B-Z05"
                 }
               ]
             },
@@ -14787,19 +16311,19 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "T-169(S)"
+                  "classroom": "B-Z05(S)"
                 },
                 {
                   "slot": 23,
-                  "classroom": "T-169"
+                  "classroom": "B-Z05"
                 },
                 {
                   "slot": 53,
-                  "classroom": "T-169"
+                  "classroom": "B-Z05"
                 },
                 {
                   "slot": 60,
-                  "classroom": "T-169"
+                  "classroom": "B-Z05"
                 }
               ]
             }
@@ -15072,19 +16596,19 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "A-230"
+                  "classroom": "T-268"
                 },
                 {
                   "slot": 23,
-                  "classroom": "A-230"
+                  "classroom": "T-268"
                 },
                 {
                   "slot": 53,
-                  "classroom": "A-230"
+                  "classroom": "T-268"
                 },
                 {
                   "slot": 60,
-                  "classroom": "A-230(S)"
+                  "classroom": "T-268(S)"
                 }
               ]
             }
@@ -16018,11 +17542,11 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "G-Z54(S)"
+                  "classroom": "G-Z54"
                 },
                 {
                   "slot": 25,
-                  "classroom": "G-Z54"
+                  "classroom": "G-Z54(S)"
                 },
                 {
                   "slot": 50,
@@ -17736,19 +19260,19 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "FF-201"
+                  "classroom": "FF-312"
                 },
                 {
                   "slot": 23,
-                  "classroom": "FF-201"
+                  "classroom": "FF-312"
                 },
                 {
                   "slot": 53,
-                  "classroom": "FF-201"
+                  "classroom": ""
                 },
                 {
                   "slot": 60,
-                  "classroom": "FF-201(S)"
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -24076,11 +25600,11 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "B-204(S)"
+                  "classroom": "B-204"
                 },
                 {
                   "slot": 23,
-                  "classroom": "B-204"
+                  "classroom": "B-204(S)"
                 },
                 {
                   "slot": 53,
@@ -25953,19 +27477,19 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "SB-Z11"
+                  "classroom": "SB-Z04"
                 },
                 {
                   "slot": 21,
-                  "classroom": "SB-Z11"
+                  "classroom": "SB-Z04"
                 },
                 {
                   "slot": 51,
-                  "classroom": "SB-Z11"
+                  "classroom": "SB-Z04"
                 },
                 {
                   "slot": 58,
-                  "classroom": "SB-Z11(S)"
+                  "classroom": "SB-Z04(S)"
                 }
               ]
             }
@@ -29065,7 +30589,7 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "SU-01"
+                  "classroom": "SU-01(S)"
                 },
                 {
                   "slot": 9,
@@ -29073,7 +30597,7 @@
                 },
                 {
                   "slot": 39,
-                  "classroom": "SU-01(S)"
+                  "classroom": "SU-01"
                 },
                 {
                   "slot": 46,
@@ -34287,11 +35811,11 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "A-330(S)"
+                  "classroom": "A-330"
                 },
                 {
                   "slot": 24,
-                  "classroom": "A-330"
+                  "classroom": "A-330(S)"
                 },
                 {
                   "slot": 49,
